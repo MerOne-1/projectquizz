@@ -1,0 +1,655 @@
+{
+    "theme": "Physiologie",
+    "questions": [
+        {
+            "question": "Une extrasystole ventriculaire:",
+            "options": [
+                "n’est jamais isolée mais toujours en salves.",
+                "prend naissance dans le ventricule sans modifier le QRS.",
+                "provient d’une anomalie du nœud sinusal.",
+                "prend naissance dans le ventricule et provoque un élargissement important du QRS.",
+                "n’est jamais aléatoire mais revient toujours après le même nombre de cycles cardiaques."
+            ],
+            "correct_answers": [
+                "prend naissance dans le ventricule et provoque un élargissement important du QRS."
+            ]
+        },
+        {
+            "question": "Le « mal des transports » :",
+            "options": [
+                "Le « mal des transports » apparaît quand il y a un conflit de signification entre les informations qui proviennent de l’appareil vestibulaire et de la vision.",
+                "Les accélérations angulaires ne favorisent pas l’apparition du « mal des transports ».",
+                "Le risque d’apparition du « mal des transports » est élevé quand un sujet se déplace en voiture sur une route comportant de nombreux virages.",
+                "L’appareil vestibulaire n’est pas le seul système neuro-physiologique impliqué dans l’apparition du « mal des transports ».",
+                "Les canaux semi-circulaires jouent un rôle dans l’apparition du « mal des transports »."
+            ],
+            "correct_answers": [
+                "Les accélérations angulaires ne favorisent pas l’apparition du « mal des transports »."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’angiotensine II entraîne une vasoconstriction des artérioles afférentes ET efférentes.",
+                "La rénine transforme l’angiotensine I en angiotensine II.",
+                "Le peptide auriculaire natriurétique (atrial natriuretic peptide) diminue le débit de filtration glomérulaire.",
+                "L’angiotensine II augmente le débit sanguin rénal.",
+                "Une augmentation de l’activité nerveuse sympathique rénale augmente le débit de filtration glomérulaire."
+            ],
+            "correct_answers": [
+                "L’angiotensine II entraîne une vasoconstriction des artérioles afférentes ET efférentes."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’ADH stimule la synthèse des aquaporines de l’anse de Henlé.",
+                "Le furosémide inhibe la pompe Na-K A TPase.",
+                "La réabsorption de l’eau par le tubule est primitivement la conséquence de l’activité des vasa recta.",
+                "La réabsorption du sodium par le tubule est due à la présence de canaux sodium tout au long du tubule.",
+                "La réabsorption du sodium par le tubule est partiellement régulée par des variations de pression sur la paroi des capillaires péritubulaires."
+            ],
+            "correct_answers": [
+                "La réabsorption du sodium par le tubule est partiellement régulée par des variations de pression sur la paroi des capillaires péritubulaires."
+            ]
+        },
+        {
+            "question": "L’événement ionique responsable de la phase de dépolarisation des potentiels d’action des cellules nerveuses est:",
+            "options": [
+                "Entrée de potassium dans la cellule",
+                "Entrée de chlore dans la cellule",
+                "Sortie de potassium de la cellule",
+                "Entrée de calcium dans la cellule",
+                "Entrée de sodium dans la cellule"
+            ],
+            "correct_answers": [
+                "Entrée de sodium dans la cellule"
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’aldostérone diminue la sécrétion de potassium dans la lumière tubulaire par diminution du nombre de canaux potassium de la membrane apicale des cellules du tube collecteur.",
+                "Une acidose plasmatique favorise l’hypokaliémie.",
+                "Une augmentation du débit tubulaire augmente la sécrétion de potassium.",
+                "L’ACTH est le principal facteur stimulant la sécrétion surrénalienne de l’aldostérone.",
+                "Le tubule a une activité exclusive de sécrétion de potassium en cas d’ingestion importante de potassium."
+            ],
+            "correct_answers": [
+                "Une augmentation du débit tubulaire augmente la sécrétion de potassium."
+            ]
+        },
+        {
+            "question": "Le diaphragme est:",
+            "options": [
+                "un muscle essentiellement expiratoire.",
+                "innervé par les nerfs phréniques issus des racines D1 à D3 de la moelle épinière.",
+                "un muscle musculaire lisse.",
+                "s’attache en partie au rachis.",
+                "uniquement sous contrôle automatique."
+            ],
+            "correct_answers": [
+                "s’attache en partie au rachis."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Le gradient de pressions à l’origine de la diffusion est plus important pour le gaz carbonique que pour l’oxygène.",
+                "L’oxygène diffuse plus vite à travers la membrane alvéolo-capillaire que le gaz carbonique.",
+                "La diffusion de protoxyde d’azote est complète vers la moitié du parcours du capillaire pulmonaire par le sang.",
+                "La diffusion du monoxyde de carbone est limitée par la capacité de diffusion de la membrane alvéolo-capillaire.",
+                "Un frein important à la diffusion de l’oxygène à travers la membrane alvéolo-capillaire est constitué par la liaison de l’oxygène à l’hémoglobine."
+            ],
+            "correct_answers": [
+                "La diffusion du monoxyde de carbone est limitée par la capacité de diffusion de la membrane alvéolo-capillaire."
+            ]
+        },
+        {
+            "question": "La liaison de l’acétylcholine sur le récepteur nicotinique:",
+            "options": [
+                "Provoque l’ouverture d’un canal qui laisse entrer du sodium dans la cellule.",
+                "Provoque la fermeture d’un canal qui laisse entrer du potassium dans la cellule.",
+                "Active une protéine G1.",
+                "Provoque l’ouverture d’un canal qui laisse sortir du potassium de la cellule.",
+                "Active une protéine Gs."
+            ],
+            "correct_answers": [
+                "Provoque l’ouverture d’un canal qui laisse entrer du sodium dans la cellule."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte. Lors d’une augmentation de la pression moyenne dans l’artère pulmonaire,",
+            "options": [
+                "la fréquence respiratoire diminue.",
+                "les artères bronchiques présentent une vasoconstriction.",
+                "les capillaires pulmonaires se dilatent.",
+                "la résistance vasculaire pulmonaire augmente.",
+                "des shunts se ferment."
+            ],
+            "correct_answers": [
+                "les capillaires pulmonaires se dilatent."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule bonne réponse",
+            "options": [
+                "La médullosurrénale libère de l’acétylcholine dans le sang.",
+                "Le premier neurone (pré-ganglionnaire) du système parasympathique libère de l’adrénaline.",
+                "Les récepteurs nicotiniques sont présents sur les corps cellulaire des neurones post-ganglionnaires (seconds neurones) du système végétatif.",
+                "Le premier neurone (pré-ganglionnaire) du système sympathique libère de la noradrénaline.",
+                "La corticosurrénale libère de l’adrénaline dans le sang."
+            ],
+            "correct_answers": [
+                "Les récepteurs nicotiniques sont présents sur les corps cellulaire des neurones post-ganglionnaires (seconds neurones) du système végétatif."
+            ]
+        },
+        {
+            "question": "SELECTIONNER L A SEULE BONNE PROPOSITION. Le tronc cérébral :",
+            "options": [
+                "Le réflexe myotatique n’est pas contrôlé par le tronc cérébral.",
+                "La voie vestibulo-spinale augmente le tonus des muscles extenseurs.",
+                "Une section du tronc cérébral en dessous du noyau rouge diminue le tonus musculaire des muscles extenseurs.",
+                "La voie rubro-spinale stimule les moto-neurones des muscles extenseurs.",
+                "La voie vestibulo-spinale augmente l’activité des muscles fléchisseurs et inhibe celle des muscles extenseurs."
+            ],
+            "correct_answers": [
+                "La voie vestibulo-spinale augmente le tonus des muscles extenseurs."
+            ]
+        },
+        {
+            "question": "Système végétatif",
+            "options": [
+                "Les neurones pré-ganglionnaires (1  neurone) du système para-sympathique sont longs.",
+                "Les neurones post-ganglionnaires (seconds neurones) du système sympathique sont toujours longs.",
+                "Le nerf vague correspond à la XI éme paire de nerfs crâniens.",
+                "La médullosurrénale est innervée par des premiers neurones adrénergiques qui induisent indirectement la libération d’acétylcholine par la corticosurrénale.",
+                "Le système végétatif est totalement déconnecté du système nerveux central."
+            ],
+            "correct_answers": [
+                "Les neurones pré-ganglionnaires (1  neurone) du système para-sympathique sont longs."
+            ]
+        },
+        {
+            "question": "Sélectionnez la seule bonne réponse:",
+            "options": [
+                "La voie rubro-spinale stimule les muscle fléchisseurs distaux et les muscles extenseurs axiaux.",
+                "La voie rubro-spinale inhibe les muscle fléchisseurs distaux et les muscles extenseurs axiaux.",
+                "La voie rubro-spinale inhibe les muscle fléchisseurs distaux.",
+                "La voie rubro-spinale inhibe les muscle fléchisseurs distaux et stimule les muscles extenseurs axiaux.",
+                "La voie rubro-spinale stimule les muscle fléchisseurs distaux et inhibe les muscles extenseurs axiaux."
+            ],
+            "correct_answers": [
+                "La voie rubro-spinale stimule les muscle fléchisseurs distaux et inhibe les muscles extenseurs axiaux."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "En cas d’acidose respiratoire, la concentration sanguine en ions bicarbonates augmente.",
+                "Les centres neurologiques régulant la respiration sont situées dans partie haute de la moelle épinière.",
+                "Le système tampon du sang est uniquement constitué par le système tampon gaz carbonique / ions bicarbonates.",
+                "Le système tampon gaz carbonique / ions bicarbonates est un système tampon fermé.",
+                "Le pH artériel est le facteur majeur de régulation de la respiration."
+            ],
+            "correct_answers": [
+                "En cas d’acidose respiratoire, la concentration sanguine en ions bicarbonates augmente."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Une alcalose respiratoire est due à une augmentation de la concentration plasmatique des ions bicarbonates.",
+                "Une section de la moelle épinière à hauteur de la 6  vertèbre cervicale a pour conséquence une paralysie du diaphragme.",
+                "Le monoxyde de carbone diminue la concentration du 2,3 diphosphoglycérate dans les hématies.",
+                "En présence d’un shunt, l’utilisation d’oxygène pur permet de normaliser la pression partielle en oxygène.",
+                "La mesure de la pression partielle en azote dans l’air expiré (méthode de Fowler) permet la mesure du volume résiduel."
+            ],
+            "correct_answers": [
+                "La mesure de la pression partielle en azote dans l’air expiré (méthode de Fowler) permet la mesure du volume résiduel."
+            ]
+        },
+        {
+            "question": "La phase deux des potentiels d’action des cellules cardiaques contractiles :",
+            "options": [
+                "permet l’entrée de calcium dans la cellule qui provoquera une augmentation de la contractilité.",
+                "augmente de durée sous l’action des substances inhibitrices des canaux calciques de type L.",
+                "correspond à une entrée de calcium dans la cellule.",
+                "correspond à un équilibre relatif entre l’entrée du calcium dans les cellules par les canaux calciques de type L et la sortie de potassium de la cellule par des canaux spécifiques.",
+                "correspond à une relative stabilité du potentiel de la membrane."
+            ],
+            "correct_answers": [
+                "augmente de durée sous l’action des substances inhibitrices des canaux calciques de type L."
+            ]
+        },
+        {
+            "question": "Sélectionnez la seule bonne proposition. Les récepteurs phasiques:",
+            "options": [
+                "S’adaptent lentement à la stimulation.",
+                "Cessent de transmettre des potentiels d’action sur la fibre afférente avant la fin de la stimulation.",
+                "Transmettent des potentiels d’action sur la fibre afférente durant toute la durée de la stimulation.",
+                "Ne s’adaptent jamais à la stimulation.",
+                "Répondent longtemps après le début de la stimulation mécanique."
+            ],
+            "correct_answers": [
+                "Cessent de transmettre des potentiels d’action sur la fibre afférente avant la fin de la stimulation."
+            ]
+        },
+        {
+            "question": "Composition ionique des liquides biologiques :",
+            "options": [
+                "La concentration de chlorures est plus élevée à l’extérieur de la cellule qu’à l’intérieur.",
+                "La concentration de calcium est homogène à l’intérieur de la cellule.",
+                "La concentration de bicarbonate est plus faible à l’extérieur de la cellule qu’à l’intérieur.",
+                "La concentration de protéines ionisées est plus faible à l’intérieur de la cellule qu’à l’extérieur.",
+                "La concentration de sodium intracellulaire est supérieure à celle du potassium."
+            ],
+            "correct_answers": [
+                "La concentration de chlorures est plus élevée à l’extérieur de la cellule qu’à l’intérieur."
+            ]
+        },
+        {
+            "question": "Selon la loi de Frank-S tarling:",
+            "options": [
+                "Le volume d'éjection du ventricule gauche est plus important que celui du ventricule droit.",
+                "Les deux ventricules se contractent simultanément.",
+                "Le volume d'éjection systolique augmente avec la fréquence cardiaque.",
+                "Le volume d'éjection systolique augmente quand le retour veineux augmente.",
+                "Le rythme d'un coeur humain isolé de l'organisme est de 100 battements par minute."
+            ],
+            "correct_answers": [
+                "Le volume d'éjection systolique augmente quand le retour veineux augmente."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule pr oposition exact e :",
+            "options": [
+                "L’unité motrice des muscles posturaux innerve un petit nombre de cellules musculaires.",
+                "Le réflexe myotatique joue un rôle négligeable dans le rôle physiologique des muscles posturaux.",
+                "Les muscles posturaux se contactent très rapidement.",
+                "Les muscles extenseurs sont souvent des muscles posturaux.",
+                "Les muscles posturaux sont rarement sollicités."
+            ],
+            "correct_answers": [
+                "Les muscles extenseurs sont souvent des muscles posturaux."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "le système nerveux entérique est entièrement moteur",
+                "la salive sécrète de la pepsine",
+                "la bile a un pH acide",
+                "l’épithélium œsophagien est stratifié",
+                "la secrétine est sécrétée par la muqueuse gastrique"
+            ],
+            "correct_answers": [
+                "l’épithélium œsophagien est stratifié"
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte La capacité résiduelle fonctionnelle peut se mesurer :",
+            "options": [
+                "par utilisation du zénon.",
+                "en utilisant du monoxyde de carbone.",
+                "uniquement chez un sujet en position debout.",
+                "en utilisant la loi de conservation des masses.",
+                "en utilisant un pneumotachygraphe."
+            ],
+            "correct_answers": [
+                "en utilisant la loi de conservation des masses."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule pr oposition exact e: Lors de la phase de dépolarisation d'un potentiel d'action de cellule nerveuse:",
+            "options": [
+                "Les canaux sodiques voltage-dépendants commencent à se fermer.",
+                "Les canaux sodiques voltage-dépendants restent dans la conformation fermée non activable.",
+                "Les canaux potassiques voltage-dépendants commencent à se fermer.",
+                "La cellule est en période réfractaire relative.",
+                "Les canaux potassiques voltage-dépendants commencent à s'ouvrir."
+            ],
+            "correct_answers": [
+                "Les canaux potassiques voltage-dépendants commencent à s'ouvrir."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte: le foie reçoit du sang de...",
+            "options": [
+                "le foie reçoit du sang de l’artère porte et de la veine porte",
+                "le foie reçoit du sang de l’artère hépatique et de la veine porte",
+                "le foie reçoit du sang de la veine porte et de l’artère mésentérique supérieure",
+                "le foie reçoit du sang de l’artère hépatique et de la veine intestinale",
+                "le foie reçoit du sang de l’artère hépatique et de la veine cave inférieure"
+            ],
+            "correct_answers": [
+                "le foie reçoit du sang de l’artère hépatique et de la veine porte"
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte: L’automatisme cardiaque...",
+            "options": [
+                "La section de toutes les voies nerveuses afférentes au cœur a pour effet de ralentir le rythme cardiaque.",
+                "La noradrénaline augmente l’intensité du courant if en stimulant la production d’AMP c dans les cellules du nœud sinusal.",
+                "Chez un individu « en bonne santé » l’automatisme cardiaque siège dans le nœud auricule-ventriculaire.",
+                "Une faible dose d’acétylcholine active uniquement le courant IK dépendant de l’activation des récepteurs muscariniques, alors qu’une forte dose active aussi ce courant, mais augmentre le courant if.",
+                "L’automatisme cardiaque est initié par l’activation d’un courant calcique (ICaT), suivit par celle du courant if."
+            ],
+            "correct_answers": [
+                "La noradrénaline augmente l’intensité du courant if en stimulant la production d’AMP c dans les cellules du nœud sinusal."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Le débit de filtration glomérulaire augmente quand le débit sanguin rénal augmente.",
+                "Chez un sujet ayant des variations de pression artérielle moyenne dans une zone normale (100 – 140 mm Hg), le débit de filtration glomérulaire augmente quand la pression sanguine augmente.",
+                "La fraction de filtration augmente quand le débit sanguin rénal augmente.",
+                "Les pressions s’exerçant sur la paroi des capillaires péritubulaires favorisent l’excrétion urinaire des solutés.",
+                "Les résistances vasculaires rénales sont principalement la conséquence de celles des capillaires glomérulaires."
+            ],
+            "correct_answers": [
+                "Le débit de filtration glomérulaire augmente quand le débit sanguin rénal augmente."
+            ]
+        },
+        {
+            "question": "Le débit cardiaque :",
+            "options": [
+                "n’est pas modifié quand le sujet passe du repos à une activité physique intense.",
+                "correspond pour un sujet adulte à la fréquence cardiaque maximale du nourrisson diminuée de l'âge de l'adulte, et multipliée par le volume d’éjection systolique.",
+                "augmente quand le système parasympathique est stimulé.",
+                "correspond à la fréquence cardiaque (nombre de battements par minute) multipliée par le volume d’éjection systolique.",
+                "diminue quand le système sympathique est stimulé."
+            ],
+            "correct_answers": [
+                "correspond à la fréquence cardiaque (nombre de battements par minute) multipliée par le volume d’éjection systolique."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’effet Haldane permet d’obtenir une pression en gaz carbonique plus basse quand l’oxygène se fixe sur l’hémoglobine.",
+                "L’addition de 2,3 DPG diminue l’affinité de l’oxygène pour l’hémoglobine.",
+                "Chez un sujet en position debout, la pression en oxygène dans le sang est plus faible à la sortie des capillaires situés au sommet des poumons qu’à celle des capillaires des bases pulmonaires.",
+                "L’effet shunt est présent quand une zone ventilée n’est pas perfusée.",
+                "Le canal thoracique relie l’artère pulmonaire à l’aorte chez le fœtus."
+            ],
+            "correct_answers": [
+                "L’addition de 2,3 DPG diminue l’affinité de l’oxygène pour l’hémoglobine."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule pr oposition inexact e : Les cordons postérieurs transmettent les informations sensitives suivantes, sauf une :",
+            "options": [
+                "Proprioception consciente concernant la position des membres.",
+                "Vibration appliquées à la peau.",
+                "Pression légères exercées sur la peau.",
+                "Douleurs cutanées d’origine mécanique et thermique.",
+                "Sensations fines et discriminées du touché."
+            ],
+            "correct_answers": [
+                "Douleurs cutanées d’origine mécanique et thermique."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Le surfactant est secrété par les glandes muqueuses des bronches.",
+                "Les pressions alvéolaires des gaz peut s’apprécier à partir des pressions mesurées dans l’air expiré.",
+                "Lors du cycle cardiaque, la circulation pulmonaire sanguine s’effectue dans tous les capillaires lors de la diastole.",
+                "La quantité de sang dans les poumons est environ 1 litre.",
+                "Le débit sanguin pulmonaire se calculé grâce à des mesures de la pression du gaz carbonique dans différents prélèvements sanguins et aériens."
+            ],
+            "correct_answers": [
+                "Les pressions alvéolaires des gaz peut s’apprécier à partir des pressions mesurées dans l’air expiré."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’oxytocine stimule la production cellulaire du lait.",
+                "La mélatonine est sécrétée principalement durant la période diurne.",
+                "La progestérone est une hormone stimulant l’aspect sécrétoire de la muqueuse utérine.",
+                "La ménopause est liée à une diminution de l’activité hypophysaire.",
+                "La concentration élevée de testostérone dans la lumière du tube séminifère est la conséquence d’une sécrétion d’une prostacycline par les cellules de Sertoli."
+            ],
+            "correct_answers": [
+                "La progestérone est une hormone stimulant l’aspect sécrétoire de la muqueuse utérine."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’augmentation de la concentration de l’hémoglobine à l’intérieur des hématies diminue le contenu de l’oxygène fixé sur l’hémoglobine à une pression en oxygène de 40 mmHg.",
+                "Rapporté au poids et au début d’une inspiration normale, le volume d’air présent dans la partie supérieure des poumons est plus important qu’à la base des poumons.",
+                "La résistance des voies aériennes est plus élevée lors de l’inspiration que lors de l’expiration.",
+                "La pression intra-pleurale diminue lors de l’inspiration.",
+                "La pression alvéolaire diminue lors de l’expiration."
+            ],
+            "correct_answers": [
+                "La pression intra-pleurale diminue lors de l’inspiration."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Le tonus musculaire dépend du réflexe myotatique inverse.",
+                "Le tonus du quadriceps permet la station debout, et est provoqué par le réflexe myotatique.",
+                "Le phénomène de la « roue dentée » s'observe lors d'hypotonie sévère.",
+                "La maladie de Parkinson est rarement associée à une hypertonie musculaire.",
+                "Le réflexe ostéo-tendineux permet d'explorer les réflexes poly-synaptiques de flexion, à point de départ cutané."
+            ],
+            "correct_answers": [
+                "Le tonus du quadriceps permet la station debout, et est provoqué par le réflexe myotatique."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L'antagoniste du récepteur muscarinique M2 est la muscarine.",
+                "Le récepteur muscarinique M2 est absent du coeur.",
+                "Le GABA est un agoniste du récepteur muscarinique M2.",
+                "Le récepteur muscarinique M2 est un récepteur canal à la différence des autres récepteurs muscariniques.",
+                "Le récepteur muscarinique M2 est associé à une protéine Gi."
+            ],
+            "correct_answers": [
+                "Le récepteur muscarinique M2 est associé à une protéine Gi."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "La sécrétion de la salive est accentuée par une stimulation du système nerveux sympathique.",
+                "La salive contient une protéase.",
+                "L'absorption intestinale du glucose s’effectue de façon passive.",
+                "La cholecystokinine diminue la contractilité gastrique.",
+                "L'œsophage est recouvert par un épithélium mono-couche."
+            ],
+            "correct_answers": [
+                "La cholecystokinine diminue la contractilité gastrique."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "L’acidose métabolique due à une diarrhée est responsable d’une forte modification de la ventilation.",
+                "La ventilation diminue mais reste régulière durant la phase de sommeil associée à des mouvements rapides des yeux.",
+                "Les corpuscules carotidiens ont une sensibilité plus élevée lorsque le pH diminue.",
+                "La capacité maximale de capitation de l’oxygène par l’organisme est limitée par la capacité musculaire à fixer l’oxygène.",
+                "Les corpuscules carotidiens sont des récepteurs mesurant le contenu sanguin en oxygène."
+            ],
+            "correct_answers": [
+                "Les corpuscules carotidiens ont une sensibilité plus élevée lorsque le pH diminue."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Le gaz carbonique diffuse plus vite que l’oxygène à travers la membrane alvéolo-capillaire.",
+                "La diffusion du protoxyde d’azote est limitée par le débit sanguin et la capacité de diffusion de la membrane alvéolo-capillaire.",
+                "Lors de l’exploration fonctionnelle respiratoire, la capacité de diffusion de la membrane alvéolo-capillaire est mesurée par des mesures de pressions d’oxygène.",
+                "La réserve de diffusion du gaz carbonique est plus faible que celle de l’oxygène.",
+                "La diffusion du monoxyde de carbone est limitée par le débit sanguin dans les capillaires."
+            ],
+            "correct_answers": [
+                "Le gaz carbonique diffuse plus vite que l’oxygène à travers la membrane alvéolo-capillaire."
+            ]
+        },
+        {
+            "question": "L’influx nerveux :",
+            "options": [
+                "les variations de l’intensité d’un influx nerveux correspondent à des modifications de la fréquence de décharge de salves de potentiels d’action.",
+                "correspond à la propagation de potentiels d’action le long de la membrane de l’axone.",
+                "correspond à une propagation électrotonique d’un courant électrique le long de la membrane de l’axone.",
+                "se propage à une vitesse d’environ 100 mètres par seconde dans les plus grosses fibres à gaine de myéline.",
+                "l’amplitude des potentiels d’action est la même depuis le corps du neurone jusqu’à l’extrémité de l’axone."
+            ],
+            "correct_answers": [
+                "correspond à une propagation électrotonique d’un courant électrique le long de la membrane de l’axone."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Une hormone stéroïde a un effet sur sa cellule cible par l’intermédiaire de sa fixation sur un récepteur intracellulaire.",
+                "La somatomédine C (IGF1) stimule la sécrétion de l’hormone de croissance.",
+                "L’hormone de croissance est principalement secrétée le matin.",
+                "L’hormone de croissance sensibilise les cellules musculaires à l’insuline.",
+                "L’hormone de croissance augmente la dégradation protéique au niveau des muscles."
+            ],
+            "correct_answers": [
+                "Une hormone stéroïde a un effet sur sa cellule cible par l’intermédiaire de sa fixation sur un récepteur intracellulaire."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule pr oposition exact e : Les cordons postérieurs sont formés par :",
+            "options": [
+                "Les faisceaux spinothalamiques postérieurs et latéraux.",
+                "Les faisceaux de Goll et de Burdach.",
+                "Le faisceau spinocérébelleux ventral.",
+                "Les faisceaux spinothalamiques postérieurs.",
+                "Le faisceau spinocérébelleux latéral."
+            ],
+            "correct_answers": [
+                "Les faisceaux de Goll et de Burdach."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Le facteur intrinsèque est indispensable à l’absorption intestinale de la vitamine D.",
+                "Les triglycérides ne peuvent être absorbés qu’après digestion complète en acides gras et glycérol.",
+                "Les entérocytes sécrètent une lipase dans la lumière intestinale.",
+                "L’anhydrase carbonique est essentielle à la sécrétion de l’acide chlorhydrique par la muqueuse gastrique.",
+                "La gastrine est seule responsable de la sécrétion acide gastrique."
+            ],
+            "correct_answers": [
+                "L’anhydrase carbonique est essentielle à la sécrétion de l’acide chlorhydrique par la muqueuse gastrique."
+            ]
+        },
+        {
+            "question": "TOUTES LES PROPOSITIONS SONT EXACTES, SAUF UNE. SELECTIONNER LA SEULE PROPOSITION INEXACTE Les récepteurs muscariniques :",
+            "options": [
+                "Les récepteurs muscariniques M2 sont des récepteurs métabotropiques.",
+                "Les récepteurs muscariniques M3 n’induisent pas le ralentissement du rythme cardiaque quand ils sont stimulés par l’acétylcholine.",
+                "Les récepteurs muscariniques M2 sont ceux qui induisent le ralentissement du rythme cardiaque quand ils sont stimulés par l’acétylcholine.",
+                "La stimulation des récepteurs muscariniques M2 induit une inhibition du courant if dans les cellules du nœud sinusal.",
+                "Les récepteurs muscariniques M2 sont absents du cœur."
+            ],
+            "correct_answers": [
+                "Les récepteurs muscariniques M2 sont absents du cœur."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "la présence de lipides dans le duodénum augmente les contractions de l’antre gastrique",
+                "l’activité nerveuse parasympathique diminue le tonus du pylore",
+                "le facteur intrinsèque est indispensable à l’absorption intestinale de la vitamine D",
+                "l’étape essentielle de la sécrétion d’acide chlorhydrique par l’estomac est celle de l’activité de l’anhydrase carbonique intra-cytoplasmique",
+                "la présence de lipides dans le repas accélère le passage du chyme gastrique à travers le pylore"
+            ],
+            "correct_answers": [
+                "l’activité nerveuse parasympathique diminue le tonus du pylore"
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Une stimulation des récepteurs juxta-capillaires augmente la fréquence respiratoire et le volume courant.",
+                "La capacité maximale de consommation d’oxygène est principalement limitée par la capacité de diffusion de l’oxygène à travers la membrane alvéole-capillaire.",
+                "Une perfusion sanguine d’un sérum légèrement acide augmente la ventilation.",
+                "L’apnée du sommeil est la conséquence d’une fermeture du pharynx.",
+                "Une perfusion d’un liquide alcalin dans le liquide céphalo-rachidien augmente la ventilation."
+            ],
+            "correct_answers": [
+                "L’apnée du sommeil est la conséquence d’une fermeture du pharynx."
+            ]
+        },
+        {
+            "question": "Le réflexe myotatique:",
+            "options": [
+                "Le signe du canif correspond à une alternance réflexe myotatique/myotatique inverse.",
+                "Le signe du canif est un réflexe de défense à point de départ cutané.",
+                "L’interneurone de R enshaw  augmente l’intensité du réflexe myotatique.",
+                "Le réflexe rotulien ostéo-tendineux correspond au déclenchement du myotatique inverse.",
+                "Le signe du canif signe la présence d’une hypotonie musculaire."
+            ],
+            "correct_answers": [
+                "Le signe du canif correspond à une alternance réflexe myotatique/myotatique inverse."
+            ]
+        },
+        {
+            "question": "TOUTES LES PR OPOSITIONS SONT EXA CTES, SA UF UNE. SELECTIONNER L A SEULE PR OPOSITION INEXA CTE. Le « locus niger » :",
+            "options": [
+                "sa destruction est responsable de la chorée.",
+                "ses neurones libèrent de la dopamine dans le striatum.",
+                "est connecté au striatum.",
+                "est situé dans le mésencéphale.",
+                "la « pars compacta » du locus niger sécrète de la dopamine."
+            ],
+            "correct_answers": [
+                "sa destruction est responsable de la chorée."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Chez un sujet en bonne santé, l’urée filtrée par le glomérule est complètement éliminée dans les urines.",
+                "L’appareil juxta-glomérulaire est constitué par des cellules situées dans l’artériole glomérulaire afférente, des cellules mésangiales et des cellules du tube contourné proximal.",
+                "La réabsorption tubulaire de l’eau est plus importante par les néphrons ayant une anse de Henlé s’enfonçant profondément dans la médullaire que dans ceux ayant une courte anse de Henlé.",
+                "Le débit sanguin dans l’artériole glomérulaire efférente est plus élevé que dans l’artériole glomérulaire afférente.",
+                "Le rein participe au métabolisme de la vitamine D en l’excrétant dans les urines."
+            ],
+            "correct_answers": [
+                "La réabsorption tubulaire de l’eau est plus importante par les néphrons ayant une anse de Henlé s’enfonçant profondément dans la médullaire que dans ceux ayant une courte anse de Henlé."
+            ]
+        },
+        {
+            "question": "SELECTIONNER L A SEULE BONNE PR OPOSITION Le cervelet :",
+            "options": [
+                "n’est pas connecté à l’hypothalamus.",
+                "reçoit des informations du cortex sans recevoir d’informations des noyaux réticulés, des noyaux du pont et des noyaux rouges.",
+                "ne reçoit pas d’informations proprioceptives médullaires.",
+                "reçoit des informations de l’appareil vestibulaire (oreille interne) mais non des noyaux vestibulaires.",
+                "compare les informations motrices qu’il reçoit du cortex moteur aux informations proprioceptives qui lui proviennent de la moelle épinière, ce qui lui permet de corriger le mouvement."
+            ],
+            "correct_answers": [
+                "compare les informations motrices qu’il reçoit du cortex moteur aux informations proprioceptives qui lui proviennent de la moelle épinière, ce qui lui permet de corriger le mouvement."
+            ]
+        },
+        {
+            "question": "Sélectionner la seule proposition exacte:",
+            "options": [
+                "Une hormone peptidique a un effet sur sa cellule cible par l’intermédiaire de sa fixation sur un récepteur intracellulaire.",
+                "L'hormone de croissance augmente la sensibilité les cellules musculaires à l’insuline.",
+                "L’hormone de croissance stimule la sécrétion de l’IGF1.",
+                "L’hormone de croissance augmente la dégradation protéique au niveau des muscles.",
+                "L'hormone de croissance est principalement secrétée en fin d’après-midi."
+            ],
+            "correct_answers": [
+                "L’hormone de croissance stimule la sécrétion de l’IGF1."
+            ]
+        }
+    ]
+}

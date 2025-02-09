@@ -1,0 +1,779 @@
+{
+    "theme": "Sciences végétales et fongiques",
+    "questions": [
+        {
+            "question": "Parmi les propositions relatives à la photosynthèse ci-dessous, choisissez laquelle (lesquelles) est (sont) vraie(s) :",
+            "options": [
+                "La photosynthèse n'a pas lieu dans la zone 2",
+                "Dans la figure ci-dessus, 1 correspond au parenchyme palissadique",
+                "La phase claire de la photosynthèse est la seule à avoir lieu dans les feuilles.",
+                "Dans la figure ci-dessus, 2 correspond au parenchyme lacuneux",
+                "Dans la figure ci-dessus, 3 correspond à la zone médullaire"
+            ],
+            "correct_answers": [
+                "Dans la figure ci-dessus, 1 correspond au parenchyme palissadique",
+                "Dans la figure ci-dessus, 2 correspond au parenchyme lacuneux"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives aux fruits, choisir celle(s) exacte(s)",
+            "options": [
+                "La baie est un fruit charnu",
+                "Une baie peut contenir un noyau",
+                "Une baie s’ouvre à maturité",
+                "La baie de Génévrier est en fait un cône femelle",
+                "La baie peut contenir de nombreux pépins"
+            ],
+            "correct_answers": [
+                "La baie est un fruit charnu",
+                "La baie de Génévrier est en fait un cône femelle",
+                "La baie peut contenir de nombreux pépins"
+            ]
+        },
+        {
+            "question": "Cocher la (ou les) bonnes propositions de placements selon l’ordre évolutif",
+            "options": [
+                "Gymnospermes, Plantes terrestres, ptéridophytes, Angiospermes, bryophytes, Embryophytes",
+                "Algues vertes, bryophytes, ptéridophytes, G ymnospermes, Angiospermes",
+                "Bryophytes, Embryophytes, G ymnospermes, Plantes terrestres, Angiospermes, ptéridophytes",
+                "Algues vertes, Plantes terrestres, ptéridophytes, G ymnospermes, Angiospermes",
+                "Algues vertes, ptéridophytes, G ymnospermes, Angiospermes, Embryophytes, bryophytes"
+            ],
+            "correct_answers": [
+                "Algues vertes, bryophytes, ptéridophytes, G ymnospermes, Angiospermes",
+                "Algues vertes, Plantes terrestres, ptéridophytes, G ymnospermes, Angiospermes"
+            ]
+        },
+        {
+            "question": "Parmi les propositions, choisir la (ou les) liste(s) de termes correspondant tous à un état diploïde",
+            "options": [
+                "Opercule, protonéma, spore",
+                "Protonéma, spore, sporogone",
+                "Archégone, sporogone",
+                "Sporogone, sporophyte",
+                "Opercule, zygote"
+            ],
+            "correct_answers": [
+                "Sporogone, sporophyte",
+                "Opercule, zygote"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, relatives à la photosynthèse, choisissez celle(s) exacte(s)",
+            "options": [
+                "La phase claire de la photosynthèse permet la transformation de l'énergie lumineuse en énergie utilisable par la cellule (A TP)",
+                "La photosynthèse consomme du C O2 et émet de l'O2 alors que les échanges gazeux lors de la respiration sont l'inverse",
+                "Les éléments produits lors de la phase claire sont utilisés ors de la phase sombre",
+                "Les premières molécules produites par la photosynthèse sont des acides aminés",
+                "L'équation générale de la photosynthèse est : 6CO2 + 12H2O + lumière → C6H12O6 + 6O2 + 6H2O."
+            ],
+            "correct_answers": [
+                "La photosynthèse consomme du C O2 et émet de l'O2 alors que les échanges gazeux lors de la respiration sont l'inverse",
+                "La phase claire de la photosynthèse permet la transformation de l'énergie lumineuse en énergie utilisable par la cellule (A TP)",
+                "L'équation générale de la photosynthèse est : 6CO2 + 12H2O + lumière → C6H12O6 + 6O2 + 6H2O.",
+                "Les éléments produits lors de la phase claire sont utilisés ors de la phase sombre"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisissez celle(s) exacte(s)",
+            "options": [
+                "L'acide acétylsalicylique est issu de la digitale.",
+                "Le paclitaxel est issu de l'if.",
+                "La photosynthèse fait partie du métabolisme secondaire.",
+                "Chez les végétaux, le métabolisme secondaire produit les éléments essentiels pour que le métabolisme primaire puisse fonctionner.",
+                "Il n'y a pas de médicament, actuellement utilisé, issu des végétaux. Tous sont maintenant synthétisés."
+            ],
+            "correct_answers": [
+                "Le paclitaxel est issu de l'if."
+            ]
+        },
+        {
+            "question": "Pour reconnaître le caractère comestible d’un champignon, il faut :",
+            "options": [
+                "L’identifier au rang spécifique sans erreur",
+                "Le frotter avec de l’ail pour constater un changement de coloration",
+                "Se rapprocher des récolteurs croisés en forêt et leur poser la question",
+                "Consulter un ouvrage illustré et comparer les images à la récolte en question.",
+                "Se rapprocher d’un pharmacien ou d’une société mycologique"
+            ],
+            "correct_answers": [
+                "L’identifier au rang spécifique sans erreur",
+                "Se rapprocher d’un pharmacien ou d’une société mycologique"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisir celle(s) qui présente(ent) différents termes dans le bon ordre, de l’extérieur vers l’intérieur :",
+            "options": [
+                "Ovaire, ovule, téguments",
+                "Téguments, ovaire, ovule",
+                "Ovaire, téguments",
+                "Ovule ovaire, sac embryonnaire",
+                "Nucelle, sac embryonnaire"
+            ],
+            "correct_answers": [
+                "Ovaire, ovule, téguments",
+                "Nucelle, sac embryonnaire",
+                "Ovaire, téguments"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisissez celle qui correspond au nom scientifique correcte de l'espèce désignée",
+            "options": [
+                "Lycopodium clavatum, Lycopodiacaea",
+                "Lycopodium clavatum, Lycopodiaceae",
+                "Des oreilles",
+                "Lycopodium clavatum, lycopodiacaea",
+                "Lycopodium clavatum, Lycopodiaceae"
+            ],
+            "correct_answers": [
+                "Lycopodium clavatum, Lycopodiaceae"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, relatives à l'absorption hydrique, choisissez celle(s) exacte(s)",
+            "options": [
+                "Une partie de la circulation de l'eau et des sels minéraux dans la racine est spontanée alors qu'une autre demande un transport actif",
+                "L'absorption hydrique est réalisée par toutes les parties de la racine",
+                "Les poils absorbants permettent d'augmenter la surface racinaire et donc la surface d'absorption",
+                "Sans les racines l'eau ne peut circuler dans la plante",
+                "La transpiration est la parte d'eau au niveau des fleurs"
+            ],
+            "correct_answers": [
+                "Les poils absorbants permettent d'augmenter la surface racinaire et donc la surface d'absorption",
+                "Une partie de la circulation de l'eau et des sels minéraux dans la racine est spontanée alors qu'une autre demande un transport actif"
+            ]
+        },
+        {
+            "question": "Les champignons ont été érigés en tant que règne autonome",
+            "options": [
+                "En raison de leur hétérotrophie vis-à-vis du carbone",
+                "Sur la proposition des mycologues souhaitant une reconnaissance de l’objet de leur étude",
+                "Sur la base d’études moléculaires et phylogénétiques",
+                "Après avoir été rattachés pendant longtemps au règne animal",
+                "Sur la base d’une combinaison originale de caractères"
+            ],
+            "correct_answers": [
+                "Sur la base d’études moléculaires et phylogénétiques",
+                "Sur la base d’une combinaison originale de caractères"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, relatives à la photosynthèse, choisissez celle(s) exacte(s)",
+            "options": [
+                "C'est lors que la phase sombre qu'il y a la dissociation de l'eau génératrice d'électrons",
+                "La phase sombre de la photosynthèse s'appelle le cycle de Krebs",
+                "Le saccharose est le sucre de transport le plus fréquemment produit lors de la photosynthèse",
+                "Le phase sombre de la photosynthèse permet la fabrication du glycogène",
+                "Il y a peu de sucre de réserve stocké dans les feuilles"
+            ],
+            "correct_answers": [
+                "Le saccharose est le sucre de transport le plus fréquemment produit lors de la photosynthèse",
+                "Il y a peu de sucre de réserve stocké dans les feuilles"
+            ]
+        },
+        {
+            "question": "Les espèces responsables du syndrome muscarinien se rencontrent dans les espèces ou genres suivants",
+            "options": [
+                "Inocybe  et Clitocybe",
+                "Boletus satanas",
+                "Inocybe jurana  et Lepista nebularis  (clitocybe nébuleux)",
+                "Psilocybe  et Panaeolus",
+                "Amanita muscaria  et Amanita pantherina"
+            ],
+            "correct_answers": [
+                "Inocybe  et Clitocybe"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle est vraie ?",
+            "options": [
+                "Toutes les amanites ont une volve et un voile partiel",
+                "Tous les champignons consommés par au moins un autre mammifère que nous, sont d'emblée considérés comme comestibles",
+                "Toutes les amanites ont un voile général",
+                "Toutes les amanites sont toxiques crues",
+                "Toutes les amanites sont comestibles cuites"
+            ],
+            "correct_answers": [
+                "Toutes les amanites ont un voile général"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, relatives au temps d'incubation dans les cas de mycétisme, choisir celle(s) exacte(s)",
+            "options": [
+                "Il permet de connaître la durée totale des syndromes",
+                "S'il est court (< 3h), il permet d'envisager un dosage des CPK, des transaminases, de la créatinine sanguine…",
+                "Pour tous les champignons toxiques, il permet de savoir si le pronostic vital est engagé",
+                "Il permet d'appréhender un risque mortel",
+                "Il doit être considéré avec précautions en cas de mélange"
+            ],
+            "correct_answers": [
+                "Il permet d'appréhender un risque mortel",
+                "Il doit être considéré avec précautions en cas de mélange"
+            ]
+        },
+        {
+            "question": "Quel est le nombre de noyaux dans le sac embryonnaire des Angiospermes",
+            "options": [
+                "Un",
+                "Nombreux",
+                "Huit",
+                "Deux",
+                "Quatre"
+            ],
+            "correct_answers": [
+                "Huit"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, choisir le (ou les) organisme(s) pouvant présenter de la dichotomie dans leur appareil végétatif",
+            "options": [
+                "Pin",
+                "Fougère",
+                "Ginkgo",
+                "Fucus",
+                "Hépatique"
+            ],
+            "correct_answers": [
+                "Fucus",
+                "Fougère",
+                "Ginkgo",
+                "Hépatique"
+            ]
+        },
+        {
+            "question": "Parmi les listes, indiquer celle(s) avec des termes synonymes :",
+            "options": [
+                "Plantes à ovaires, Plantes à graines",
+                "Rhizophytes, Plantes vasculaires",
+                "Angiospermes, Rhizophytes",
+                "Spermatophytes, G ymnospermes",
+                "Embryophytes, Archégoniates"
+            ],
+            "correct_answers": [
+                "Rhizophytes, Plantes vasculaires",
+                "Embryophytes, Archégoniates"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle est fausse ?",
+            "options": [
+                "Les russules n'ont ni voile général ni voile partiel",
+                "Les Lactaires sont reconnaissables par leur structure cassante et leur production de latex",
+                "Toutes les Russules douces peuvent être consommées par n'importe lequel d'entre nous",
+                "Russula vesca  et Russula virescens  sont d'excellents comestibles",
+                "Toutes les russules âcres ne doivent pas être consommées."
+            ],
+            "correct_answers": [
+                "Toutes les Russules douces peuvent être consommées par n'importe lequel d'entre nous"
+            ]
+        },
+        {
+            "question": "Parmi les propositions, choisir la (ou les) liste(s) de termes correspondant tous à un état haploïde",
+            "options": [
+                "Albumen, endosperme, fleur",
+                "Endosperme, pollen",
+                "Albumen, sac embryonnaire",
+                "Endosperme, fleur, nucelle",
+                "Nucelle, ovaire, pollen"
+            ],
+            "correct_answers": [
+                "Endosperme, pollen"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous concernant la graine exalbuminée, choisissez celle(s) exacte(s)",
+            "options": [
+                "La graine exalbuminée est plus primitive que la graine albuminée",
+                "La graine exalbuminée présente un albumen périphérique",
+                "La graine exalbuminée présente un embryon réduit",
+                "La graine exalbuminée présente des cotylédons volumineux",
+                "Une graine exalbuminée n’a plus d’albumen"
+            ],
+            "correct_answers": [
+                "Une graine exalbuminée n’a plus d’albumen",
+                "La graine exalbuminée présente des cotylédons volumineux"
+            ]
+        },
+        {
+            "question": "Parmi les propositions, choisir la (ou les) liste(s) de termes correspondant tous à la présence de rhizoïdes",
+            "options": [
+                "Algue verte, Mousse, prothalle de fougère",
+                "Pin, prothalle de fougère, sac embryonnaire",
+                "Algue verte, sac embryonnaire",
+                "Prothalle de fougère, sac embryonnaire",
+                "Mousse, Pin, prothalle de fougère"
+            ],
+            "correct_answers": [
+                "Algue verte, Mousse, prothalle de fougère"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives aux  Cycas et les Ginkgos, choisir celle(s) exacte(s)",
+            "options": [
+                "La fécondation n’est pas aquatique",
+                "La graine est une pseudo-graine",
+                "Les anthérozoïdes sont ciliés",
+                "Les réserves se forment avant la fécondation",
+                "Le gamétophyte est chlorophyllien"
+            ],
+            "correct_answers": [
+                "La graine est une pseudo-graine",
+                "Les réserves se forment avant la fécondation",
+                "Les anthérozoïdes sont ciliés",
+                "Le gamétophyte est chlorophyllien"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisir celle(s) qui est exacte. le bois homoxylé est :",
+            "options": [
+                "Souvent résineux",
+                "Composé de trachéides",
+                "Un xylème II°",
+                "Caractéristique des Angiospermes",
+                "Formé de faisceaux de même taille"
+            ],
+            "correct_answers": [
+                "Un xylème II°",
+                "Composé de trachéides",
+                "Souvent résineux"
+            ]
+        },
+        {
+            "question": "Choisir la (ou les) proposition(s) vraie(s) concernant la sporée des champignons à hyménophore lamellé et à texture fibreuse :",
+            "options": [
+                "Elle suffit pour reconnaître les espèces comestibles des espèces toxiques",
+                "On peut l’observer objectivement grâce à un test de sporulation provoquée",
+                "Sa couleur peut être attribuée à 4 nuances principales : blanc, rose, brun et noir",
+                "Elle peut varier, au sein d’une espèce donnée, selon les conditions climatiques",
+                "Elle est bien visible sur les lames des exemplaires murs"
+            ],
+            "correct_answers": [
+                "Sa couleur peut être attribuée à 4 nuances principales : blanc, rose, brun et noir",
+                "On peut l’observer objectivement grâce à un test de sporulation provoquée"
+            ]
+        },
+        {
+            "question": "Parmi les listes proposées, choisir la (ou les) liste(s) de termes tous homologues",
+            "options": [
+                "Sporange de fougère, sporogone",
+                "Sac embryonnaire, ovule, pollen",
+                "Macrosporange, sac embryonnaire, archégone",
+                "Microsporange, archégone, ovaire",
+                "Microsporange, sac pollinique, sporogone"
+            ],
+            "correct_answers": [
+                "Microsporange, sac pollinique, sporogone",
+                "Sporange de fougère, sporogone"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisissez celle(s) définissant l'entomogamie",
+            "options": [
+                "Le transport des semences par le vent",
+                "Le transport des semences par les insectes",
+                "Le transport des graines par les oiseaux",
+                "Le transport du pollen par les insectes",
+                "La fécondation des fleurs par le vent"
+            ],
+            "correct_answers": [
+                "Le transport du pollen par les insectes"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, relatives à la vacuole, indiquez celle(s) exacte(s)",
+            "options": [
+                "La vacuole occupe la plus grande partie du cytoplasme",
+                "La vacuole ne sert qu'au stockage des déchets de la cellule",
+                "La vacuole est l'organite où se déroule la photosynthèse",
+                "La vacuole contient le noyau de la cellule",
+                "La vacuole a une membrane qui la délimite et qui s'appelle le tonoplaste"
+            ],
+            "correct_answers": [
+                "La vacuole a une membrane qui la délimite et qui s'appelle le tonoplaste",
+                "La vacuole occupe la plus grande partie du cytoplasme"
+            ]
+        },
+        {
+            "question": "Choisir la (ou les) liste(s) de termes apparaissant tous chez les arbres et arbustes et absents des jeunes plantes herbacées à structure primaire",
+            "options": [
+                "Aubier, phloème II°, liège",
+                "Liège, parenchyme palissadique",
+                "Epiderme, phloème II°",
+                "Bois, cambium, suber",
+                "Aubier, cambium, parenchyme palissadique"
+            ],
+            "correct_answers": [
+                "Bois, cambium, suber",
+                "Aubier, phloème II°, liège"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, relatives aux Monocotylédones, choisir celle(s) exacte(s)",
+            "options": [
+                "Le cambium est absent",
+                "Les racines présentent au moins 7 pôles de xylème I°",
+                "Le suber est présent",
+                "Les Bambous et les palmiers sont des formes ligneuses riches en sclérenchyme",
+                "Les faisceaux libéro-ligneux sont disposés sur un seul cercle"
+            ],
+            "correct_answers": [
+                "Le cambium est absent",
+                "Les racines présentent au moins 7 pôles de xylème I°",
+                "Les Bambous et les palmiers sont des formes ligneuses riches en sclérenchyme"
+            ]
+        },
+        {
+            "question": "Un champignon possédant comme caractéristiques, des lames décurrentes et une sporée blanche, un voile partiel et poussant sur du bois appartient à un groupe dont les représentants sont extrêmement courants et font l’objet d’une bonne partie des sollicitations de clients à l’officine. Il s’agit",
+            "options": [
+                "Du paxille enroulé",
+                "De l’amanite phalloïde",
+                "Des russules",
+                "Des armillaires",
+                "Des girolles"
+            ],
+            "correct_answers": [
+                "Des armillaires"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous concernant les Angiospermes primitives jusqu’aux Monocotylédones incluses, choisir celle(s) exacte(s) :",
+            "options": [
+                "Les feuilles sont simples",
+                "La disposition des fleurs est spiralée",
+                "Le pollen est à une ouverture",
+                "Ce sont toutes des plantes ligneuses",
+                "Les fleurs sont gamopétales"
+            ],
+            "correct_answers": [
+                "Le pollen est à une ouverture",
+                "Les feuilles sont simples"
+            ]
+        },
+        {
+            "question": "Parmi les propositions concernant l'endoprothallie, choisir la (ou les) exacte(s) :",
+            "options": [
+                "L’endoprothallie correspond à la germination de la spore dans le sol",
+                "L’endoprothallie correspond à la germination de la spore en protonéma",
+                "L’endoprothallie permet l’apparition de la graine",
+                "L’endoprothallie produit directement  l’albumen",
+                "L’endoprothallie produit directement l’endosperme"
+            ],
+            "correct_answers": [
+                "L’endoprothallie produit directement l’endosperme",
+                "L’endoprothallie permet l’apparition de la graine"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, relatives à la dichotomie, choisir celle(s) exacte(s) :",
+            "options": [
+                "la dichotomie correspond au sporophyte et non au gamétophyte",
+                "la dichotomie existe chez les Fougères et le  Ginkgo",
+                "La dichotomie existe chez les algues, les bryophytes et les Fougères",
+                "la dichotomie correspond à l’état diploïde des cellules",
+                "la dichotomie est une division régulière en deux parties des tiges, racines ou nervures"
+            ],
+            "correct_answers": [
+                "La dichotomie existe chez les algues, les bryophytes et les Fougères",
+                "la dichotomie existe chez les Fougères et le  Ginkgo",
+                "la dichotomie est une division régulière en deux parties des tiges, racines ou nervures"
+            ]
+        },
+        {
+            "question": "L’amanite phalloïde ( Amanita phalloides ) est un champignon mortel très courant. Pour la reconnaître, on peut rechercher les caractères suivants, qui la caractérisent, au moins en partie :",
+            "options": [
+                "Sporée blanche, lames décurrentes, voile partiel présent.",
+                "Anneau et volve en sac.",
+                "Sporée blanche, lames adnées, voile partiel et voile général présents.",
+                "Sporée blanche et lames libres",
+                "Chapeau rouge portant des flocons blancs"
+            ],
+            "correct_answers": [
+                "Anneau et volve en sac.",
+                "Sporée blanche et lames libres"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisir celle(s) contenant que des taxons appartenant à la lignée brune",
+            "options": [
+                "Spiruline, Fucus, Mildiou, Pomme de terre",
+                "Pomme de terre, Spirogyre, Sphaigne",
+                "Diatomée, Fucus, Mildiou de la vigne",
+                "Diatomée, Spirogyre, Sphaigne",
+                "Champignon, Fucus, Sphaigne"
+            ],
+            "correct_answers": [
+                "Diatomée, Fucus, Mildiou de la vigne"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous choisissez celle(s) définissant une espèce dioïque :",
+            "options": [
+                "Une espèce dioïque est une espèce présentant un seul sexe par fleur",
+                "Une espèce dioïque est une espèce présentant un seul sexe par prothalle",
+                "Une espèce dioïque est une espèce présentant les deux sexes sur le même prothalle",
+                "Une espèce dioïque est une espèce présentant les deux sexes sur des sporophytes différents",
+                "Une espèce dioïque est une espèce présentant les deux sexes dans la même fleur"
+            ],
+            "correct_answers": [
+                "Une espèce dioïque est une espèce présentant les deux sexes sur des sporophytes différents"
+            ]
+        },
+        {
+            "question": "Appariez les numéros et les propositions afin d'avoir les annotations de la figure ci-dessous",
+            "options": [
+                "4",
+                "2",
+                "1",
+                "3",
+                "5"
+            ],
+            "correct_answers": [
+                "4 → Endoderme",
+                "2 → Cortex (ou parenchyme cortical)",
+                "1 → Assise pilifère",
+                "3 → Cylindre central",
+                "5 → Péricycle"
+            ]
+        },
+        {
+            "question": "Parmi les propositions, ci-dessous, choisir celle(s) exacte(s)",
+            "options": [
+                "A. Le cône femelle du Pin est l’équivalent d’une fleur femelle",
+                "B. Le cône mâle du Pin est l’équivalent d’une inflorescence mâle",
+                "C. Le cône femelle du Pin est une fleur femelle",
+                "D. Le cône femelle du Pin est l’équivalent d’une inflorescence femelle",
+                "E. Le cône mâle du Pin est l’équivalent d’une fleur mâle"
+            ],
+            "correct_answers": [
+                "D. Le cône femelle du Pin est l’équivalent d’une inflorescence femelle",
+                "E. Le cône mâle du Pin est l’équivalent d’une fleur mâle"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, relatives aux cellules végétales, choisissez celle(s) exacte(s) :",
+            "options": [
+                "La paroi cellulaire est une matrice extracellulaire",
+                "Les plasmodesmes ne laissent pas passer les grosses molécules.",
+                "La paroi cellulaire est phospholipidique",
+                "La composition de la paroi cellulaire évolue en fonction de l'âge de la plante",
+                "La paroi cellulaire est complètement imperméable"
+            ],
+            "correct_answers": [
+                "La paroi cellulaire est une matrice extracellulaire",
+                "La composition de la paroi cellulaire évolue en fonction de l'âge de la plante",
+                "Les plasmodesmes ne laissent pas passer les grosses molécules."
+            ]
+        },
+        {
+            "question": "Parmi les Basidiomycètes dont les sporophores présentent pied et chapeau, très diversifiés en forêt, on peut consommer sans risque ni désagrément les espèces :",
+            "options": [
+                "Dont l’hyménophore est formé de petits aiguillons de couleur blanche ou pâle",
+                "Dont l’hyménophore est lamellé, la chair cassante et sans lait, la sporée blanche.",
+                "Dont l’hyménophore est lamellé, à pied sans anneau ni volve",
+                "Dont l’hyménophore est poré et dont la sporée est rose",
+                "Dont l’hyménophore est lamellé, la sporée brune et présentant une cortine"
+            ],
+            "correct_answers": [
+                "Dont l’hyménophore est formé de petits aiguillons de couleur blanche ou pâle"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous concernant l'akène, choisissez celle(s) exacte(s)",
+            "options": [
+                "L’akène est un fruit contenant plusieurs graines",
+                "L’akène peut être une semence",
+                "L’akène est un fruit sec",
+                "L’akène s’ouvre à maturité",
+                "L’akène possède un noyau dur"
+            ],
+            "correct_answers": [
+                "L’akène est un fruit sec",
+                "L’akène peut être une semence"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives au clitocybe de l'olivier ( Omphalotus olearius)  choisir celle(s) exacte(s)",
+            "options": [
+                "Il provoque un syndrome résinoïdien sévère potentiellement mortel pour les jeunes enfants et les personnes âgées",
+                "Il est confondu le plus souvent avec la chanterelle comestible",
+                "Il provoque des sudations nocturnes sans précédent",
+                "C’est une espèce courante dans le Nord – P as-de-Calais",
+                "Son principe toxique a été utilisé pour la recherche de nouveaux composés anticancéreux"
+            ],
+            "correct_answers": [
+                "Il provoque un syndrome résinoïdien sévère potentiellement mortel pour les jeunes enfants et les personnes âgées",
+                "Il est confondu le plus souvent avec la chanterelle comestible",
+                "Son principe toxique a été utilisé pour la recherche de nouveaux composés anticancéreux"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, choisissez celle(s) qui est (sont) vraie(s)",
+            "options": [
+                "L’albumen est haploïde",
+                "L’embryon est diploïde",
+                "Le nucelle est haploïde",
+                "Les 2 noyaux polaires sont haploïdes",
+                "Le sac embryonnaire est diploïde"
+            ],
+            "correct_answers": [
+                "Les 2 noyaux polaires sont haploïdes",
+                "L’embryon est diploïde"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives à L'amanite phalloïde ( Amanita phalloides ) choisir celle(s) exacte(s)",
+            "options": [
+                "Elle est la seule espèce responsable du syndrome phalloïdien qui est mortel",
+                "Son ingestion provoque des hallucinations",
+                "Son chapeau rouge avec des verrues blanches macérés dans du lait tue les mouches",
+                "Elle ne possède pas de voile général apparent sur le chapeau, ni d'anneau",
+                "Elle possède un voile général, un voile partiel, des lames libres et une sporée blanche"
+            ],
+            "correct_answers": [
+                "Elle possède un voile général, un voile partiel, des lames libres et une sporée blanche"
+            ]
+        },
+        {
+            "question": "Pour aborder de manière rationnelle et méthodique l’observation d’un sporophore de champignon macromycète, en vue de sa détermination, il faut s’attacher à observer correctement :",
+            "options": [
+                "La texture de la chair",
+                "La couleur de la sporée",
+                "La couleur du chapeau",
+                "La nature d’éventuelles ornementations présentes à la surface du chapeau.",
+                "Le diamètre du pied"
+            ],
+            "correct_answers": [
+                "La texture de la chair",
+                "La couleur de la sporée",
+                "La nature d’éventuelles ornementations présentes à la surface du chapeau."
+            ]
+        },
+        {
+            "question": "Parmi les propositions, choisir la (ou les) liste(s) de termes tous spécifiques des racines :",
+            "options": [
+                "Péricycle, poils absorbants",
+                "Poils absorbants, stomates",
+                "Stomates, sclérenchyme, xylème",
+                "Cuticule, épiderme, cotylédon",
+                "Cotylédon, péricycle"
+            ],
+            "correct_answers": [
+                "Péricycle, poils absorbants"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous relatives aux plastes, choisissez celle(s) exacte(s)",
+            "options": [
+                "Les leucoplastes sont les plastes de stockage de sucre",
+                "Les plastes sont dans la vacuole",
+                "Les chromoplastes sont responsables de la coloration de différents organes",
+                "Les amyloplastes se rencontrent dans les tissus de réserve",
+                "Les oléoplastes sont les plastes de stockage de lipides"
+            ],
+            "correct_answers": [
+                "Les chromoplastes sont responsables de la coloration de différents organes",
+                "Les amyloplastes se rencontrent dans les tissus de réserve",
+                "Les oléoplastes sont les plastes de stockage de lipides"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, choisir le (ou les) organisme(s) pouvant présenter des feuilles de type microphylle",
+            "options": [
+                "Fucus",
+                "Prêle",
+                "Fougère",
+                "Sélaginelle",
+                "Hépatique à thalle"
+            ],
+            "correct_answers": [
+                "Sélaginelle",
+                "Prêle"
+            ]
+        },
+        {
+            "question": "Parmi les listes ci-dessous, choisir celle(s) qui présente(ent) les différents éléments dans le bon ordre, du bas vers le haut",
+            "options": [
+                "Sépales, étamines, style",
+                "Pétales, ovaire",
+                "Sépales, androcée, stigmate",
+                "Calice, étamines",
+                "Style, sépales, androcée"
+            ],
+            "correct_answers": [
+                "Sépales, androcée, stigmate",
+                "Pétales, ovaire",
+                "Calice, étamines",
+                "Sépales, étamines, style"
+            ]
+        },
+        {
+            "question": "Pour un pharmacien, donner un renseignement au client sur la comestibilité d’un champignon est",
+            "options": [
+                "Une obligation réglementaire",
+                "L’occasion de valoriser une formation universitaire pluri-disciplinaire",
+                "Un service rémunéré à l’acte",
+                "Une prise de risque inconsidérée",
+                "La mise à profit d’une compétence exclusive"
+            ],
+            "correct_answers": [
+                "La mise à profit d’une compétence exclusive",
+                "L’occasion de valoriser une formation universitaire pluri-disciplinaire"
+            ]
+        },
+        {
+            "question": "Choisir la (ou les) bonne liste de taxons appartenant tous aux Algues bleues ou Cyanobactéries",
+            "options": [
+                "Spiruline, Spirogyre, Ulve",
+                "Lycopode, Nostoc",
+                "Nostoc, Spiruline",
+                "Fucus, L ycopode, Spirogyre",
+                "Fucus, L ycopode, Nostoc"
+            ],
+            "correct_answers": [
+                "Nostoc, Spiruline"
+            ]
+        },
+        {
+            "question": "Parmi les propositions ci-dessous, relatives à la photosynthèse, choisissez celle(s) exacte(s)",
+            "options": [
+                "Les organismes qui réalisent la photosynthèse sont autotrophes pour l'azote",
+                "Les organismes qui réalisent la photosynthèse sont autotrophes pour le carbone",
+                "Il n'y a que les végétaux qui font la photosynthèse",
+                "Chez les végétaux supérieurs, la forme des chloroplastes est très variables",
+                "Tous les végétaux supérieurs font la photosynthèse"
+            ],
+            "correct_answers": [
+                "Les organismes qui réalisent la photosynthèse sont autotrophes pour le carbone"
+            ]
+        },
+        {
+            "question": "Parmi les combinaisons de caractères suivantes, quelles sont celles qui caractérisent le règne fongique",
+            "options": [
+                "Une implication fonctionnelle majeure dans les écosystèmes, la reproduction par des spores, une absorbotrophie",
+                "La capacité de procurer de nouvelles molécules thérapeutiques, la présence de spores biflagellées, l’impact comme agents de biodégradation de denrées alimentaires",
+                "Un appareil végétatif filamenteux, la possibilité d’une reproduction asexuée",
+                "Des racines chevelues, un mode de vie hétérotrophe, une grande richesse enzymatique",
+                "Une tige, un chapeau, un mode de vie parasitaire"
+            ],
+            "correct_answers": [
+                "Un appareil végétatif filamenteux, la possibilité d’une reproduction asexuée",
+                "Une implication fonctionnelle majeure dans les écosystèmes, la reproduction par des spores, une absorbotrophie"
+            ]
+        },
+        {
+            "question": "Parmi les listes ci-dessous, choisir celle(s) qui présente(nt) différents termes dans le l’ordre évolutif, du plus primitif au plus évolué",
+            "options": [
+                "Gynécée isomère, gynécée oligomère",
+                "Dalycarpie, syncarpie",
+                "Ovule orthotrope, ovule anatrope",
+                "Ovaire infère, supère",
+                "Gamopétale, dialypétale"
+            ],
+            "correct_answers": [
+                "Dalycarpie, syncarpie",
+                "Gynécée isomère, gynécée oligomère",
+                "Ovule orthotrope, ovule anatrope"
+            ]
+        }
+    ]
+}

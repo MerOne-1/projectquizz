@@ -1,0 +1,477 @@
+{
+    "theme": "Chimie générale et bio inorganique",
+    "questions": [
+        {
+            "question": "Le point triple de l’eau est à T = 273,15K et P = 6.10  atm. Dans quels états 1 et 2 se trouve l’eau à T  = 300K et P  = 10  atm et T  = 200K et P  = 6.10  atm ?",
+            "options": [
+                "gaz, gaz",
+                "gaz, solide",
+                "gaz, liquide",
+                "solide, liquide",
+                "liquide, gaz"
+            ],
+            "correct_answers": [
+                "gaz, solide"
+            ]
+        },
+        {
+            "question": "Soit les composés azotés N , NH , NO, HNO , NO , HNO . Quel est le bon classement de ces molécules par ordre croissant du nombre d’oxydation de l’azote ?",
+            "options": [
+                "HNO  < N  < NO < NO  < HNO  < NH",
+                "NH < N  < NO < NO  < HNO  < HNO",
+                "NH < N  < NO < HNO  < NO  < HNO",
+                "N < NO < HNO  < NO  < HNO  < NH",
+                "N < NH  < NO < HNO  < NO  < HNO"
+            ],
+            "correct_answers": [
+                "NH < N  < NO < HNO  < NO  < HNO"
+            ]
+        },
+        {
+            "question": "Soient les atomes A-E dans leur état fondamental dans le tableau ci-dessous. Indiquer la ou les proposition(s) exactes.",
+            "options": [
+                "Les atomes A et E ont les mêmes propriétés chimiques.",
+                "Les atomes A et C ont le même nombre d’électrons.",
+                "Les atomes A, B et E sont trois isotopes.",
+                "Les atomes D et E sont deux isotopes.",
+                "Les atomes D et E ont le même nombre de neutrons"
+            ],
+            "correct_answers": [
+                "Les atomes A et E ont les mêmes propriétés chimiques.",
+                "Les atomes A, B et E sont trois isotopes."
+            ]
+        },
+        {
+            "question": "Quels sont les signes de ΔH et ΔS pour une réaction spontanée à toutes les températures ?",
+            "options": [
+                "ΔH positiv e et ΔS positiv e",
+                "ΔH négativ e et ΔS négativ e",
+                "ΔH négativ e et ΔS positiv e",
+                "aucune des r éponses pr oposées",
+                "ΔH positiv e et ΔS négativ e"
+            ],
+            "correct_answers": [
+                "ΔH négativ e et ΔS positiv e"
+            ]
+        },
+        {
+            "question": "Etablir la bonne série de relations de cause à effet concernant le bore :",
+            "options": [
+                "1z, 2x, 3y",
+                "1y, 2x, 3z",
+                "1y, 2z, 3x",
+                "1x, 2z, 3y",
+                "1x, 2y , 3z3"
+            ],
+            "correct_answers": [
+                "1y, 2x, 3z"
+            ]
+        },
+        {
+            "question": "Combien de litres d’eau doit-on ajouter à 1L d’une solution d’acide fort monoprotique pour augmenter le pH de 1 unité ?",
+            "options": [
+                "1,0",
+                "100,0",
+                "0,1",
+                "9,0",
+                "0,9"
+            ],
+            "correct_answers": [
+                "9,0"
+            ]
+        },
+        {
+            "question": "X représente l’élément de numéro atomique 9 et Y celui de numéro atomique 20. Parmi les propositions suivantes, indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "La liaison formée entre X et Y est de nature covalente",
+                "La liaison formée entre X et Y est de nature ionique.",
+                "La formule brute du composé formé est XY.",
+                "La formule brute du composé formé est X Y.",
+                "La formule brute du composé formé est XY .2"
+            ],
+            "correct_answers": [
+                "La liaison formée entre X et Y est de nature ionique.",
+                "La formule brute du composé formé est X Y.2"
+            ]
+        },
+        {
+            "question": "La vanilline, de formule brute C HO, a une masse molaire de 152 g.mol . L’analyse élémentaire donne les résultats suivants : % = 63,15 et %  = 5,3. On donne  M  = 12 g.mol         M  = 1 g.mol               M  = 16 g.mol. Quelle est la formule brute de la vanilline ?",
+            "options": [
+                "CHO",
+                "CHOxyz-1",
+                "C H",
+                "C-1H-1O-1",
+                "824 2",
+                "10 16",
+                "744",
+                "883",
+                "912 2"
+            ],
+            "correct_answers": [
+                "CHO 883"
+            ]
+        },
+        {
+            "question": "A 37°C, un antibiotique A est métabolisé avec une constante de vitesse k égale à 3.10 s. L’efficacité d’un traitement par cet antibiotique implique de maintenir une concentration toujours supérieure à 2 mg par kg de poids corporel. Un patient dont le poids est de 70 kg absorbe à intervalle régulier des comprimés renfermant 400 mg de cet antibiotique. Quel doit être l’intervalle maximum de temps entre deux prises de médicaments (on suppose que la distribution du médicament est instantanée et uniforme dans tout l’organisme) ?",
+            "options": [
+                "11,9 h",
+                "7,2 h",
+                "3,5 h",
+                "9,7 h",
+                "8,6 h"
+            ],
+            "correct_answers": [
+                "9,7 h"
+            ]
+        },
+        {
+            "question": "Indiquer la (ou les) proposition (s) exacte (s). PCl est",
+            "options": [
+                "un nucléophile, à cause du doublet non liant",
+                "une molécule plane car P est trivalent",
+                "une molécule en forme en forme de bipyramide trigonale",
+                "un composé du phosphore au degré d’oxydation -3",
+                "un électrophile"
+            ],
+            "correct_answers": [
+                "un électrophile"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives aux liaisons faibles, indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "La liaison hydrogène est une des nombreuses liaisons faibles expliquant la structure secondaire des protéines",
+                "Seules des forces de London peuvent s’établir entre 2 molécules de O",
+                "Les forces de Keesom s’établissent entre molécules polaires",
+                "La présence de liaisons hydrogène explique que la densité de la glace soit inférieure à celle de l’eau liquide",
+                "Les forces de Debye sont les forces de Van der Waals les plus stabilisantes"
+            ],
+            "correct_answers": [
+                "La présence de liaisons hydrogène explique que la densité de la glace soit inférieure à celle de l’eau liquide",
+                "Les forces de Keesom s’établissent entre molécules polaires",
+                "Seules des forces de London peuvent s’établir entre 2 molécules de O"
+            ]
+        },
+        {
+            "question": "Parmi les liaisons suivantes, laquelle est la plus polaire ?",
+            "options": [
+                "O=O",
+                "Br-Br",
+                "F-H",
+                "O-Cl",
+                "N-O"
+            ],
+            "correct_answers": [
+                "F-H"
+            ]
+        },
+        {
+            "question": "Soit l’élément soufre S qui possède 4 isotopes S, S, S et S. Indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "Le soufre est plus électronégatif que le fluor.",
+                "L’anion divalent S  a une configuration électronique plus stable que l’atome de soufre dans son état fondamental.",
+                "Dans son état fondamental, le soufre a une valence égale à 2.",
+                "L’atome de soufre possède 16 électrons et 17 protons.",
+                "Sachant que sa masse atomique expérimentale est de 32,06 g/mol, l’isotope le plus abondant naturellement est S."
+            ],
+            "correct_answers": [
+                "Dans son état fondamental, le soufre a une valence égale à 2.",
+                "L’anion divalent S  a une configuration électronique plus stable que l’atome de soufre dans son état fondamental."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, quel est l’atome (quels sont les atomes) qui possède (nt) 3 électrons célibataires à l’état fondamental ?",
+            "options": [
+                "As",
+                "V",
+                "Ca",
+                "P",
+                "Na"
+            ],
+            "correct_answers": [
+                "V",
+                "As",
+                "P"
+            ]
+        },
+        {
+            "question": "Le bleu de bromophénol est un indicateur coloré, que l’on notera IndH (pKa = 3,9). Si [IndH] / [Ind ] > 10, la solution apparaît jaune. Si [IndH] / [Ind ] < 0,1 la solution apparaît bleue. Une solution de l’espèce X colore le bleu de bromophénol en vert. Que pourrait-être X ? On donne pKa (acide acétique) = 4,8",
+            "options": [
+                "Du chlor ure de sodium",
+                "Une solution d’ acide acétique à 0,5 M",
+                "Un sel d’ acide faible et de b ase for te",
+                "De l’ acétat e de sodium",
+                "Un sel d’ acide for t et de b ase faible"
+            ],
+            "correct_answers": [
+                "Un sel d’ acide for t et de b ase faible"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, quelle est la valeur de Δ H de la réaction",
+            "options": [
+                "- 294,6 kJ/mol",
+                "+ 0,1 kJ/mol",
+                "aucune des v aleur s proposées",
+                "- 204,3 kJ/mol",
+                "+ 66,3 kJ/molr"
+            ],
+            "correct_answers": [
+                "+ 66,3 kJ/mol"
+            ]
+        },
+        {
+            "question": "Lors de l’alcootest, l’éthanol (CH CHOH) de l’air expiré réduit les ions dichromate Cr O en Cr  en milieu acide et est oxydé en acide acétique (CH COOH). Equilibrer la réaction redox se produisant dans un alcootest.",
+            "options": [
+                "3 2 272- 3+",
+                "3"
+            ],
+            "correct_answers": []
+        },
+        {
+            "question": "Trois béchers contiennent une solution 1,0 M de CuCl . Une pièce de métal est placée dans chacun des trois béchers. On donne E° Ag /Ag = 0,80 V; E° Cu /Cu = 0,34 V; E° Zn /Zn = - 0,76 V ; E° Ni /Ni = -0,25 V. Une réaction a lieu dans",
+            "options": [
+                "les bécher s n°1 et n°3 seulement",
+                "tous les bécher s",
+                "le bécher n°2 seulement",
+                "les bécher s n°1 et n°2 seulement",
+                "aucun des bécher s"
+            ],
+            "correct_answers": [
+                "les bécher s n°1 et n°3 seulement"
+            ]
+        },
+        {
+            "question": "A 37°C, un antibiotique A est métabolisé avec une constante de vitesse k égale à 3.10 s. L’efficacité d’un traitement par cet antibiotique implique de maintenir une concentration toujours supérieure à 2 mg par kg de poids corporel. Un patient dont le poids est de 70 kg absorbe à intervalle régulier des comprimés renfermant 400 mg de cet antibiotique. Si l’intervalle maximum de temps entre deux prises de médicaments pour un patient sans fièvre est de 9,7h,  que devient cet intervalle pour un patient fébrile à 39,5°C (la constante de vitesse est alors égale à 4.10  s) ?",
+            "options": [
+                "7,2 h",
+                "3,5 h",
+                "11,9 h",
+                "8,6 h",
+                "9,7 h"
+            ],
+            "correct_answers": [
+                "7,2 h"
+            ]
+        },
+        {
+            "question": "Maurice, un étudiant pharmacien, prépare une solution tampon en mélangeant de façon équimolaire une solution de NH Cl avec une solution de NH . Une petite quantité d’hydroxyde de sodium est ajoutée. Que se passe-t-il? On donne pKa (NH / NH ) = 9,2",
+            "options": [
+                "La base intr oduit e réagit av ec NH  et le pH diminue",
+                "La base intr oduit e réagit av ec NH   et le pH change peu",
+                "La base intr oduit e réagit av ec NH  et le pH change peu",
+                "Le pH initialement de 7 devient 9,2 apr ès ajout de la b ase",
+                "La base intr oduit e réagit av ec NH  et le pH diminue"
+            ],
+            "correct_answers": [
+                "La base intr oduit e réagit av ec NH  et le pH change peu"
+            ]
+        },
+        {
+            "question": "Pour quelle molécule, la distance internucléaire est-elle la plus grande ?",
+            "options": [
+                "Cl2",
+                "N2",
+                "F2",
+                "H2",
+                "O2"
+            ],
+            "correct_answers": [
+                "Cl2"
+            ]
+        },
+        {
+            "question": "Soit l’équation suivante : Quelles sont les valeurs de x, y et z qui relient les quantités de matière des composés de cette réaction ? n(MnO ) = x.n(Mn ) n(H ) = y.n(H O) n(Br ) = z.n(Br )",
+            "options": [
+                "x = 1, y = 2, z = 1/2",
+                "x = 1, y = 1, z = 1",
+                "x = 1, y = 1/2, z = 2",
+                "x = 2, y = 8, z = 10",
+                "x = 0, y = 1/2, z = 24- 2+"
+            ],
+            "correct_answers": [
+                "x = 1, y = 2, z = 1/2"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "L’électronégativité des éléments augmente quand Z croît dans une colonne de la classification.",
+                "L’électronégativité des éléments augmente de gauche à droite dans une période de la classification.",
+                "L’électronégativité d’un élément engagé dans une liaison covalente évalue sa capacité à attirer le doublet de liaison.",
+                "Une liaison est d’autant plus polarisée que la différence d’électronégativité entre les deux atomes est grande.",
+                "Un potentiel d’ionisation élevé et une affinité électronique forte imposent une électronégativité élevée."
+            ],
+            "correct_answers": [
+                "L’électronégativité d’un élément engagé dans une liaison covalente évalue sa capacité à attirer le doublet de liaison.",
+                "L’électronégativité des éléments augmente de gauche à droite dans une période de la classification.",
+                "Un potentiel d’ionisation élevé et une affinité électronique forte imposent une électronégativité élevée.",
+                "Une liaison est d’autant plus polarisée que la différence d’électronégativité entre les deux atomes est grande."
+            ]
+        },
+        {
+            "question": "On s’intéresse à la formation des ions les plus probables pour quelques éléments : Aluminium (Al) ; Baryum (Ba) ; Césium (Cs) ; Cuivre (Cu) ; Iode (I). Indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "Il y a deux cations possibles pour le cuivre.",
+                "L’aluminium peut donner l’ion Al .2-.",
+                "L’iode peut donner l’ion I .2+",
+                "Le césium peut donner l’ion Cs .2+",
+                "Le baryum peut donner l’ion Ba .2+"
+            ],
+            "correct_answers": [
+                "Il y a deux cations possibles pour le cuivre.",
+                "Le baryum peut donner l’ion Ba .2+"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives, indiquer la (ou les) proposition (s) qui correspond (ent) à une augmentation de l’entropie.",
+            "options": [
+                "congélation d’un liquide",
+                "fusion d’un solide",
+                "sublimation d’un solide"
+            ],
+            "correct_answers": [
+                "fusion d’un solide",
+                "sublimation d’un solide"
+            ]
+        },
+        {
+            "question": "Soient les équilibres: Parmi les propositions suivantes, indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "L’équilibre 3 sera déplacé vers la gauche si on augmente la pression à température constante",
+                "L’équilibre 2 sera déplacé vers la droite si on augmente la température à pression constante",
+                "L’équilibre 3 sera déplacé vers la droite si on augmente la quantité de CaC O",
+                "L’équilibre 2 sera déplacé vers la gauche si on diminue le volume à température constante",
+                "L’équilibre 1 sera déplacé vers la gauche si on diminue le volume à température constante3"
+            ],
+            "correct_answers": [
+                "L’équilibre 2 sera déplacé vers la droite si on augmente la température à pression constante",
+                "L’équilibre 2 sera déplacé vers la gauche si on diminue le volume à température constante",
+                "L’équilibre 3 sera déplacé vers la gauche si on augmente la pression à température constante"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives à la géométrie des édifices chimiques, indiquer la (ou les) proposition (s) exacte (s).",
+            "options": [
+                "BeCl est linéaire",
+                "SO est plan",
+                "NH est tétraédrique",
+                "BF est tétraédrique",
+                "HCO est plan"
+            ],
+            "correct_answers": [
+                "BeCl est linéaire",
+                "SO est plan",
+                "NH est tétraédrique",
+                "HCO est plan"
+            ]
+        },
+        {
+            "question": "Si la constante d’équilibre pour est égale à 0,125, la valeur de la constante d’équilibre pour est égale à :",
+            "options": [
+                "16,0",
+                "0,25",
+                "-0,125",
+                "8,0",
+                "0,125"
+            ],
+            "correct_answers": [
+                "8,0"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives au diagramme de Clapeyron de l’eau, indiquer la proposition qui indique le nom des transitions de phases dans la direction des flèches (1, 2, 3).",
+            "options": [
+                "liquéfaction, solidification, condensation",
+                "sublimation, condensation, fusion",
+                "fusion, vaporisation, sublimation",
+                "vaporisation, condensation, solidification",
+                "solidification, sublimation, vaporisation"
+            ],
+            "correct_answers": [
+                "sublimation, condensation, fusion"
+            ]
+        },
+        {
+            "question": "5,1 g d’un acide carboxylique sont dosés par une solution de soude de concentration C  = 1 mol.L . Le dosage donne un volume équivalent V = 50 mL. Quelle est la masse molaire de cet acide ?",
+            "options": [
+                "210 g.mol-1",
+                "40 g.mol-1",
+                "75 g.mol-1",
+                "102 g.mol-1",
+                "98 g.mol-1"
+            ],
+            "correct_answers": [
+                "102 g.mol-1"
+            ]
+        },
+        {
+            "question": "Après action du chlor e sur le benzène on peut isoler 3 isomèr es chlor és : Que per met la mesur e du moment dipolair e de chacune de ces molécules ?",
+            "options": [
+                "distinguer  M de P et O",
+                "distinguer P de O et M",
+                "montr er que la molécule M a un moment dipolair e nul",
+                "distinguer les tr ois isomèr es",
+                "distinguer  O de M et P"
+            ],
+            "correct_answers": [
+                "distinguer les tr ois isomèr es"
+            ]
+        },
+        {
+            "question": "Indiquer la (ou les) proposition(s) exacte(s) concernant le tazarotène ZORA C, représenté ci-dessous et utilisé pour le traitement du psoriasis.",
+            "options": [
+                "Les liaisons π entre l’atome de carbone 1 et l’atome de carbone 2 proviennent du recouvrement d’orbitales hybrides p et p .",
+                "Les liaisons σ formées à partir de l’atome de carbone 3 sont dans le même plan",
+                "La liaison σ entre l’atome de carbone 1 et l’atome de carbone 2 provient du recouvrement d’orbitales hybrides sp .",
+                "La liaison σ entre l’atome de carbone 1 et l’atome de carbone 2 provient du recouvrement d’orbitales hybrides sp.",
+                "L’atome de carbone 3 est hybridé sp ."
+            ],
+            "correct_answers": [
+                "Les liaisons σ formées à partir de l’atome de carbone 3 sont dans le même plan",
+                "La liaison σ entre l’atome de carbone 1 et l’atome de carbone 2 provient du recouvrement d’orbitales hybrides sp ."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquer la (ou les) proposition (s) exacte (s). Une réaction est spontanée si",
+            "options": [
+                "ΔG<O",
+                "elle produit de la chaleur",
+                "sa constante d’équilibre est plus grande que 1",
+                "elle est totale",
+                "elle est très rapider0"
+            ],
+            "correct_answers": [
+                "Δ G<O",
+                "sa constante d’équilibre est plus grande que 1",
+                "elle est totaler0"
+            ]
+        },
+        {
+            "question": "L’enthalpie de combustion du méthanol est égale à -711 kJ/mol. Quelle masse de méthanol doit-on brûler dans l’oxygène pour libérer une énergie de 71,1 kJ ?",
+            "options": [
+                "aucune des v aleur s proposées",
+                "71,5 g",
+                "3,2 g",
+                "715 g",
+                "32 g"
+            ],
+            "correct_answers": [
+                "3,2 g"
+            ]
+        },
+        {
+            "question": "Etablir la bonne série de relations de cause à effet concernant le phosphore : Causes Effets 1. Le phosphore est oxophile 2. Les composés du phosphore les plus stables sont ceux où P a le degré d'oxydation le plus faible 3. le phosphore peut établir des doubles liaisons avec le carbonex. Les sels de phosphonium formés par réaction entre la triphénylphosphine et un halogénure d'alkyle primaire sont déprotonables en milieu fortement basique, contrairement aux sels d'ammonium formés par réaction entre la triméthylamine et un halogénure d'alkyle primaire y. La réaction de Wittig est stéréosélective z. Les phosphines sont instables",
+            "options": [
+                "1x, 2y , 3z",
+                "1x, 2z, 3y",
+                "1y, 2z, 3x",
+                "1y, 2x, 3z",
+                "1z, 2x, 3y"
+            ],
+            "correct_answers": [
+                "1y, 2z, 3x"
+            ]
+        }
+    ]
+}

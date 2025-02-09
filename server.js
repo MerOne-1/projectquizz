@@ -1,24 +1,20 @@
 const express = require('express');
-const mongoose = require('mongoose');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 5002;
 
 // Middleware
 app.use(cors());
 app.use(express.json());
 
-// MongoDB connection
-mongoose.connect('mongodb://localhost:27017/quiz-app', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-}).then(() => console.log('MongoDB connected')).catch(err => console.log(err));
+// Serve static files from the React app
+app.use(express.static(path.join(__dirname, 'build')));
 
 // Serve JSON files
-const quizDataPath = path.join(__dirname, 'quiz-data');
+const quizDataPath = path.join(__dirname, 'quiz-data', 'themes');
 
 app.get('/api/themes', (req, res) => {
   fs.readdir(quizDataPath, (err, files) => {
@@ -37,13 +33,19 @@ app.get('/api/quiz/:theme', (req, res) => {
     if (err) {
       return res.status(404).json({ error: 'Theme not found' });
     }
-    res.json(JSON.parse(data));
+    try {
+      const quizData = JSON.parse(data);
+      res.json(quizData);
+    } catch (error) {
+      res.status(500).json({ error: 'Invalid quiz data' });
+    }
   });
 });
 
-// Default route
-app.get('/', (req, res) => {
-  res.send('Quiz App Backend');
+// The "catchall" handler: for any request that doesn't
+// match one above, send back React's index.html file.
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
 app.listen(PORT, () => {

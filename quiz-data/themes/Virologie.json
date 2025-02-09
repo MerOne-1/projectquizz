@@ -1,0 +1,308 @@
+{
+    "theme": "Virologie",
+    "questions": [
+        {
+            "question": "Le suivi biologique de M. Jean-Claude M. sous traitement repose sur :",
+            "options": [
+                "Une mesure régulière de la charge virale du taux de lymphocyte T CD4+",
+                "Une surveillance régulière de la fonction rénale",
+                "Une surveillance régulière de l'hémogramme",
+                "Une mesure régulière de la charge virale du HIV",
+                "Une surveillance régulière des transaminases"
+            ],
+            "correct_answers": [
+                "Une mesure régulière de la charge virale du HIV",
+                "Une mesure régulière de la charge virale du taux de lymphocyte T CD4+",
+                "Une surveillance régulière de l'hémogramme",
+                "Une surveillance régulière de la fonction rénale",
+                "Une surveillance régulière des transaminases"
+            ]
+        },
+        {
+            "question": "M. Victor B., 38 ans, commercial, est infecté par un HCV de génotype 1. Il vous présente l'ordonnance suivante. Concernant le daclatasvir , quelles sont les réponses exactes ?",
+            "options": [
+                "Il est toujours prescrit en association",
+                "C'est un inhibiteur de la NS5A",
+                "Il est actif sur le HIV",
+                "Il est actif sur tous les génotypes du HCV",
+                "C'est un inhibiteur de la protéase"
+            ],
+            "correct_answers": [
+                "C'est un inhibiteur de la NS5A",
+                "Il est toujours prescrit en association",
+                "Il est actif sur tous les génotypes du HCV"
+            ]
+        },
+        {
+            "question": "Mme Jeanine V, 27 ans, traductrice, est enceinte de 6 mois. Un bilan biologique a été réalisé qui donne les résultats suivants : Recherche de l'antigène HBs : négative Recherche d'anticorps anti-Rubéole : de type IgG : négative de type IgM : négative. Quels conseils adressez-vous à Mme Jeanine V. ?",
+            "options": [
+                "Aucun de ces conseils n'est adapté",
+                "Se faire vacciner immédiatement contre la Rubéole",
+                "Se faire vacciner contre la Rubéole dans les mois qui suivent l'accouchement",
+                "Se faire vacciner contre la Rubéole dans les jours qui suivent l'accouchement",
+                "Se faire vacciner contre le HBV après l'accouchement"
+            ],
+            "correct_answers": [
+                "Se faire vacciner contre la Rubéole dans les jours qui suivent l'accouchement",
+                "Se faire vacciner contre la Rubéole dans les mois qui suivent l'accouchement",
+                "Se faire vacciner contre le HBV après l'accouchement"
+            ]
+        },
+        {
+            "question": "Concernant le virus de la poliomyélite, quelles sont les réponses vraies ?",
+            "options": [
+                "C'est un virus transmissible par le sang",
+                "C'est un virus transmissible par voie fécale orale",
+                "C'est un virus responsable de paralysies flasques",
+                "La vaccination contre la poliomyélite est obligatoire en France",
+                "C'est un virus responsable de gastro-entérites"
+            ],
+            "correct_answers": [
+                "C'est un virus transmissible par voie fécale orale",
+                "C'est un virus responsable de paralysies flasques",
+                "La vaccination contre la poliomyélite est obligatoire en France"
+            ]
+        },
+        {
+            "question": "Parmi les conseils suivants, lesquels donnez-vous à la mère de Kevin ?",
+            "options": [
+                "Vacciner Kevin par le Rotateq ou le Rotarix",
+                "Nourrir Kevin avec du riz et des bananes jusqu'au retour à un transit normal",
+                "Ne pas mettre Kevin en contact avec son frère de 5 ans",
+                "Faire boire Kevin régulièrement avec un soluté de réhydratation oral",
+                "Kevin doit se laver les mains après chaque selle"
+            ],
+            "correct_answers": [
+                "Nourrir Kevin avec du riz et des bananes jusqu'au retour à un transit normal",
+                "Faire boire Kevin régulièrement avec un soluté de réhydratation oral",
+                "Kevin doit se laver les mains après chaque selle"
+            ]
+        },
+        {
+            "question": "M. Jean-Claude M., 47 ans, gérant de magasin, est infecté par le HIV. Il vous présente l'ordonnance suivante : Concernant cette ordonnance, quelles sont les réponses exactes ?",
+            "options": [
+                "M. Jean-Claude M. doit prendre son traitement à jeun",
+                "L'association darunavir+ritonavir est une association de 2 antiprotéases",
+                "L'association emtricitabine+tenofovir est une association de 2 inhibiteurs de la transcriptase inverse",
+                "Dans le traitement initial d'une infection par le HIV, une trithérapie est toujours conseillée",
+                "M. Jean-Claude M. doit prendre son traitement à heures fixes"
+            ],
+            "correct_answers": [
+                "L'association darunavir+ritonavir est une association de 2 antiprotéases",
+                "L'association emtricitabine+tenofovir est une association de 2 inhibiteurs de la transcriptase inverse",
+                "Dans le traitement initial d'une infection par le HIV, une trithérapie est toujours conseillée",
+                "M. Jean-Claude M. doit prendre son traitement à heures fixes"
+            ]
+        },
+        {
+            "question": "Mme Jeanine V, 27 ans, traductrice, est enceinte de 6 mois. Un bilan biologique a été réalisé qui donne les résultats suivants : Recherche de l'antigène HBs : négative Recherche d'anticorps anti-Rubéole : de type IgG : négative de type IgM : négative Parmi les items suivants, lesquels s'appliquent à ces résultats ?",
+            "options": [
+                "Mme Jeanine V n'est pas infectée par le HBV",
+                "Mme Jeanine V n'est pas immunisée contre la Rubéole",
+                "Mme Jeanine V est infectée par le HBV",
+                "Mme Jeanine V est infectée par le virus de la Rubéole",
+                "Mme Jeanine V est immunisée contre la Rubéole"
+            ],
+            "correct_answers": [
+                "Mme Jeanine V n'est pas infectée par le HBV",
+                "Mme Jeanine V n'est pas immunisée contre la Rubéole"
+            ]
+        },
+        {
+            "question": "Mme Juliette T., 21 ans, étudiante, se plaint de boutons de fièvres. Concernant cette pathologie, quels sont les réponses vraies ?",
+            "options": [
+                "C'est l'expression clinique d'une récurrence d'un Herpes Simplex Virus (HSV)",
+                "C'est une forme clinique potentiellement récidivante",
+                "Un traitement par Ganciclovir peut être proposé",
+                "Un traitement par Aciclovir en topique peut être proposé",
+                "C'est une forme clinique très contagieuse"
+            ],
+            "correct_answers": [
+                "C'est l'expression clinique d'une récurrence d'un Herpes Simplex Virus (HSV)",
+                "C'est une forme clinique très contagieuse",
+                "C'est une forme clinique potentiellement récidivante",
+                "Un traitement par Aciclovir en topique peut être proposé"
+            ]
+        },
+        {
+            "question": "Concernant cette ordonnance, quels conseils doit-on donner à M. Victor B ?",
+            "options": [
+                "M. Victor B. ne doit jamais interrompre son traitement",
+                "En cas d'oubli de prise de moins de 12h, il doit immédiatement prendre son traitement",
+                "Il doit éviter l'automédication",
+                "Il doit signaler toute anomalie survenant au cours de son traitement",
+                "Le traitement doit être impérativement pris pendant les repas"
+            ],
+            "correct_answers": [
+                "Le traitement doit être impérativement pris pendant les repas",
+                "M. Victor B. ne doit jamais interrompre son traitement",
+                "En cas d'oubli de prise de moins de 12h, il doit immédiatement prendre son traitement",
+                "Il doit signaler toute anomalie survenant au cours de son traitement",
+                "Il doit éviter l'automédication"
+            ]
+        },
+        {
+            "question": "Face aux parents d'un nourrisson porteur d'une bronchiolite, quels sont les conseils à leur donner ?",
+            "options": [
+                "Coucher l'enfant en position proclive",
+                "Éviter le jus d'orange avant le coucher",
+                "Faire dormir l'enfant fenêtre ouverte",
+                "Éviter le tabagisme passif",
+                "Aérer la chambre de l'enfant matin et soir"
+            ],
+            "correct_answers": [
+                "Éviter le tabagisme passif",
+                "Coucher l'enfant en position proclive",
+                "Aérer la chambre de l'enfant matin et soir"
+            ]
+        },
+        {
+            "question": "Mme Macha T., 45 ans, restauratrice, est infectée par le HBV. Son traitement comprend les éléments suivants : Ténofovir disoproxil, cp à 245 mg : 1cp/jour. Concernant le ténofovir disoproxil, quelles sont les réponses vraies ?",
+            "options": [
+                "Il doit être pris au cours d'un repas",
+                "C'est un inhibiteur de la protéase",
+                "Il doit être pris à jeun",
+                "C'est un inhibiteur de l'intégrase",
+                "C'est un inhibiteur de la T ranscriptase Inverse du virus"
+            ],
+            "correct_answers": [
+                "C'est un inhibiteur de la T ranscriptase Inverse du virus",
+                "Il doit être pris au cours d'un repas"
+            ]
+        },
+        {
+            "question": "Dans l'officine où vous êtes en stage, vous trouvez les médicaments suivants : A VAXIM, HA VRIX. Concernant ces médicaments, quelles sont les réponses vraies ?",
+            "options": [
+                "Il s'agit de vaccins, ils doivent être conservés à +4°C",
+                "Ce sont des vaccins contre l'hépatite A",
+                "Ce sont des vaccins recommandés chez la femme enceinte",
+                "Ce sont des vaccins recommandés chez les personnes infectées par le virus de l'hépatite B",
+                "Ce sont des vaccins contre l'hépatite E"
+            ],
+            "correct_answers": [
+                "Ce sont des vaccins contre l'hépatite A",
+                "Ce sont des vaccins recommandés chez les personnes infectées par le virus de l'hépatite B",
+                "Il s'agit de vaccins, ils doivent être conservés à +4°C"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le vaccin contre le virus de l'hépatite B, la/lesquelles est/sont vraie/s",
+            "options": [
+                "vaccin contre-indiqué chez la femme enceinte",
+                "chez le sujet vacciné, les anticorps anti-HBs sont seuls positifs",
+                "Une fièvre peut survenir dans les 48h après la vaccination",
+                "vaccin produit génétiquement",
+                "vaccin obligatoire chez les personnels de santé"
+            ],
+            "correct_answers": [
+                "vaccin produit génétiquement",
+                "chez le sujet vacciné, les anticorps anti-HBs sont seuls positifs",
+                "Une fièvre peut survenir dans les 48h après la vaccination"
+            ]
+        },
+        {
+            "question": "Quels conseils thérapeutiques devez-vous donner à Mme Macha T.",
+            "options": [
+                "Ne jamais interrompre son traitement",
+                "Signaler à son médecin traitant toute anomalie survenant au cours du traitement",
+                "Prévenir tous les professionnels de santé de son infection",
+                "Prendre son traitement à heure fixe",
+                "Éviter toute auto-médication"
+            ],
+            "correct_answers": [
+                "Ne jamais interrompre son traitement",
+                "Prendre son traitement à heure fixe",
+                "Signaler à son médecin traitant toute anomalie survenant au cours du traitement",
+                "Éviter toute auto-médication",
+                "Prévenir tous les professionnels de santé de son infection"
+            ]
+        },
+        {
+            "question": "Choisir les items qui s'appliquent à ces vaccins.",
+            "options": [
+                "Une souche utilisée pour fabriquer le vaccin est analogue à l'isolat 97 15293 du virus grippal de type A isolé en Suisse",
+                "Une souche utilisée pour fabriquer le vaccin est analogue à l'isolat 3073 du virus grippal de type B isolé à Phuket",
+                "Les vaccins ont été fabriqués en Californie, en Suisse, à Phuket",
+                "H3N2 caractérise un virus grippal de type B de sous-type H3N2",
+                "H1N1 pdm2009 caractérise un virus grippal de type A de sous-type H1N1 responsable de la pandémie 2009"
+            ],
+            "correct_answers": [
+                "Une souche utilisée pour fabriquer le vaccin est analogue à l'isolat 3073 du virus grippal de type B isolé à Phuket",
+                "Une souche utilisée pour fabriquer le vaccin est analogue à l'isolat 97 15293 du virus grippal de type A isolé en Suisse",
+                "H1N1 pdm2009 caractérise un virus grippal de type A de sous-type H1N1 responsable de la pandémie 2009"
+            ]
+        },
+        {
+            "question": "Mme Joséphine B, 23 ans, intermittente du spectacle, est enceinte de 3 mois. Son médecin généraliste l'a informé des risques de l'infection à CMV au cours de la grossesse. Concernant les infections à CMV chez la femme enceinte, quelles sont les réponses vraies ?",
+            "options": [
+                "L'infection peut être responsable de surdités uni- ou bilatérales",
+                "L'infection de la femme enceinte peut être traitée par ganciclovir",
+                "L'infection se transmet par voie transplacentaire",
+                "L'infection peut être prévenue par la vaccination",
+                "L'infection peut être responsable de malformations fœtales"
+            ],
+            "correct_answers": [
+                "L'infection se transmet par voie transplacentaire",
+                "L'infection peut être responsable de surdités uni- ou bilatérales",
+                "L'infection peut être responsable de malformations fœtales"
+            ]
+        },
+        {
+            "question": "Concernant le sofosbuvir , quelles sont les réponses exactes ?",
+            "options": [
+                "C'est un inhibiteur de la polymerase virale",
+                "C'est un inhibiteur de la NS5A",
+                "C'est un inhibiteur de la NS5B",
+                "Il est actif sur le HIV",
+                "Il est actif sur tous les génotypes du HCV"
+            ],
+            "correct_answers": [
+                "C'est un inhibiteur de la NS5B",
+                "C'est un inhibiteur de la polymerase virale",
+                "Il est actif sur tous les génotypes du HCV"
+            ]
+        },
+        {
+            "question": "Concernant la vaccination contre les Papillomavirus en France, quelles sont les réponses vraies ?",
+            "options": [
+                "C'est un vaccin inactivé",
+                "Cette vaccination est recommandée chez les hommes ayant des relations sexuelles avec des hommes",
+                "Cette vaccination est obligatoire pour les filles à partir de 9 ans",
+                "C'est un vaccin vivant atténué",
+                "Cette vaccination n'est pas recommandée car elle est responsable de Sclérose en Plaques"
+            ],
+            "correct_answers": [
+                "Cette vaccination est recommandée chez les hommes ayant des relations sexuelles avec des hommes"
+            ]
+        },
+        {
+            "question": "M. Victor B., 38 ans, commercial, est infecté par un HCV de génotype 1. Il vous présente l'ordonnance suivante Parmi les items suivants, lesquels peuvent être des effets secondaires ressentis par M . Victor B . ?",
+            "options": [
+                "Hémorroïdes",
+                "Nausées",
+                "Asthénie",
+                "Anémie hémolytique",
+                "Céphalées"
+            ],
+            "correct_answers": [
+                "Céphalées",
+                "Nausées",
+                "Asthénie"
+            ]
+        },
+        {
+            "question": "La prise en charge d'une gastro-entérite virale repose sur :",
+            "options": [
+                "Un régime alimentaire adapté",
+                "Une consultation médicale spécialisée",
+                "Une vaccination",
+                "Des conseils d'hygiène",
+                "Un traitement par ralentisseurs du transit"
+            ],
+            "correct_answers": [
+                "Un régime alimentaire adapté",
+                "Des conseils d'hygiène"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,860 @@
+{
+    "theme": "Toxicologie et santé publique",
+    "questions": [
+        {
+            "question": "Concernant la toxicologie des médicaments psychotropes, quelle est (sont) la (les) proposition(s) inexacte(s) ?",
+            "options": [
+                "Le dosage de la lithémie peut-être réalisé par spectrophotométrie d’absorption atomique.",
+                "Une mono-intoxication aiguë aux antidépresseurs tricycliques entraîne un coma calme, hypotonique et hyporéflexique.",
+                "Une intoxication aiguë au lithium est en général moins sévère chez un patient traité chroniquement que chez un sujet naïf.",
+                "La complication redoutée d’une intoxication par un inhibiteur sélectif de la recapture de la sérotonine est le syndrome anticholinergique.",
+                "Les antidépresseurs tricycliques présentent à dose toxique un effet stabilisant de membrane."
+            ],
+            "correct_answers": [
+                "Une intoxication aiguë au lithium est en général moins sévère chez un patient traité chroniquement que chez un sujet naïf.",
+                "Une mono-intoxication aiguë aux antidépresseurs tricycliques entraîne un coma calme, hypotonique et hyporéflexique.",
+                "La complication redoutée d’une intoxication par un inhibiteur sélectif de la recapture de la sérotonine est le syndrome anticholinergique."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Le toxidrome est un syndrome causé par un toxique spécifique.",
+                "Le toxidrome s’applique particulièrement en cas d’intoxications multiples.",
+                "La connaissance du toxidrome permet d’orienter la prise en charge thérapeutique.",
+                "Toutes ces propositions.",
+                "Il existe un toxidrome spécifique à chaque intoxication."
+            ],
+            "correct_answers": [
+                "Le toxidrome est un syndrome causé par un toxique spécifique.",
+                "La connaissance du toxidrome permet d’orienter la prise en charge thérapeutique."
+            ]
+        },
+        {
+            "question": "Concernant les deux principales mesures d’association entre une maladie et un facteur de risque, quelle(s) est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "La prévalence",
+                "Le taux d’incidence",
+                "Le risque relatif",
+                "L’odds ratio",
+                "L’incidence cumulée"
+            ],
+            "correct_answers": [
+                "L’odds ratio",
+                "Le risque relatif"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les bonnes pratiques de laboratoire (BPL) dans la réalisation des essais de sécurité non-cliniques, laquelle (lesquelles) est (sont) inexacte(s) ?",
+            "options": [
+                "Les principes des BPL ont été définis par l’Organisation de Coopération et de Développement Economiques (OCDE) pour être mis en place au niveau international.",
+                "Les modes opératoires normalisés sont des documents écrits permettant d’assurer la qualité et l’intégrité des données obtenues.",
+                "La mise en place d’un programme d’assurance qualité est facultative au sein d’un laboratoire de sécurité non-clinique.",
+                "L’autorité compétente en France pour la vérification de la conformité aux BPL concernant les médicaments à usage humain est l’ANSES.",
+                "Les BPL visent à promouvoir la qualité, la reproductibilité et l’intégrité des données générées dans les laboratoires de contrôle et d'essais."
+            ],
+            "correct_answers": [
+                "L’autorité compétente en France pour la vérification de la conformité aux BPL concernant les médicaments à usage humain est l’ANSES.",
+                "La mise en place d’un programme d’assurance qualité est facultative au sein d’un laboratoire de sécurité non-clinique."
+            ]
+        },
+        {
+            "question": "En cas d’intoxication aiguë, l’établissement d’un diagnostic étiologique requiert en première intention : donner la (les) réponse(s) exacte(s).",
+            "options": [
+                "L’utilisation, si possible, du toxidrome.",
+                "La description du tableau clinique du patient.",
+                "La recherche chez le patient du toxique incriminé.",
+                "L’interrogatoire médical du patient.",
+                "La connaissance des circonstances dans lesquelles s’est produite l’intoxication."
+            ],
+            "correct_answers": [
+                "La connaissance des circonstances dans lesquelles s’est produite l’intoxication.",
+                "La description du tableau clinique du patient.",
+                "L’utilisation, si possible, du toxidrome."
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations concernant l’asbestose, laquelle (lesquelles) est (sont) inexacte(s) ?",
+            "options": [
+                "Cette affection pulmonaire est une pneumoconiose maligne.",
+                "Cette affection est une fibrose du parenchyme pulmonaire.",
+                "Cette affection n’implique pas de désordres d’ordre immunologique.",
+                "Le développement de cette affection implique l’activation des macrophages alvéolaires et le développement d’un stress oxydant et d’une réponse inflammatoire.",
+                "Cette affection est causée par l’inhalation de la silice cristalline."
+            ],
+            "correct_answers": [
+                "Cette affection est causée par l’inhalation de la silice cristalline.",
+                "Cette affection n’implique pas de désordres d’ordre immunologique."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant les homologues du benzène, laquelle (lesquelles) est (sont) exacte(s)?",
+            "options": [
+                "La spectrophotométrie UV est la méthode de référence de dosage de ces composés en milieu atmosphérique",
+                "Ce sont des irritants des muqueuses.",
+                "Ils exercent un effet dépresseur du système nerveux central.",
+                "Ils sont majoritairement éliminés en nature par voie pulmonaire.",
+                "Ce sont tous des toxiques hématologiques."
+            ],
+            "correct_answers": [
+                "Ce sont des irritants des muqueuses.",
+                "Ils exercent un effet dépresseur du système nerveux central."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant l’intoxication par les méthémoglobinisants, laquelle (lesquelles) est (sont) inexacte(s)?",
+            "options": [
+                "Il y a mort du sujet pour une méthémoglobine >10% de l’Hb totale.",
+                "Le principal antidote est le bleu de méthylène.",
+                "L’alcool favorise la métabolisation de la MetHb.",
+                "Elle débute cliniquement par une cyanose.",
+                "La mesure de la MetHb se fait le plus souvent par méthode spectrophotométrique."
+            ],
+            "correct_answers": [
+                "Il y a mort du sujet pour une méthémoglobine >10% de l’Hb totale.",
+                "L’alcool favorise la métabolisation de la MetHb."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le trichloréthylène, laquelle (lesquelles) est (sont) exacte(s)?",
+            "options": [
+                "La réaction alcalino-pyridinique à chaud de Fujiwara-Ross permet de doser les principaux métabolites du trichloroéthylène.",
+                "Les métabolites principaux sont le trichloroéthanol et l'acide trichloracétique.",
+                "L'intoxication aiguë entraîne des signes d'hyperexcitabilité cardiaque.",
+                "L'exposition à long terme entraîne une destruction des os des doigts.",
+                "Un contact cutané répété peut être à l'origine de dermatoses."
+            ],
+            "correct_answers": [
+                "Les métabolites principaux sont le trichloroéthanol et l'acide trichloracétique.",
+                "La réaction alcalino-pyridinique à chaud de Fujiwara-Ross permet de doser les principaux métabolites du trichloroéthylène.",
+                "Un contact cutané répété peut être à l'origine de dermatoses.",
+                "L'intoxication aiguë entraîne des signes d'hyperexcitabilité cardiaque."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie des antipsychotiques, quelle est (sont) la (les) proposition(s) inexacte(s) ?",
+            "options": [
+                "En cas d’intoxication aiguë sévère, tous les neuroleptiques dits « classiques », comme la chlorpromazine ou la fluphénazine, peuvent entraîner la survenue d’un coma calme, profond et hypotonique.",
+                "En cas d’intoxication aiguë, les antipsychotiques de 1ère génération peuvent entraîner la survenue d’un syndrome anticholinergique.",
+                "Les neuroleptiques de type phénothiazine sont responsables de résultats faussement positifs avec les méthodes de dépistage sanguin et urinaire, de type immunoanalyse, des antidépresseurs tricycliques.",
+                "Leur mécanisme d’action toxique repose sur leur propriété d’agonistes dopaminergiques non sélectifs.",
+                "Le syndrome malin aux neuroleptiques correspond à un syndrome de sevrage aux neuroleptiques."
+            ],
+            "correct_answers": [
+                "Leur mécanisme d’action toxique repose sur leur propriété d’agonistes dopaminergiques non sélectifs.",
+                "En cas d’intoxication aiguë sévère, tous les neuroleptiques dits « classiques », comme la chlorpromazine ou la fluphénazine, peuvent entraîner la survenue d’un coma calme, profond et hypotonique.",
+                "Le syndrome malin aux neuroleptiques correspond à un syndrome de sevrage aux neuroleptiques."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant l’intoxication par les hydrocarbures aromatiques polycycliques (HAP), laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Ils sont responsables d’effets irritants, inflammatoires, voire mutagènes/cancérogènes.",
+                "Ils sont présents dans l’atmosphère uniquement sous forme particulaire.",
+                "Ils sont mesurables dans les matrices humaines que sous formes de métabolites et par CLHP-UV.",
+                "Ils sont issus de la pyrolyse/pyrosynthèse de matériaux inorganiques.",
+                "Ils sont métabolisés dans l’organisme humain après l’activation de la voie de signalisation de l’Aryl hydrocarbon Receptor (AhR)."
+            ],
+            "correct_answers": [
+                "Ils sont issus de la pyrolyse/pyrosynthèse de matériaux inorganiques.",
+                "Ils sont métabolisés dans l’organisme humain après l’activation de la voie de signalisation de l’Aryl hydrocarbon Receptor (AhR).",
+                "Ils sont responsables d’effets irritants, inflammatoires, voire mutagènes/cancérogènes."
+            ]
+        },
+        {
+            "question": "Parmi ces composés, lequel (lesquels) a (ont) été classé(s) par le CIRC cancérogène(s) pour l’homme :",
+            "options": [
+                "Benzo[a]pyrène.",
+                "Benzène.",
+                "Aluminium.",
+                "Hexane.",
+                "Amiante."
+            ],
+            "correct_answers": [
+                "Amiante.",
+                "Benzène.",
+                "Benzo[a]pyrène."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le syndrome d’alcoolisation fœtal (SAF), laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Le diagnostic médical du SAF associe un retard de croissance pré et postnatal, une dysmorphie crâniofaciale caractéristique et une atteinte du système nerveux central.",
+                "Le risque n’est présent qu’en cas de consommation d’alcool durant le second et le troisième trimestre de grossesse.",
+                "Un des axes de prévention primaire du SAF consiste en la mise en place de campagnes d’information.",
+                "Le risque fœtal existe si la consommation d’alcool excède l’équivalent de 2 verres standards par semaine durant la grossesse.",
+                "Le risque fœtal existe si la consommation d’alcool excède l’équivalent de 2 verres standards par jour durant la grossesse."
+            ],
+            "correct_answers": [
+                "Un des axes de prévention primaire du SAF consiste en la mise en place de campagnes d’information.",
+                "Le diagnostic médical du SAF associe un retard de croissance pré et postnatal, une dysmorphie crâniofaciale caractéristique et une atteinte du système nerveux central."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie des pesticides de type organophosphorés ou carbamates, quelle est (sont) la (les) proposition(s) inexacte(s) ?",
+            "options": [
+                "La toxicité des pesticides du type carbamate est en général plus sévère que celle des organophosphorés.",
+                "Le paraoxon, métabolite du parathion, ne présente pas d’activité anticholinestérasique.",
+                "Les organophosphorés inhibent l’acétylcholinestérase et la butyrylcholinestérase.",
+                "La sévérité d’une intoxication par un organophosphoré est corrélée au degré d’inhibition de la butyrylcholinestérase.",
+                "Lors d’une intoxication aiguë par les organophosphorés, les symptômes de la phase muscarinique sont traités par administration d’atropine."
+            ],
+            "correct_answers": [
+                "La toxicité des pesticides du type carbamate est en général plus sévère que celle des organophosphorés.",
+                "Le paraoxon, métabolite du parathion, ne présente pas d’activité anticholinestérasique.",
+                "La sévérité d’une intoxication par un organophosphoré est corrélée au degré d’inhibition de la butyrylcholinestérase."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le trichloréthylène, laquelle (lesquelles) est (sont) inexacte(s) ?",
+            "options": [
+                "La voie principale d’absorption du trichloroéthylène dans l’organisme lors d’une exposition chronique est la voie orale.",
+                "Les métabolites principaux du trichloroéthylène sont le trichloroéthanol et l'acide trichloracétique.",
+                "La réaction alcalino-pyridinique à chaud de Fujiwara-Ross permet le dosage urinaire du trichloroéthylène.",
+                "Le trichloroéthylène dans l'organisme subit un métabolisme oxydatif.",
+                "L'intoxication aiguë au trichloroéthylène entraîne des signes d'hyperexcitabilité cardiaque."
+            ],
+            "correct_answers": [
+                "La voie principale d’absorption du trichloroéthylène dans l’organisme lors d’une exposition chronique est la voie orale.",
+                "La réaction alcalino-pyridinique à chaud de Fujiwara-Ross permet le dosage urinaire du trichloroéthylène."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant les antidotes, laquelle (lesquelles) est (sont) exacte(s)?",
+            "options": [
+                "Le seul antidote d'une intoxication par l'éthylène glycol est l'éthanol.",
+                "L'anticorps antidigoxine est l'antidote d'une intoxication par les digitaliques.",
+                "Le flumazénil est l'antidote d'une intoxication par un pesticide organophosphoré.",
+                "La N-acétylcystéine est l'antidote d'une intoxication aux salicylés.",
+                "La naloxone est l'antidote d'une intoxication aux opiacés."
+            ],
+            "correct_answers": [
+                "L'anticorps antidigoxine est l'antidote d'une intoxication par les digitaliques.",
+                "La naloxone est l'antidote d'une intoxication aux opiacés."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le tabac, laquelle (lesquelles) est (sont) exacte(s)?",
+            "options": [
+                "Le tabagisme est en France la troisième cause de mortalité évitable.",
+                "Le tabagisme est responsable du décès d’environ 1 fumeur sur 2.",
+                "Le test de Fagerström évalue la dépendance physique au tabac.",
+                "Le cancer pulmonaire est le cancer le plus fréquent lié au tabagisme.",
+                "Le sevrage tabagique est une action de prévention primaire."
+            ],
+            "correct_answers": [
+                "Le tabagisme est responsable du décès d’environ 1 fumeur sur 2.",
+                "Le cancer pulmonaire est le cancer le plus fréquent lié au tabagisme.",
+                "Le test de Fagerström évalue la dépendance physique au tabac."
+            ]
+        },
+        {
+            "question": "Parmi les facteurs suivants, lesquels aggravent le pronostic d’une intoxication par le paracétamol?",
+            "options": [
+                "La malnutrition.",
+                "Le très jeune âge.",
+                "Le déficit en glutathion.",
+                "La consommation chronique d’éthanol.",
+                "L’ingestion simultanée d'acide acétylsalicylique."
+            ],
+            "correct_answers": [
+                "La consommation chronique d’éthanol.",
+                "La malnutrition.",
+                "Le déficit en glutathion."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la spectrométrie d'absorption atomique, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Est mise en œuvre sur des spectromètres à double faisceau.",
+                "Est une méthode d'analyse quantitative d'éléments atomiques à l'état de vapeur.",
+                "Utilise un four en graphite pour vaporiser les éléments.",
+                "Nécessite une correction des interférences par lampe au deutérium.",
+                "Exploite l'absorption d'énergie lumineuse fournie par une lampe à cathode creuse."
+            ],
+            "correct_answers": [
+                "Est une méthode d'analyse quantitative d'éléments atomiques à l'état de vapeur.",
+                "Exploite l'absorption d'énergie lumineuse fournie par une lampe à cathode creuse.",
+                "Utilise un four en graphite pour vaporiser les éléments.",
+                "Nécessite une correction des interférences par lampe au deutérium."
+            ]
+        },
+        {
+            "question": "Concernant les drogues illicites, quelle est (sont) la (les) proposition(s) inexacte(s) ?",
+            "options": [
+                "L’hypothermie est un signe toxique majeur lors d’une intoxication par la MDMA.",
+                "L’action hallucinogène du LSD et de la MDMA (ecstasy) est liée à leur propriété d’agonistes sérotoninergiques.",
+                "L’intoxication aiguë par l’héroïne se caractérise par un coma profond, une dépression respiratoire et un myosis bilatéral.",
+                "La cocaïne présente une cardiotoxicité liée notamment à son effet stabilisant de membrane.",
+                "La consommation d’héroïne peut être mise en évidence par l’identification dans le sang de la 6-monoacétylmorphine."
+            ],
+            "correct_answers": [
+                "L’hypothermie est un signe toxique majeur lors d’une intoxication par la MDMA."
+            ]
+        },
+        {
+            "question": "Quel(s) élément(s) peut(vent) être dosé(s) par photométrie de flamme ?",
+            "options": [
+                "Cuivre.",
+                "Lithium.",
+                "Aluminium.",
+                "Potassium.",
+                "Sodium."
+            ],
+            "correct_answers": [
+                "Potassium.",
+                "Sodium.",
+                "Lithium."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le système français de toxicovigilance et les missions des centres antipoison, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Les centres antipoison sont chargés de répondre 24h sur 24 à toute demande d’avis ou de conseil concernant le diagnostic, le pronostic et le traitement de cas d’intoxications humaines.",
+                "La toxicovigilance a pour objet la surveillance et l’évaluation des effets toxiques pour l’homme de l’exposition à un mélange ou une substance naturelle ou de synthèse.",
+                "Les centres antipoison (CAP) sont des organismes chargés de la toxicovigilance.",
+                "Les centres antipoison sont des organismes très impliqués dans le dispositif de surveillance du saturnisme infantile et de la tularémie.",
+                "La toxicovigilance a uniquement pour objet la surveillance des effets toxiques aigus."
+            ],
+            "correct_answers": [
+                "La toxicovigilance a pour objet la surveillance et l’évaluation des effets toxiques pour l’homme de l’exposition à un mélange ou une substance naturelle ou de synthèse.",
+                "Les centres antipoison (CAP) sont des organismes chargés de la toxicovigilance.",
+                "Les centres antipoison sont chargés de répondre 24h sur 24 à toute demande d’avis ou de conseil concernant le diagnostic, le pronostic et le traitement de cas d’intoxications humaines."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, lesquelles sont des actions de prévention primaire dans la lutte contre l’alcoolisme ?",
+            "options": [
+                "Suivi des patients en sortie de cure de sevrage.",
+                "Dépistage clinique de l'alcoolisme par le médecin.",
+                "Législation sur les débits de boissons et la répression de l'ivresse publique.",
+                "Campagnes publicitaires de prévention.",
+                "Instauration d'un taux de l'alcoolémie maximal autorisé pour les conducteurs automobiles."
+            ],
+            "correct_answers": [
+                "Campagnes publicitaires de prévention.",
+                "Instauration d'un taux de l'alcoolémie maximal autorisé pour les conducteurs automobiles.",
+                "Législation sur les débits de boissons et la répression de l'ivresse publique."
+            ]
+        },
+        {
+            "question": "Concernant la variabilité de réponse aux médicaments d’origine génétique, quelle est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "Les méthodes de génotypage d’une enzyme du métabolisme des médicaments permettent de prédire le phénotype métabolique d’un individu pour cette enzyme.",
+                "Lors d’un test de phénotypage d’une enzyme du métabolisme des médicaments, il existe un risque de phénocopie en cas de co-administration de médicaments.",
+                "L’existence de différents phénotypes métaboliques pour une enzyme donnée dans la population générale n’a d’impact sur la réponse thérapeutique à un médicament-substrat de cette enzyme que si son index thérapeutique est étroit.",
+                "En général, et quel que soit le médicament concerné, le phénotype « métaboliseur ultra-rapide » correspond à un phénotype à risque accru d’effets indésirables.",
+                "Pour un médicament administré sous forme de prodrogue, à doses standards, et métabolisé par une enzyme polymorphe, le phénotype « métaboliseur lent » est à risque d’inefficacité thérapeutique."
+            ],
+            "correct_answers": [
+                "Les méthodes de génotypage d’une enzyme du métabolisme des médicaments permettent de prédire le phénotype métabolique d’un individu pour cette enzyme.",
+                "Pour un médicament administré sous forme de prodrogue, à doses standards, et métabolisé par une enzyme polymorphe, le phénotype « métaboliseur lent » est à risque d’inefficacité thérapeutique.",
+                "Lors d’un test de phénotypage d’une enzyme du métabolisme des médicaments, il existe un risque de phénocopie en cas de co-administration de médicaments."
+            ]
+        },
+        {
+            "question": "Parmi les maladies infectieuses suivantes, laquelle n'est pas à déclaration obligatoire?",
+            "options": [
+                "Méningite cérébro-spinale",
+                "Grippe",
+                "Fièvre typhoïde",
+                "Rougeole",
+                "Légionellose"
+            ],
+            "correct_answers": [
+                "Grippe"
+            ]
+        },
+        {
+            "question": "D’après la classification de Zimmerman, les réactions hépatotoxiques à caractère prévisible se caractérisent par :",
+            "options": [
+                "Un risque augmenté par induction enzymatique.",
+                "Une récidive en cas de ré-administration de la substance toxique.",
+                "Des signes d’hypersensibilité.",
+                "Une relation dose-dépendante.",
+                "Une reproductibilité chez l’animal."
+            ],
+            "correct_answers": [
+                "Une relation dose-dépendante.",
+                "Une récidive en cas de ré-administration de la substance toxique.",
+                "Une reproductibilité chez l’animal.",
+                "Un risque augmenté par induction enzymatique."
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations concernant le syndrome de fièvres isolées transitoires consécutives à l’inhalation de certaines substances toxiques, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Cette affection maligne très spécifique débute par une irritation des voies aériennes supérieures, une oppression thoracique et une hyperthermie.",
+                "Ce syndrome peut être lié à l’inhalation d’oxydes métalliques.",
+                "Ce syndrome évolue très fréquemment en œdème aigu du poumon.",
+                "Le développement de ce syndrome implique l’activation des macrophages alvéolaires et le développement d’une réponse inflammatoire.",
+                "Ce syndrome fébrile est irréversible."
+            ],
+            "correct_answers": [
+                "Ce syndrome peut être lié à l’inhalation d’oxydes métalliques.",
+                "Le développement de ce syndrome implique l’activation des macrophages alvéolaires et le développement d’une réponse inflammatoire."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant l’intoxication au CO, laquelle (lesquelles) est (sont) inexacte(s) ?",
+            "options": [
+                "Le CO se caractérise par une odeur très caractéristique.",
+                "Il n’y a pas de HbCO chez un sujet normal.",
+                "Les effets cliniques ne se manifestent qu’à partir d’un taux de carboxyhémoglobine > 60%.",
+                "L'HbCO présente deux bandes d’absorption dans le spectre visible, non modifiées sous l’effet d’un réducteur.",
+                "La combinaison entre l’Hb et le CO est stable mais réversible."
+            ],
+            "correct_answers": [
+                "Les effets cliniques ne se manifestent qu’à partir d’un taux de carboxyhémoglobine > 60%.",
+                "Il n’y a pas de HbCO chez un sujet normal.",
+                "Le CO se caractérise par une odeur très caractéristique."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant la soumission chimique, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Les analyses toxicologiques réalisées chez une victime de soumission chimique, supposée ou avérée, reposent exclusivement sur une analyse capillaire réalisée à distance des faits.",
+                "Les substances administrées dans un contexte de soumission chimique sont dans la grande majorité des cas des médicaments antidépresseurs.",
+                "Les victimes de soumission chimique sont principalement les jeunes femmes et les enfants.",
+                "Les substances administrées dans un contexte de soumission chimique présentent en général des durées d’action et des demi-vies d’élimination courtes.",
+                "Dans un contexte de suspicion de soumission chimique, l’identification et le dosage des benzodiazépines au niveau sanguin sont idéalement réalisés par une méthode rapide automatisée de type immunochimique."
+            ],
+            "correct_answers": [
+                "Les victimes de soumission chimique sont principalement les jeunes femmes et les enfants.",
+                "Les substances administrées dans un contexte de soumission chimique présentent en général des durées d’action et des demi-vies d’élimination courtes."
+            ]
+        },
+        {
+            "question": "Parmi ces substances, laquelle (lesquelles) est (sont) hépatotoxique(s) ?",
+            "options": [
+                "Paracétamol.",
+                "Méthyldopa.",
+                "Amiodarone.",
+                "Aucune de ces propositions.",
+                "Halotane."
+            ],
+            "correct_answers": [
+                "Halotane.",
+                "Amiodarone.",
+                "Paracétamol.",
+                "Méthyldopa."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les perturbateurs endocriniens, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Certains perturbateurs endocriniens peuvent être des agonistes des récepteurs à œstrogène.",
+                "Les perturbateurs endocriniens agissent exclusivement en se liant avec les récepteurs nucléaires constituant les cibles naturelles des hormones.",
+                "La période d’exposition aux perturbateurs endocriniens au cours du développement de l’organisme déterminerait l’ampleur et la nature des effets observés.",
+                "Les effets des perturbateurs endocriniens peuvent être transmis a posteriori aux futures générations à travers des modifications épigénétiques dans les cellules germinales.",
+                "Les conséquences sanitaires potentielles de l’exposition à ces substances ne concernent que des troubles de la reproduction."
+            ],
+            "correct_answers": [
+                "Certains perturbateurs endocriniens peuvent être des agonistes des récepteurs à œstrogène.",
+                "La période d’exposition aux perturbateurs endocriniens au cours du développement de l’organisme déterminerait l’ampleur et la nature des effets observés.",
+                "Les effets des perturbateurs endocriniens peuvent être transmis a posteriori aux futures générations à travers des modifications épigénétiques dans les cellules germinales."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie de l’éthanol, quelle est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "Lors d’une intoxication très sévère à l’éthanol (alcoolémie > 3 g/L), le patient présente un coma calme et profond, une hypothermie, une hyperglycémie et une acidose respiratoire.",
+                "Plus de la moitié de l’éthanol est éliminée sous forme inchangée dans l’air expiré, phénomène mis à profit lors de l’utilisation d’un éthylomètre.",
+                "Le syndrome de sevrage à l’éthanol ou delirium tremens doit être considéré comme une situation d’urgence vitale.",
+                "Les conséquences métaboliques de l’intoxication éthylique sont essentiellement dues à la diminution du rapport NADH /NAD .",
+                "L’éthanol est un toxique fonctionnel dans un contexte d’intoxication aiguë et un toxique lésionnel dans un contexte d’intoxication chronique."
+            ],
+            "correct_answers": [
+                "L’éthanol est un toxique fonctionnel dans un contexte d’intoxication aiguë et un toxique lésionnel dans un contexte d’intoxication chronique.",
+                "Le syndrome de sevrage à l’éthanol ou delirium tremens doit être considéré comme une situation d’urgence vitale."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie des benzodiazépines (BZD), quelle est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "L'antidote d'une mono-intoxication à une BZD est le Fomépizole.",
+                "Les BZD sont métabolisées au niveau hépatique en métabolites qui sont tous pharmacologiquement inactifs.",
+                "Les BZD sont essentiellement cardiotoxiques.",
+                "Les BZD entraînent, en cas d’intoxication sévère, un coma calme, hypotonique et hyporéflexique.",
+                "Les BZD sont les molécules les plus souvent utilisées en France par les auteurs de soumission chimique, notamment du fait de leurs propriétés amnésiantes."
+            ],
+            "correct_answers": [
+                "Les BZD entraînent, en cas d’intoxication sévère, un coma calme, hypotonique et hyporéflexique.",
+                "Les BZD sont les molécules les plus souvent utilisées en France par les auteurs de soumission chimique, notamment du fait de leurs propriétés amnésiantes."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant l’usage de stupéfiants et la sécurité routière, laquelle (ou lesquelles) est (ou sont) inexacte(s) ?",
+            "options": [
+                "Les tests de dépistage des stupéfiants, urinaires ou salivaires, permettent de confirmer que le conducteur était sous influence d’une ou de plusieurs drogues au moment du test.",
+                "La conduite automobile sous l’influence de stupéfiant et d’alcool est passible des mêmes peines et amendes que la conduite automobile sous l’influence de stupéfiants uniquement.",
+                "La conduite automobile sous l’influence de stupéfiant est passible de 2 ans d’emprisonnement selon la Loi française du 3 février 2003.",
+                "Les tests de dépistage salivaires des stupéfiants, pratiqués sur les automobilistes, concernent le cannabis, la cocaïne, les amphétamines et les opiacés.",
+                "Un dépistage salivaire positif au cannabis chez un automobiliste doit être systématiquement confirmé par un dosage dans le sang."
+            ],
+            "correct_answers": [
+                "La conduite automobile sous l’influence de stupéfiant et d’alcool est passible des mêmes peines et amendes que la conduite automobile sous l’influence de stupéfiants uniquement.",
+                "Les tests de dépistage des stupéfiants, urinaires ou salivaires, permettent de confirmer que le conducteur était sous influence d’une ou de plusieurs drogues au moment du test."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie de la chloroquine, quelle est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "La chloroquine présente une cardiotoxicité du même type que les antidépresseurs tricycliques.",
+                "Il n’existe pas de traitement antidotique de l’intoxication à la chloroquine.",
+                "Lors d’une intoxication aiguë à la chloroquine, des troubles neurosensoriels, tels que des acouphènes et une vision floue, peuvent survenir précocement et permettre une orientation diagnostique.",
+                "Les toxiques à effet stabilisant de membrane (ESM) inhibent principalement l’entrée du calcium dans la cellule myocardique.",
+                "Le traitement spécifique d’une intoxication par la chloroquine repose sur la triade Adrénaline/Diazépam/Ventilation assistée."
+            ],
+            "correct_answers": [
+                "La chloroquine présente une cardiotoxicité du même type que les antidépresseurs tricycliques.",
+                "Lors d’une intoxication aiguë à la chloroquine, des troubles neurosensoriels, tels que des acouphènes et une vision floue, peuvent survenir précocement et permettre une orientation diagnostique.",
+                "Il n’existe pas de traitement antidotique de l’intoxication à la chloroquine.",
+                "Le traitement spécifique d’une intoxication par la chloroquine repose sur la triade Adrénaline/Diazépam/Ventilation assistée."
+            ]
+        },
+        {
+            "question": "Lors d'une intoxication aiguë par l'acide acétylsalicylique chez l'adulte, quel est (sont) le (les) symptôme(s) que l’on peut observer ?",
+            "options": [
+                "Une alcalose respiratoire.",
+                "Des vomissements.",
+                "Des bourdonnements d'oreilles.",
+                "Une hypothermie.",
+                "Des céphalées."
+            ],
+            "correct_answers": [
+                "Une alcalose respiratoire.",
+                "Des bourdonnements d'oreilles.",
+                "Des céphalées.",
+                "Des vomissements."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la toxicité du paracétamol, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "La néphropathie tubulaire aiguë constitue un signe précoce d'intoxication.",
+                "La N-acétylcystéine per os est d’autant plus efficace si elle est associée à du charbon activé.",
+                "L'administration précoce de charbon activé diminue la biodisponibilité du paracétamol.",
+                "Le dosage du paracétamol dans le sang 4 heures après ingestion est un bon élément du pronostic.",
+                "Lors d’une intoxication par le paracétamol, il peut être observé des signes précoces non spécifiques comme des nausées ou des vomissements."
+            ],
+            "correct_answers": [
+                "L'administration précoce de charbon activé diminue la biodisponibilité du paracétamol.",
+                "Le dosage du paracétamol dans le sang 4 heures après ingestion est un bon élément du pronostic.",
+                "Lors d’une intoxication par le paracétamol, il peut être observé des signes précoces non spécifiques comme des nausées ou des vomissements."
+            ]
+        },
+        {
+            "question": "Les agents cancérigènes génotoxiques se caractérisent par : donner la (les) réponse(s) exacte(s).",
+            "options": [
+                "Le caractère dose-dépendant de la tumorogénicité.",
+                "Une spécificité d’espèce, de souche et de tissu.",
+                "L’absence de lésion directe de l’ADN.",
+                "Leur caractère mutagène.",
+                "L’absence de mécanisme à seuil pour la plupart de ces substances."
+            ],
+            "correct_answers": [
+                "Leur caractère mutagène.",
+                "Le caractère dose-dépendant de la tumorogénicité.",
+                "L’absence de mécanisme à seuil pour la plupart de ces substances."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "La méthode de référence de dosage du plomb dans le sang est la CPG-FID.",
+                "L’intoxication par le plomb est appelée saturnisme.",
+                "En cas d’intoxication sévère par le plomb, l’administration de chélateurs du type BAL, EDTA calcique ou pénicillamine est recommandée.",
+                "La recherche de l’acide delta-aminolévulinique urinaire est un signe d’une intoxication par le plomb.",
+                "Les cas d’intoxication par le plomb chez l’enfant sont plus fréquents dans les milieux défavorisés."
+            ],
+            "correct_answers": [
+                "L’intoxication par le plomb est appelée saturnisme.",
+                "En cas d’intoxication sévère par le plomb, l’administration de chélateurs du type BAL, EDTA calcique ou pénicillamine est recommandée.",
+                "Les cas d’intoxication par le plomb chez l’enfant sont plus fréquents dans les milieux défavorisés.",
+                "La recherche de l’acide delta-aminolévulinique urinaire est un signe d’une intoxication par le plomb."
+            ]
+        },
+        {
+            "question": "Quel(s) signe(s) clinique(s) et/ou biologique(s) peut-on observer au cours d’une intoxication chronique par le plomb?",
+            "options": [
+                "Troubles rénaux.",
+                "Encéphalopathie.",
+                "Anémie microcytaire hypochrome.",
+                "Constipation.",
+                "Troubles du rythme cardiaque."
+            ],
+            "correct_answers": [
+                "Anémie microcytaire hypochrome.",
+                "Troubles rénaux.",
+                "Encéphalopathie."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les eaux destinées à la consommation humaine, à l’exception des eaux minérales naturelles, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Les normes pour l’eau destinée à la consommation humaine sont fixées dans le but de limiter le risque sanitaire, mais aussi de répondre à des exigences de confort pour le consommateur.",
+                "Lors de la production des eaux destinées à la consommation humaine, il peut se former des sous-produits de désinfection dont certains sont classés comme cancérogènes probables.",
+                "Le risque microbiologique lié à la consommation d’eau est considéré comme second après le risque chimique.",
+                "En cas de dépassement d’une norme lors du contrôle sanitaire, la distribution de l’eau est systématiquement interrompue.",
+                "Le risque microbiologique lié à la consommation d’eau résulte principalement d’une contamination fécale."
+            ],
+            "correct_answers": [
+                "Les normes pour l’eau destinée à la consommation humaine sont fixées dans le but de limiter le risque sanitaire, mais aussi de répondre à des exigences de confort pour le consommateur.",
+                "Le risque microbiologique lié à la consommation d’eau résulte principalement d’une contamination fécale.",
+                "Lors de la production des eaux destinées à la consommation humaine, il peut se former des sous-produits de désinfection dont certains sont classés comme cancérogènes probables."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant la place du laboratoire dans la prise en charge d’un patient intoxiqué, laquelle (lesquelles) est (sont) inexacte(s) ?",
+            "options": [
+                "Dans le contexte d’une intoxication aiguë à l’éthanol, la détermination de l’alcoolémie en milieu hospitalier peut être réalisée par une méthode enzymatique.",
+                "La concentration sanguine d’un toxique de type lésionnel est un facteur pronostique dans le cadre d’une intoxication aiguë par ce toxique.",
+                "Quelles que soient l’anamnèse et la symptomatologie présentée par un patient intoxiqué, une analyse toxicologique, basée sur un screening toxicologique sanguin et urinaire, est nécessaire pour établir le diagnostic d’intoxication et mettre en œuvre le traitement du patient.",
+                "Dans le contexte d’une intoxication aiguë par un toxique de type fonctionnel, la détermination de sa concentration sanguine n’a pas d’intérêt pronostique pour la prise en charge du patient.",
+                "Le dosage sanguin du paracétamol ne peut être réalisé qu’à l’aide d’une méthode séparative de type HPLC-UV."
+            ],
+            "correct_answers": [
+                "Quelles que soient l’anamnèse et la symptomatologie présentée par un patient intoxiqué, une analyse toxicologique, basée sur un screening toxicologique sanguin et urinaire, est nécessaire pour établir le diagnostic d’intoxication et mettre en œuvre le traitement du patient.",
+                "Dans le contexte d’une intoxication aiguë par un toxique de type fonctionnel, la détermination de sa concentration sanguine n’a pas d’intérêt pronostique pour la prise en charge du patient.",
+                "Le dosage sanguin du paracétamol ne peut être réalisé qu’à l’aide d’une méthode séparative de type HPLC-UV."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie des digitaliques, quelle est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "La présence d’une cupule digitalique (sous-décalage du segment ST avec raccourcissement de l’intervalle QT) au niveau de l’électrocardiogramme signe l’intoxication digitalique.",
+                "Les digitaliques inhibent la pompe Na+/K+ ATPase au niveau des cardiomyocytes.",
+                "L’inhibition de la pompe Na+/K+ ATPase par la digoxine entraîne une diminution de la concentration du calcium intracellulaire, à l’origine d’un effet inotrope négatif.",
+                "L’hypokaliémie, induite par certains médicaments, peut-être un facteur déclenchant d’une intoxication aux digitaliques.",
+                "Le traitement spécifique d’une intoxication par la digoxine repose sur la triade Adrénaline/Diazépam/Ventilation assistée."
+            ],
+            "correct_answers": [
+                "Les digitaliques inhibent la pompe Na+/K+ ATPase au niveau des cardiomyocytes.",
+                "L’hypokaliémie, induite par certains médicaments, peut-être un facteur déclenchant d’une intoxication aux digitaliques."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant la prise en charge d’un patient ayant ingéré un produit moussant, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Il est formellement déconseillé de provoquer des vomissements.",
+                "Il est conseillé de donner à boire du lait à la victime.",
+                "Il est conseillé de donner à boire à la victime.",
+                "Le principal élément de surveillance de la victime est la survenue d’une toux.",
+                "Le principal élément de surveillance de la victime est la survenue de troubles digestifs."
+            ],
+            "correct_answers": [
+                "Le principal élément de surveillance de la victime est la survenue d’une toux.",
+                "Il est formellement déconseillé de provoquer des vomissements."
+            ]
+        },
+        {
+            "question": "Concernant le cannabis, quelle est (sont) la (les) proposition(s) inexacte(s) ?",
+            "options": [
+                "Le cannabisme chronique chez les usagers jeunes se manifeste principalement par un syndrome amotivationnel.",
+                "En se fixant aux récepteurs aux cannabinoïdes, le THC entraîne une augmentation de la libération d’un certain nombre de neurotransmetteurs.",
+                "Le dépistage urinaire du cannabis repose sur la mise en évidence d’une concentration de son métabolite principal, le THC-COOH, au-delà d’un certain seuil dit de positivité.",
+                "Les effets psychotropes du THC sont la conséquence de sa fixation sur les récepteurs aux cannabinoïdes de type CB2.",
+                "L’absorption de THC et sa biodisponibilité sont meilleures par voie orale que par voie inhalée."
+            ],
+            "correct_answers": [
+                "L’absorption de THC et sa biodisponibilité sont meilleures par voie orale que par voie inhalée.",
+                "Les effets psychotropes du THC sont la conséquence de sa fixation sur les récepteurs aux cannabinoïdes de type CB2.",
+                "En se fixant aux récepteurs aux cannabinoïdes, le THC entraîne une augmentation de la libération d’un certain nombre de neurotransmetteurs."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la détermination de l’alcoolémie, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Le recueil de sang pour la détermination légale de l'alcoolémie se fait sur un tube sans anticoagulant/conservateur.",
+                "En France, une alcoolémie égale ou supérieure à 0,25 mg d’éthanol par litre de sang correspond au seuil contraventionnel pour la conduite automobile.",
+                "La méthode analytique par CPG-FID est l’une des deux méthodes officielles au plan légal pour doser l’éthanol dans le sang.",
+                "La méthode de Cordebard repose sur le pouvoir oxydant de l’éthanol.",
+                "La méthode de Cordebard consiste en l’extraction de l'éthanol par distillation en présence d'acide picrique, oxydation à froid par le bichromate de potassium et dosage en retour par iodométrie."
+            ],
+            "correct_answers": [
+                "La méthode analytique par CPG-FID est l’une des deux méthodes officielles au plan légal pour doser l’éthanol dans le sang.",
+                "La méthode de Cordebard consiste en l’extraction de l'éthanol par distillation en présence d'acide picrique, oxydation à froid par le bichromate de potassium et dosage en retour par iodométrie."
+            ]
+        },
+        {
+            "question": "Parmi les composés suivants, lequel (lesquels) est (sont) méthémoglobinisant(s) ?",
+            "options": [
+                "L’acide ascorbique.",
+                "Les dérivés nitrés.",
+                "Le bleu de méthylène.",
+                "La dapsone.",
+                "Le plomb."
+            ],
+            "correct_answers": [
+                "Les dérivés nitrés.",
+                "Le bleu de méthylène.",
+                "La dapsone."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la réaction de Fujiwara et Ross, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Se réalise en milieu chlorhydrique",
+                "Est caractéristique des composés gemtrichlorés",
+                "Donne une coloration rose-rouge",
+                "Est obtenue avec les salicylés en milieu acide",
+                "Montre la présence de méthémoglobine"
+            ],
+            "correct_answers": [
+                "Donne une coloration rose-rouge",
+                "Est caractéristique des composés gemtrichlorés"
+            ]
+        },
+        {
+            "question": "Les parents du jeune Mathieu, 3 ans et demi, viennent vous voir dans votre officine, très inquiets, car l’enfant a avalé trente minutes auparavant une petite quantité d’essence qui avait été conservée dans une bouteille d’eau. Quand ils s’en sont rendu compte, ils ont cherché sur l’internet comment traiter ce genre d’ « empoisonnement », et ont lu qu’ils pouvaient lui administrer un peu de lait, ce qu’ils ont fait. Ils vous précisent que l’enfant a vomi durant le trajet vers la pharmacie. L’enfant ne vous semble pas inquiétant, mais présente néanmoins une légère toux à intervalles réguliers. Parmi les propositions suivantes concernant cet accident, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "L’administration de lait par les parents risque de majorer les risques toxiques.",
+                "L’essence ingérée par Mathieu est un produit dont la toxicité est à rattacher à celle des produits caustiques.",
+                "Mathieu devra suivre un régime alimentaire spécifique durant les prochaines heures.",
+                "Mathieu risque une pneumopathie d'inhalation.",
+                "Le risque majeur dans ce cas est lié à la toxicité hépatique de l’essence."
+            ],
+            "correct_answers": [
+                "L’administration de lait par les parents risque de majorer les risques toxiques.",
+                "Mathieu risque une pneumopathie d'inhalation.",
+                "Mathieu devra suivre un régime alimentaire spécifique durant les prochaines heures."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les eaux destinées à la consommation humaine, à l’exception des eaux minérales naturelles, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Ces eaux doivent impérativement respecter les limites de qualité définies légalement.",
+                "Le suivi de leur qualité ne concerne que les risques sanitaires.",
+                "Elles doivent satisfaire à des références de qualité relatives aux propriétés organoleptiques de l’eau ou indicatrices du bon fonctionnement des installations de traitement de potabilisation.",
+                "La fréquence des contrôles sanitaires réglementaires en sortie d’usine de potabilisation dépend du volume d’eau traité.",
+                "Le contrôle de leur qualité microbiologique repose sur la recherche de germes indicateurs de contamination fécale."
+            ],
+            "correct_answers": [
+                "Ces eaux doivent impérativement respecter les limites de qualité définies légalement.",
+                "Elles doivent satisfaire à des références de qualité relatives aux propriétés organoleptiques de l’eau ou indicatrices du bon fonctionnement des installations de traitement de potabilisation.",
+                "Le contrôle de leur qualité microbiologique repose sur la recherche de germes indicateurs de contamination fécale."
+            ]
+        },
+        {
+            "question": "Concernant la toxicologie des alcools, quelle est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "Le métabolisme hépatique du méthanol aboutit à la formation d’acide formique.",
+                "Lors d’une intoxication aiguë par l’éthylène glycol, la formation de cristaux d’oxalate de calcium provoque des lésions rénales, à l’origine d’une insuffisance rénale aiguë.",
+                "L’accumulation d’acide formique est responsable d’une acidose respiratoire.",
+                "La toxicité neurologique du méthanol est responsable d’une neuropathie optique, pouvant mener à une cécité irréversible.",
+                "Le traitement antidotique de l’intoxication au méthanol repose sur l’utilisation d’un inhibiteur de l’aldéhyde déshydrogénase."
+            ],
+            "correct_answers": [
+                "Le métabolisme hépatique du méthanol aboutit à la formation d’acide formique.",
+                "La toxicité neurologique du méthanol est responsable d’une neuropathie optique, pouvant mener à une cécité irréversible.",
+                "Lors d’une intoxication aiguë par l’éthylène glycol, la formation de cristaux d’oxalate de calcium provoque des lésions rénales, à l’origine d’une insuffisance rénale aiguë."
+            ]
+        },
+        {
+            "question": "Concernant les méthodes d’évaluation de la toxicité des médicaments à usage humain, quelle(s) est (sont) la (les) proposition(s) exacte(s) ?",
+            "options": [
+                "Un des objectifs des études toxicologiques est de calculer la première dose de médicament à administrer à l’homme.",
+                "Les études de reprotoxicité sont divisées en 4 segments.",
+                "Les tests doivent être effectués dans le respect des Bonnes Pratiques de Laboratoire.",
+                "La totalité des tests est effectuée in vivo chez l’animal.",
+                "La toxicité d’un futur médicament est évaluée très tard dans le processus de développement, juste avant sa mise sur le marché."
+            ],
+            "correct_answers": [
+                "Un des objectifs des études toxicologiques est de calculer la première dose de médicament à administrer à l’homme.",
+                "Les tests doivent être effectués dans le respect des Bonnes Pratiques de Laboratoire."
+            ]
+        },
+        {
+            "question": "En cas d’intoxication chronique par les solvants chlorés, quel(s) signe(s) clinique(s) et/ou biologique(s) peut-on observer?",
+            "options": [
+                "Anémie",
+                "Leucopénie",
+                "Troubles de la conscience",
+                "Cytolyse hépatique",
+                "Dermatose"
+            ],
+            "correct_answers": [
+                "Dermatose",
+                "Cytolyse hépatique",
+                "Troubles de la conscience"
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant le traitement appliqué lors d'une intoxication salicylée aiguë, laquelle (lesquelles) est (sont) exacte(s)?",
+            "options": [
+                "Un réchauffement progressif du patient doit être entrepris sans tarder pour éviter les complications neurologiques",
+                "Une perfusion bicarbonatée permet de contrôler l'acidose métabolique",
+                "Le charbon activé adsorbe bien les dérivés salicylés",
+                "La diurèse alcaline est efficace",
+                "L'administration précoce de N-acétylcystéine est capitale"
+            ],
+            "correct_answers": [
+                "Le charbon activé adsorbe bien les dérivés salicylés",
+                "La diurèse alcaline est efficace",
+                "Une perfusion bicarbonatée permet de contrôler l'acidose métabolique"
+            ]
+        },
+        {
+            "question": "Concernant les mesures d’association, laquelle (lesquelles) est (sont) inexacte(s)?",
+            "options": [
+                "L’OR ne peut être calculé dans les études de cohorte",
+                "Il est possible de déterminer l’incidence d’une maladie dans les études de cohorte",
+                "Si 1 est compris dans l’intervalle de confiance d’un RR, alors l’association entre le facteur de risque et la maladie est significative",
+                "L’odds est le rapport de la probabilité d’un évènement à la probabilité complémentaire = P/(1-P)",
+                "Le RR est une bonne approximation de l’OR si la maladie est rare"
+            ],
+            "correct_answers": [
+                "Le RR est une bonne approximation de l’OR si la maladie est rare",
+                "L’OR ne peut être calculé dans les études de cohorte",
+                "Si 1 est compris dans l’intervalle de confiance d’un RR, alors l’association entre le facteur de risque et la maladie est significative"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les législations en matière de drogues, laquelle (ou lesquelles) est (ou sont) exacte(s) ?",
+            "options": [
+                "La consommation de cannabis est interdite dans tous les pays d’Europe.",
+                "La loi française du 31 décembre 1970 réprime la consommation, la production et la vente de substances illicites.",
+                "Selon la loi française, les peines d’emprisonnement et/ou d’amende encourues pour un usage de cannabis sont les mêmes que celles encourues pour un usage d’héroïne.",
+                "La vente de produits à base de cocaïne a toujours été interdite en France.",
+                "L’injonction thérapeutique peut être une alternative à une peine d’emprisonnement d’un usager de stupéfiants."
+            ],
+            "correct_answers": [
+                "La loi française du 31 décembre 1970 réprime la consommation, la production et la vente de substances illicites.",
+                "L’injonction thérapeutique peut être une alternative à une peine d’emprisonnement d’un usager de stupéfiants.",
+                "Selon la loi française, les peines d’emprisonnement et/ou d’amende encourues pour un usage de cannabis sont les mêmes que celles encourues pour un usage d’héroïne."
+            ]
+        },
+        {
+            "question": "Parmi les affirmations suivantes concernant les antidotes, laquelle (lesquelles) est (sont) exacte(s)?",
+            "options": [
+                "Il n’existe pas d’antidote permettant la prise en charge de l’intoxication par la digoxine.",
+                "Le charbon activé est un antidote permettant la prise en charge de nombreuses intoxications.",
+                "La naloxone est l'antidote d'une intoxication aux opiacés.",
+                "La N-acétylcystéine est l'antidote d'une intoxication au paracétamol.",
+                "Le bleu de méthylène peut être utilisé comme antidote de toxiques méthémoglobinisants."
+            ],
+            "correct_answers": [
+                "La N-acétylcystéine est l'antidote d'une intoxication au paracétamol.",
+                "La naloxone est l'antidote d'une intoxication aux opiacés.",
+                "Le bleu de méthylène peut être utilisé comme antidote de toxiques méthémoglobinisants."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, lesquelles sont des actions de prévention primaire dans la lutte contre le tabagisme ?",
+            "options": [
+                "Sevrage tabagique.",
+                "Interdiction de publicité dirigée vers les jeunes.",
+                "Hausse du prix des cigarettes.",
+                "Message à caractère sanitaire sur les emballages des paquets de cigarettes.",
+                "Interdiction de fumer dans les lieux publics."
+            ],
+            "correct_answers": [
+                "Interdiction de publicité dirigée vers les jeunes.",
+                "Message à caractère sanitaire sur les emballages des paquets de cigarettes.",
+                "Hausse du prix des cigarettes.",
+                "Interdiction de fumer dans les lieux publics."
+            ]
+        }
+    ]
+}

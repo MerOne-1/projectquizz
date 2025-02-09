@@ -1,0 +1,898 @@
+{
+    "theme": "Chimie analytique",
+    "questions": [
+        {
+            "question": "Parmi les propositions suivantes, laquelle ( lesquelles) est (sont) exacte(s)? En spectrométrie UV-visible, l’absorbance :",
+            "options": [
+                "Dépend de l’épaisseur de la cuve",
+                "Est égale au rapport I/I",
+                "Dépend de la concentration de la solution",
+                "Dépend du coefficient d’absorption molaire du composé dosé",
+                "Dépend de la longueur d’onde"
+            ],
+            "correct_answers": [
+                "Dépend de la longueur d’onde",
+                "Dépend de l’épaisseur de la cuve",
+                "Dépend de la concentration de la solution",
+                "Dépend du coefficient d’absorption molaire du composé dosé"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes sur la spectrophotométrie UV-visible, quelle est (sont) celle(s) qui est (sont) exactes(s) ?",
+            "options": [
+                "En solution diluée, la relation entre l’absorbance et la concentration est linéaire",
+                "Lors d’un dosage il faut toujours soustraire l’absorbance du blanc",
+                "Les cuves en verre permettent de travailler entre 200 nm et 800 nm",
+                "Les absorbances de deux composés présents en solution s’additionnent",
+                "Pour que la loi de Beer-Lambert soit vérifiée le rayonnement doit être monochromatique"
+            ],
+            "correct_answers": [
+                "En solution diluée, la relation entre l’absorbance et la concentration est linéaire",
+                "Pour que la loi de Beer-Lambert soit vérifiée le rayonnement doit être monochromatique",
+                "Les absorbances de deux composés présents en solution s’additionnent",
+                "Lors d’un dosage il faut toujours soustraire l’absorbance du blanc"
+            ]
+        },
+        {
+            "question": "On solubilise de l’aspirine (acide faible de type R-C OOH (pKa = 3,48)) dans des solutions aqueuses dont le pH est fixé au préalable. Parmi les propositions suivantes, lesquelles sont exactes ?",
+            "options": [
+                "le pH de la solution est égal au pKa de l’aspirine, la solution contient la forme acide faible et sa base conjuguée en proportion équivalente",
+                "le pH de la solution est de 1, l’aspirine est sous forme cationique",
+                "le pH de la solution est de 1, l’aspirine est sous forme neutre",
+                "le pH de la solution est de 1, l’aspirine est sous forme anionique",
+                "le pH de la solution est de 9, c’est la forme acide faible qui prédomine"
+            ],
+            "correct_answers": [
+                "le pH de la solution est de 1, l’aspirine est sous forme neutre",
+                "le pH de la solution est égal au pKa de l’aspirine, la solution contient la forme acide faible et sa base conjuguée en proportion équivalente"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, concernant la chromatographie liquide haute performance lesquelles sont exactes ? Une colonne a les caractéristiques suivantes : C18, 250 x 4,6 mm, 5 µm",
+            "options": [
+                "Les composés les plus polaires seront élués en premier",
+                "Si la phase mobile est un mélange eau/méthanol, l’eau est le solvant le plus éluant",
+                "la longueur de la colonne est de 4,6 mm",
+                "La phase stationnaire est apolaire",
+                "les particules ont une taille de 5 µm"
+            ],
+            "correct_answers": [
+                "Les composés les plus polaires seront élués en premier",
+                "les particules ont une taille de 5 µm",
+                "La phase stationnaire est apolaire"
+            ]
+        },
+        {
+            "question": "Parmi les espèces chimiques suivantes indiquez combien sont des bases : KOH ; NaOH ; NaCl ; CH COONa ; NH Cl ;H SO",
+            "options": [
+                "1",
+                "6",
+                "5",
+                "Aucune",
+                "3",
+                "4",
+                "2",
+                "4"
+            ],
+            "correct_answers": [
+                "3"
+            ]
+        },
+        {
+            "question": "Quel est le nouveau pH d’une solution tampon ammoniaque de pH 9 après avoir diluée au-demi :",
+            "options": [
+                "4.50",
+                "7.00",
+                "9.00",
+                "0.90",
+                "0.45"
+            ],
+            "correct_answers": [
+                "9.00"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, concernant la pesée, laquelle est exacte ? Vous devez préparer 50 mL d’une solution d’aspirine à 0,1 g/L en utilisant une balance dont la précision est de 10  g. Quelle valeur doit s’afficher sur la balance ?",
+            "options": [
+                "0,0500 g",
+                "0,005 g",
+                "0,0050 g",
+                "0,5000 g",
+                "0,050 g-4"
+            ],
+            "correct_answers": [
+                "0,0050 g"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? En chromatographie liquide, la hauteur équivalente à un plateau théorique :",
+            "options": [
+                "Augmente avec la longueur de la colonne",
+                "Augmente avec le nombre de plateaux de la colonne",
+                "Est inversement proportionnel au temps d’analyse",
+                "Est une grandeur qui caractérise l’efficacité de la colonne",
+                "Est fonction de la vitesse linéaire de la phase mobile"
+            ],
+            "correct_answers": [
+                "Est fonction de la vitesse linéaire de la phase mobile",
+                "Est une grandeur qui caractérise l’efficacité de la colonne"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou (lesquelles) est (sont) exacte(s) ? En chromatographie liquide, la résolution entre deux composés :",
+            "options": [
+                "Ne dépend pas de la longueur de la colonne",
+                "Dépend de leurs facteurs de rétention",
+                "Est fonction de la composition de la phase mobile",
+                "Dépend du nombre de plateaux théoriques de la colonne",
+                "Doit être supérieure à 5 pour être totale"
+            ],
+            "correct_answers": [
+                "Dépend de leurs facteurs de rétention",
+                "Dépend du nombre de plateaux théoriques de la colonne",
+                "Est fonction de la composition de la phase mobile"
+            ]
+        },
+        {
+            "question": "La loi de BEER-L AMBER T est vérifiée en",
+            "options": [
+                "Spectrométrie d'absorption atomique",
+                "Spectrophotométrie UV-Visible",
+                "Spectrophotométrie Infra-rouge",
+                "Spectroscopie Raman",
+                "Spectrométrie d'émission atomique"
+            ],
+            "correct_answers": [
+                "Spectrophotométrie UV-Visible",
+                "Spectrométrie d'absorption atomique"
+            ]
+        },
+        {
+            "question": "On souhaite préparer, par dilution, 10 mL une solution d’aspirine à 1 mM à partir d’une solution à 100 mM. Quel volume de solution à 100 mM faut-il prélever et quel volume d’eau faut-il ajouter ?",
+            "options": [
+                "0,1 mL de solution à 100 mM et 9,9 mL d’eau",
+                "0,1 mL de solution à 100 mM et 10 mL d’eau",
+                "100 µL de solution à 100 mM et 9,9 mL d’eau",
+                "100 µL de solution à 100 mM et 10 mL d’eau",
+                "1 mL de solution à 100 mM et 99 mL d’eau"
+            ],
+            "correct_answers": [
+                "100 µL de solution à 100 mM et 9,9 mL d’eau",
+                "0,1 mL de solution à 100 mM et 9,9 mL d’eau"
+            ]
+        },
+        {
+            "question": "Parmi les espèces chimiques suivantes indiquez combien sont des acides : KOH ; NaCl ; NH  ; CH COOH ; HCl ; H PO ;HSO",
+            "options": [
+                "6",
+                "5",
+                "Aucune",
+                "7",
+                "4"
+            ],
+            "correct_answers": [
+                "4"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la spectrophotométrie UV-Visible, la (les) quelle (s) est (sont) exacte (s)?",
+            "options": [
+                "Les groupements fonctionnels porteurs d'hétéroatomes sont auxochromes",
+                "Une substance incolore absorbe dans la zone de longueur d'onde comprise entre 400 nm et 700 nm",
+                "Les carbures saturés n'absorbent pas dans l'ultra-violet proche",
+                "Le solvant n'influence pas l'absorption des substances dissoutes",
+                "La conjugaison des liaisons multiples déplace le maximum d'absorption de la molécule vers les grandes longueurs d'onde"
+            ],
+            "correct_answers": [
+                "Les carbures saturés n'absorbent pas dans l'ultra-violet proche",
+                "La conjugaison des liaisons multiples déplace le maximum d'absorption de la molécule vers les grandes longueurs d'onde",
+                "Les groupements fonctionnels porteurs d'hétéroatomes sont auxochromes"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes quel matériel utiliseriez-vous pour prélever dans un flacon, un volume précis?",
+            "options": [
+                "Une burette graduée",
+                "Une éprouvette graduée",
+                "Une fiole jaugée",
+                "Un bécher",
+                "Une pipette jaugée"
+            ],
+            "correct_answers": [
+                "Une pipette jaugée"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) inexacte(s)? Le rendement de l'extraction par un solvant organique d'un composé neutre en solution dans l'eau augmente lorsque:",
+            "options": [
+                "Le nombre d'extractions réalisées augmente",
+                "Le volume du solvant organique augmente",
+                "Le volume de la phase aqueuse à extraire augmente",
+                "Le coefficient de partage du composé augmente",
+                "La concentration initiale du composé dans l’eau augmente"
+            ],
+            "correct_answers": [
+                "Le volume de la phase aqueuse à extraire augmente",
+                "La concentration initiale du composé dans l’eau augmente"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? Si on augmente la longueur de la colonne :",
+            "options": [
+                "Le volume de rétention augmente",
+                "La pression en tête de colonne augmente",
+                "Son efficacité augmente",
+                "La largeur des pics augmente",
+                "Le temps de rétention augmente"
+            ],
+            "correct_answers": [
+                "Le temps de rétention augmente",
+                "Le volume de rétention augmente",
+                "La largeur des pics augmente",
+                "Son efficacité augmente",
+                "La pression en tête de colonne augmente"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou (lesquelles) est (sont) exacte(s) ? Un régime isocratique en chromatographie liquide correspond à :",
+            "options": [
+                "Un débit variable de phase mobile",
+                "Une composition constante de la phase mobile",
+                "Une séparation à température constante",
+                "Une séparation à température variable",
+                "Une composition variable de la phase mobile"
+            ],
+            "correct_answers": [
+                "Une composition constante de la phase mobile"
+            ]
+        },
+        {
+            "question": "Une solution est préparée par dissolution de 5 mg de poudre contenant un principe actif (M = 250 g/mol) dans 10 mL d’eau. L’analyse de cette solution par CLHP donne une concentration en principe actif de 1mM. Quelle est la teneur en principe actif ?",
+            "options": [
+                "La teneur est de 8%",
+                "La teneur est de 25%",
+                "La teneur est de 50%",
+                "La teneur est de 10%",
+                "La teneur est de 0,8%"
+            ],
+            "correct_answers": [
+                "La teneur est de 50%"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les méthodes spectrales quelle est (sont) celle(s) qui est (sont) exactes(s) ?",
+            "options": [
+                "Toutes les cellules de mesure utilisées en spectrophotométrie d’absorption moléculaire UV-visible sont en verre",
+                "Une lampe au deutérium émet des rayonnements de longueurs d’onde comprises entre 160 et 375 nm",
+                "L’application de la loi de Beer-Lambert nécessite l’utilisation d’un rayonnement incident monochromatique",
+                "Le solvant peut modifier la position et l’intensité des bandes d’absorption",
+                "Un acide faible peut présenter des spectres d’absorption moléculaire UV-visible différents en milieu acide et en milieu alcalin"
+            ],
+            "correct_answers": [
+                "Un acide faible peut présenter des spectres d’absorption moléculaire UV-visible différents en milieu acide et en milieu alcalin",
+                "Une lampe au deutérium émet des rayonnements de longueurs d’onde comprises entre 160 et 375 nm",
+                "L’application de la loi de Beer-Lambert nécessite l’utilisation d’un rayonnement incident monochromatique",
+                "Le solvant peut modifier la position et l’intensité des bandes d’absorption"
+            ]
+        },
+        {
+            "question": "Sachant que la masse molaire de l’éosine est égale à 694 g.mol , indiquaer si une solution molaire d’éosine est à:",
+            "options": [
+                "694 g.L",
+                "0,694 g.L",
+                "0,0014 g.L",
+                "694 mg.L",
+                "1,44 mg.L-1"
+            ],
+            "correct_answers": [
+                "694 g.L"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la spectrophotométrie d’absorption moléculaire UV-visible, la (les) quelle (s) est (sont) exacte (s)?",
+            "options": [
+                "C’est la méthode de référence pour l’identification",
+                "La présence d’une impureté modifie la position des longueurs d’onde des maxima d’absorption",
+                "C’est une méthode qui permet l’analyse des mélanges",
+                "On utilise des cuves avec 2 faces polies",
+                "Les formes acide et basique d’une même molécule peuvent avoir des spectres différents"
+            ],
+            "correct_answers": [
+                "On utilise des cuves avec 2 faces polies",
+                "La présence d’une impureté modifie la position des longueurs d’onde des maxima d’absorption",
+                "C’est une méthode qui permet l’analyse des mélanges",
+                "Les formes acide et basique d’une même molécule peuvent avoir des spectres différents"
+            ]
+        },
+        {
+            "question": "En spectrophométrie moléculaire, la sensibilité d'un dosage dépend:",
+            "options": [
+                "De l'intensité du rayonnement incident",
+                "De la longueur du trajet optique",
+                "De la longueur d'onde du maximum d'absorption du solvant",
+                "Du coefficient d'extinction moléculaire du soluté à la longueur d'onde maximale d'absorption",
+                "Du système de mesure de l'intensité de la lumière transmise"
+            ],
+            "correct_answers": [
+                "Du coefficient d'extinction moléculaire du soluté à la longueur d'onde maximale d'absorption",
+                "De la longueur du trajet optique",
+                "Du système de mesure de l'intensité de la lumière transmise"
+            ]
+        },
+        {
+            "question": "A combien de microlitres correspond un litre ?",
+            "options": [
+                "10",
+                "10",
+                "1 000 000",
+                "1/10",
+                "0.001-6",
+                "5",
+                "-6"
+            ],
+            "correct_answers": [
+                "1 000 000",
+                "1/10-6"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? En électrophorèse capillaire, la mobilité apparente (expérimentale):",
+            "options": [
+                "Ne dépend pas du flux électroosmotique",
+                "Est proportionnelle au temps de migration",
+                "Dépend du flux électroosmotique",
+                "Ne dépend que de la vitesse électrophorétique de l'analyte",
+                "Est proportionnelle à la longueur du tube capillaire"
+            ],
+            "correct_answers": [
+                "Dépend du flux électroosmotique",
+                "Est proportionnelle à la longueur du tube capillaire"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exactes? Le coefficient d'extinction molaire d' une substance absorbante peut:",
+            "options": [
+                "Etre modifié par la nature du solvant",
+                "Varier avec la longueur du trajet optique",
+                "Varier avec la longueur d'onde",
+                "Etre identique à 2 longueurs d'onde différentes",
+                "Varier avec la température"
+            ],
+            "correct_answers": [
+                "Varier avec la température",
+                "Varier avec la longueur d'onde",
+                "Etre modifié par la nature du solvant",
+                "Etre identique à 2 longueurs d'onde différentes"
+            ]
+        },
+        {
+            "question": "Afin de préparer 20 g d’une pommade à l’acide salicylique d’une teneur de 5 %, quelles masses d’acide salicylique et de vaseline faut-il peser ?",
+            "options": [
+                "100 mg d’acide salicylique et 20 g de vaseline",
+                "1 g d’acide salicylique et 20 g de vaseline",
+                "400 mg d’acide salicylique et 16,6 g de vaseline",
+                "4 g d’acide salicylique et 16 g de vaseline",
+                "1 000 mg d’acide salicylique et 19 g de vaseline"
+            ],
+            "correct_answers": [
+                "1 000 mg d’acide salicylique et 19 g de vaseline"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)? On désire préparer 100 mL d’une solution étalon de codéine à 10 mg/L. On dispose de codéine sous forme d’une poudre pure.",
+            "options": [
+                "après la pesée de la codéine et introduction de la poudre dans une fiole jaugée, on complètera directement au trait de jauge et on retournera la fiole pour homogénéiser la solution",
+                "on devra peser 1 mg de codéine",
+                "on pourra utiliser une balance dont la précision est au dixième de gramme",
+                "après pesée de la codéine et introduction dans la fiole jaugée, on remplira la fiole au 2/3 de son volume et solubilisera la codéine sans retourner la fiole, puis on complètera au trait de jauge avant d’homogénéiser la solution",
+                "on devra peser 0,01 g de codéine"
+            ],
+            "correct_answers": [
+                "on devra peser 1 mg de codéine",
+                "après pesée de la codéine et introduction dans la fiole jaugée, on remplira la fiole au 2/3 de son volume et solubilisera la codéine sans retourner la fiole, puis on complètera au trait de jauge avant d’homogénéiser la solution"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou (lesquelles) est (sont) inexacte(s) ? En chromatographie, dans les relations de Purnell, la résolution entre deux composés est fonction :",
+            "options": [
+                "De la sélectivité",
+                "De l’efficacité",
+                "Des temps de rétention",
+                "Des facteurs de rétention",
+                "Du débit de phase mobile"
+            ],
+            "correct_answers": [
+                "Des temps de rétention",
+                "Du débit de phase mobile"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, lesquelles sont exactes ? Une solution éthanolique de couleur rouge est dosée par spectrophotométrie,",
+            "options": [
+                "l’eau permet la mesure du blanc",
+                "la longueur d’onde d’analyse se situe entre 400 et 800 nm",
+                "la longueur d’onde d’analyse se situe entre 200 et 400 nm",
+                "il sera nécessaire d’allumer la lampe au deutérium",
+                "les mesures sont effectuées en utilisant des cuves en plastique"
+            ],
+            "correct_answers": [
+                "les mesures sont effectuées en utilisant des cuves en plastique",
+                "la longueur d’onde d’analyse se situe entre 400 et 800 nm"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? Le rendement de l'extraction par un solvant organique d'un composé neutre en solution dans l'eau augmente lorsque:",
+            "options": [
+                "Le temps de contact entre les deux phases augmente",
+                "Le volume de la phase aqueuse à extraire augmente",
+                "Le nombre d'extractions réalisées augmente",
+                "Le coefficient de partage du composé augmente",
+                "Le volume du solvant organique augmente"
+            ],
+            "correct_answers": [
+                "Le coefficient de partage du composé augmente",
+                "Le nombre d'extractions réalisées augmente",
+                "Le volume du solvant organique augmente"
+            ]
+        },
+        {
+            "question": "Quel est le nouveau pH d’une solution tampon acéto-acétique (V= 1L et C= 100 mM, pKa = 4.8) de pH 4.8 si on y ajoute 1.10 mole d’acide chlorhydrique :",
+            "options": [
+                "4.8",
+                "9.6",
+                "4.3",
+                "6.0",
+                "2.4-4"
+            ],
+            "correct_answers": [
+                "4.8"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) inexacte(s) ? En électrophorèse capillaire, la mobilité apparente (expérimentale):",
+            "options": [
+                "Est toujours nulle pour les particules non chargées",
+                "Dépend de la vitesse électrophorétique de l'analyte",
+                "Ne dépend pas du flux électroosmotique",
+                "Dépend du flux électroosmotique",
+                "Ne dépend pas de la vitesse électrophorétique de l'analyte"
+            ],
+            "correct_answers": [
+                "Ne dépend pas du flux électroosmotique",
+                "Est toujours nulle pour les particules non chargées",
+                "Ne dépend pas de la vitesse électrophorétique de l'analyte"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) inexacte(s) ? En électrophorèse, la mobilité électrophorétique d’une particule varie selon :",
+            "options": [
+                "La tension appliquée",
+                "Le rayon de la particule",
+                "Le champ électrique appliqué",
+                "La charge de la particule",
+                "Le pH du milieu"
+            ],
+            "correct_answers": [
+                "Le champ électrique appliqué"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) inexacte(s) ? En chromatographie:",
+            "options": [
+                "La théorie des plateaux permet d’expliquer tous les résultats observés",
+                "La hauteur d’un plateau augmente quand la longueur de la colonne augmente",
+                "La colonne chromatographique est constituée de plateaux réels",
+                "La hauteur d’un plateau diminue quand le diamètre des particules de phase stationnaire diminue",
+                "La théorie cinétique, plus récente, a supplanté la théorie des plateaux, plus ancienne"
+            ],
+            "correct_answers": [
+                "La théorie des plateaux permet d’expliquer tous les résultats observés",
+                "La théorie cinétique, plus récente, a supplanté la théorie des plateaux, plus ancienne",
+                "La colonne chromatographique est constituée de plateaux réels",
+                "La hauteur d’un plateau augmente quand la longueur de la colonne augmente"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? En chomatographie,:",
+            "options": [
+                "Tous les composés ont des volumes de rétention identiques",
+                "Tous les composés ont la même vitesse apparente dans la phase mobile",
+                "Tous les composés ont des vitesses réelles différentes dans la phase mobile",
+                "Tous les composés ont la même vitesse réelle dans la phase mobile",
+                "Tous les composés ont des temps de rétention différents"
+            ],
+            "correct_answers": [
+                "Tous les composés ont la même vitesse réelle dans la phase mobile",
+                "Tous les composés ont des temps de rétention différents"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, lesquelles sont exactes ?",
+            "options": [
+                "L’acide chlorhydrique est un acide fort",
+                "L’acide acétique est un acide faible",
+                "Le chlorure de sodium est un acide",
+                "L’ammoniaque est une base faible",
+                "La soude est une base faible"
+            ],
+            "correct_answers": [
+                "L’acide chlorhydrique est un acide fort",
+                "L’ammoniaque est une base faible",
+                "L’acide acétique est un acide faible"
+            ]
+        },
+        {
+            "question": "Le dosage d’une solution d’ibuprofène est réalisé par CLHP. L’expérience est répétée 3 fois. Les résultats obtenus sont les suivants : C  = 1,98 mg/L, C  = 2,00 mg/L et C  = 2,02 mg/L. Comment doivent être présentés les résultats ?",
+            "options": [
+                "C  = 2,00 mg/L ; écart-type = 0,1 ; coefficient de variation = 2 %",
+                "C  = 2,00 mg/L ; écart-type = 0,02 ; coefficient de variation = 1 %",
+                "C  = 2 mg/L ; écart-type = 0,0200 ; coefficient de variation = 1,00 %",
+                "C  = 2,0 mg/L ; écart-type = 0,2 ; coefficient de variation = 10 %",
+                "C  = 2 mg/L ; écart-type = 0,01 ; coefficient de variation = 5 %"
+            ],
+            "correct_answers": [
+                "C  = 2,00 mg/L ; écart-type = 0,02 ; coefficient de variation = 1 %"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? En électrophorèse capillaire, le sens de migration de l'analyte dépend:",
+            "options": [
+                "De la nature de l'analyte",
+                "Du flux d'électroendosmose",
+                "De la vitesse électrophorétique de l'analyte chargé",
+                "De la longueur du tube capillaire",
+                "De l'intensité du courant électrique"
+            ],
+            "correct_answers": [
+                "De la nature de l'analyte",
+                "Du flux d'électroendosmose",
+                "De la vitesse électrophorétique de l'analyte chargé"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exactes? Le coefficient d'extinction molaire d' une substance absorbante peut:",
+            "options": [
+                "Varier avec la longueur d'onde",
+                "Etre modifié par la nature du solvant",
+                "Etre identique à 2 longueurs d'onde différentes",
+                "Varier avec  la température",
+                "Varier avec la longueur du trajet optique"
+            ],
+            "correct_answers": [
+                "Varier avec  la température",
+                "Varier avec la longueur d'onde",
+                "Etre modifié par la nature du solvant",
+                "Etre identique à 2 longueurs d'onde différentes"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)? On désire contrôler la concentration d’une solution de céfuroxime dans un collyre annoncée à 10 mg/mL en céfuroxime et à 9 g/L en NaCl, par spectroscopie UV.",
+            "options": [
+                "on préparera une série de solutions étalons allant de 8 à 12 mg/mL en céfuroxime",
+                "on préparera une série de solutions étalons allant de 2 à 8 mg/mL en céfuroxime",
+                "on préparera une série de solutions étalons allant de 0 à 100 mg/mL en céfuroxime",
+                "les solutions étalons seront préparées dans du NaCl à 9 g/L",
+                "les solutions étalons seront préparées dans de l’eau"
+            ],
+            "correct_answers": [
+                "on préparera une série de solutions étalons allant de 8 à 12 mg/mL en céfuroxime",
+                "les solutions étalons seront préparées dans du NaCl à 9 g/L"
+            ]
+        },
+        {
+            "question": "On désire contrôler la concentration d’une solution de céfuroxime dans un collyre annoncé à 10 mg/mL en céfuroxime et à 9 g/L en NaCl, par spectroscopie UV. Pour ce faire :",
+            "options": [
+                "préparer et analyser les solutions étalons suivantes : 8 ; 9 ; 10 ; 11 et 12 mg/mL",
+                "préparer et analyser les solutions étalons suivantes : 1 ; 2 ; 3 ; 4 et 5 mg/mL",
+                "les solutions étalons seront préparées dans du NaCl à 9g/L",
+                "les solutions étalons seront préparées dans de l’eau",
+                "préparer et analyser les solutions étalons suivantes : 0 ; 1 ; 2 ; 3 à 108 mg/mL"
+            ],
+            "correct_answers": [
+                "les solutions étalons seront préparées dans du NaCl à 9g/L",
+                "préparer et analyser les solutions étalons suivantes : 8 ; 9 ; 10 ; 11 et 12 mg/mL"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)? On désire préparer une solution d’acide chlorhydrique à 1 mol/L. Pour cela, on peut :",
+            "options": [
+                "mélanger 1900 µL d’eau et 100 µL d’une solution à 20 mol/L",
+                "mélanger 10 mL d’eau et 1 mL d’une solution à 10 mol/L",
+                "mélanger 9 mL d’eau et 1 mL d’une solution à 10 mol/L",
+                "diluer au dixième, une solution à 10 mol/L",
+                "mélanger 0,9 mL d’eau et 100 µL d’une solution à 10 mol/L"
+            ],
+            "correct_answers": [
+                "mélanger 9 mL d’eau et 1 mL d’une solution à 10 mol/L",
+                "diluer au dixième, une solution à 10 mol/L",
+                "mélanger 0,9 mL d’eau et 100 µL d’une solution à 10 mol/L",
+                "mélanger 1900 µL d’eau et 100 µL d’une solution à 20 mol/L"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la spectroscopie électronique moléculaire UV-visible, quelle est (sont) celle(s) qui est (sont) fausse(s) ?",
+            "options": [
+                "Elle nécessite une source lumineuse",
+                "Elle donne un spectre bien différencié pour chaque molécule",
+                "Elle permet le dosage des alcanes",
+                "Elle permet de définir la structure d’une molécule",
+                "Elle permet le dosage des ions minéraux"
+            ],
+            "correct_answers": [
+                "Elle permet de définir la structure d’une molécule",
+                "Elle permet le dosage des ions minéraux",
+                "Elle donne un spectre bien différencié pour chaque molécule",
+                "Elle permet le dosage des alcanes"
+            ]
+        },
+        {
+            "question": "Le dosage en spectrophotométrie UV d’un comprimé de paracétamol donne une teneur de 45%. La teneur annoncée par le fournisseur est de 50%. Quelle(s) est (sont) l(es) affirmation(s) exacte(s) ?",
+            "options": [
+                "L’erreur relative est de 2,5%",
+                "L’écart-type est de 2,5%",
+                "L’erreur relative est de 5%",
+                "L’erreur relative est de 10%",
+                "L’écart-type est de 5%"
+            ],
+            "correct_answers": [
+                "L’erreur relative est de 10%"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou (lesquelles) est (sont) exacte(s) ? La chromatographie à polarité de phase inversée :",
+            "options": [
+                "Utilise une phase stationnaire polaire",
+                "Utilise une phase mobile hydro-organique",
+                "Peut-être appliquée aux espèces ionisées",
+                "Utilise une phase stationnaire en silice vierge",
+                "Elue en premier les solutés les plus polaires"
+            ],
+            "correct_answers": [
+                "Utilise une phase mobile hydro-organique",
+                "Peut-être appliquée aux espèces ionisées",
+                "Elue en premier les solutés les plus polaires"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, quelle(s) est (sont) celle(s) qui est (sont) fausse(s) ?. En spectrophotométrie, l’absorption correspond à :",
+            "options": [
+                "Un phénomène chimique",
+                "Un phénomène induit par la lumière",
+                "Une complexation",
+                "Une émission de lumière",
+                "Une réaction irréversible"
+            ],
+            "correct_answers": [
+                "Une réaction irréversible",
+                "Une complexation",
+                "Une émission de lumière",
+                "Un phénomène chimique"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?. Le coefficient de partage d’une substance entre l’eau et l’éther, solvant non miscible, est fonction, une fois l’équilibre de partage atteint :",
+            "options": [
+                "De la solubilité de cette substance dans l’éther",
+                "De la solubilité de cette substance dans l’eau",
+                "Du volume d’éther utilisé",
+                "De la température",
+                "Du volume d’eau utilisé"
+            ],
+            "correct_answers": [
+                "De la température",
+                "De la solubilité de cette substance dans l’eau",
+                "De la solubilité de cette substance dans l’éther"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la spectrophotométrie UV, donner celle(s) qui est (sont) exacte(s) :",
+            "options": [
+                "Permet de déterminer une structure moléculaire de façon spécifique",
+                "Permet de différencier deux isomères cis-trans",
+                "Les résultats sont influencés par l'indice de réfraction du solvant",
+                "Se prête à l'analyse quantitative",
+                "Permet de détecter les ions Zn2+ sous forme de chélate dont le maximum d'absorption se situe à 420 nm"
+            ],
+            "correct_answers": [
+                "Permet de différencier deux isomères cis-trans",
+                "Se prête à l'analyse quantitative",
+                "Les résultats sont influencés par l'indice de réfraction du solvant"
+            ]
+        },
+        {
+            "question": "On désire diluer une solution de paracétamol à 1 mol/L afin de préparer une solution à exactement 0,2 mol/L. On procédera de la manière suivante :",
+            "options": [
+                "dans un petit tube conique en plastique de 2 mL gradué, introduire 0,2 mL de la solution mère (micropipette de précision) et ajouter de l’eau jusqu’à la graduation indiquant 1 mL.",
+                "dans un flacon en verre de 100 mL introduire : 10 mL de la solution mère (pipette graduée)+ 40 mL d’eau (éprouvette).",
+                "dans un flacon en verre de 100 mL introduire : 10 mL de la solution mère (pipette jaugée) + 40 mL d’eau (éprouvette).",
+                "dans un petit tube conique en plastique de 2 mL gradué, introduire : 200 µL de la solution mère (micropipette de précision) et ajouter 800 µL d’eau (micropipette de précision)",
+                "dans une fiole jaugée de 10 mL introduire 2 mL de la solution mère (pipette jaugée) et compléter jusqu’au trait de jauge avec de l’eau"
+            ],
+            "correct_answers": [
+                "dans une fiole jaugée de 10 mL introduire 2 mL de la solution mère (pipette jaugée) et compléter jusqu’au trait de jauge avec de l’eau",
+                "dans un petit tube conique en plastique de 2 mL gradué, introduire : 200 µL de la solution mère (micropipette de précision) et ajouter 800 µL d’eau (micropipette de précision)"
+            ]
+        },
+        {
+            "question": "L’aspirine a un pKa de 3,48. Quelle(s) est (sont) l(es) affirmation(s) exacte(s) ?",
+            "options": [
+                "En solution dans l’eau, l’aspirine est totalement sous sa forme acide",
+                "En solution dans l’eau, l’aspirine est totalement sous sa forme basique",
+                "En solution dans l’eau, l’aspirine est partiellement ionisée",
+                "En solution dans l’eau, l’aspirine est totalement ionisée.",
+                "En solution dans l’eau, l’aspirine est totalement sous sa forme moléculaire."
+            ],
+            "correct_answers": [
+                "En solution dans l’eau, l’aspirine est totalement sous sa forme basique",
+                "En solution dans l’eau, l’aspirine est totalement ionisée."
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les conditions de validité de la loi de Beer-Lambert, quelles sont celles qui sont exactes ?",
+            "options": [
+                "La loi de Beer-Lambert est additive",
+                "La solution soumise à mesure doit être limpide",
+                "La concentration en soluté, à mesurer, doit être inférieure à la micromolarité",
+                "La loi de Beer-Lambert est inapplicable lorsque le milieu présente un effet de matrice stricto sensu",
+                "La loi de Beer-Lambert nécessite l'utilisation de monochromateur de bandes passantes supérieures à 50 nm"
+            ],
+            "correct_answers": [
+                "La solution soumise à mesure doit être limpide",
+                "La loi de Beer-Lambert est additive"
+            ]
+        },
+        {
+            "question": "Lorsqu’on fait une dilution au-demi d’une solution A dans l’eau, quels volumes mélange-t-on ?",
+            "options": [
+                "20 mL A + 40 cm HO",
+                "200µL A + 4/5 mLH O",
+                "50 mL A + 50 mL H O",
+                "20 mL A + 10 mL H O",
+                "0.50 L A + 500 mL H O"
+            ],
+            "correct_answers": [
+                "50 mL A + 50 mL H O",
+                "0.50 L A + 500 mL H O"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)? Pour doser le paracétamol dans un comprimé par spectroscopie dans le domaine spectrale de l’UV, après avoir broyé le comprimé pour obtenir une poudre homogène :",
+            "options": [
+                "on pourra mesurer l’absorbance de l’échantillon préparé, à 243 nm",
+                "on pourra mesurer l’absorbance de l’échantillon préparé, à 420 nm",
+                "on préparera une solution aqueuse de paracétamol en introduisant une masse connue de la poudre issue du comprimé dans un volume connu de solvant",
+                "on utilisera une cuve en verre",
+                "on préparera une pastille de KBr en introduisant une masse connue de la poudre issue du comprimé dans une masse donnée de KBr"
+            ],
+            "correct_answers": [
+                "on préparera une solution aqueuse de paracétamol en introduisant une masse connue de la poudre issue du comprimé dans un volume connu de solvant",
+                "on pourra mesurer l’absorbance de l’échantillon préparé, à 243 nm"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ? En chromatographie,",
+            "options": [
+                "La phase stationnaire peut être un gaz",
+                "La phase mobile peut être un gaz",
+                "La phase mobile est toujours un liquide",
+                "La phase mobile entraîne la phase stationnaire",
+                "La phase stationnaire est toujours conditionnée dans une colonne"
+            ],
+            "correct_answers": [
+                "La phase mobile peut être un gaz"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou (lesquelles) est (sont) inexacte(s) ? En chromatographie en phase liquide, l’amélioration de la résolution entre 2 composés dépend",
+            "options": [
+                "De la longueur de la colonne",
+                "Du nombre de plateaux théoriques",
+                "De la vitesse de déroulement du papier",
+                "Du facteur de rétention du composé le plus retenu",
+                "Du facteur de sélectivité"
+            ],
+            "correct_answers": [
+                "De la vitesse de déroulement du papier"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, lesquelles sont exactes ? Vous devez préparer une solution de paracétamol à 0,02 g/L à partir d’une solution mère à 400 mg/L. Vous utilisez :",
+            "options": [
+                "une fiole jaugée de 1 L et une pipette jaugée de 50 mL",
+                "une fiole jaugée de 100 mL et une pipette jaugée de 50 mL",
+                "une fiole jaugée de 1 L et une pipette jaugée de 5 mL",
+                "une fiole jaugée de 100 mL et une pipette jaugée de 5 mL",
+                "une éprouvette d’1 L et une pipette jaugée de 50 mL"
+            ],
+            "correct_answers": [
+                "une fiole jaugée de 1 L et une pipette jaugée de 50 mL",
+                "une fiole jaugée de 100 mL et une pipette jaugée de 5 mL"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou (lesquelles) est (sont) exacte(s) ? En chromatographie en phase liquide, la résolution entre deux composés dépend :",
+            "options": [
+                "De la longueur de la colonne",
+                "De l’efficacité de la colonne",
+                "Des facteurs de rétention",
+                "De la sélectivité de la colonne",
+                "De la hauteur des pics chromatographiques"
+            ],
+            "correct_answers": [
+                "De l’efficacité de la colonne",
+                "Des facteurs de rétention",
+                "De la longueur de la colonne",
+                "De la sélectivité de la colonne"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant la loi de Beer-Lambert, indiquer la (les) proposition(s) exacte(s) :",
+            "options": [
+                "Elle s’applique aux dosages polarimétriques",
+                "Elle est valable quelle que soit la concentration de la solution",
+                "Ce n’est pas une loi additive",
+                "Elle s’applique aux dosages spectrophotométriques",
+                "Elle n’est applicable qu’en lumière polychromatique"
+            ],
+            "correct_answers": [
+                "Elle s’applique aux dosages spectrophotométriques"
+            ]
+        },
+        {
+            "question": "Quel est le nouveau pH d’une solution tampon acéto-acétique (V= 1L et C= 100 mM, pKa = 4.8) de pH 4.8 si on y ajoute 1.10 mole de soude:",
+            "options": [
+                "10",
+                "3.0",
+                "4.8",
+                "5.5",
+                "7.0-4"
+            ],
+            "correct_answers": [
+                "4.8"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les méthodes spectrales, quelles sont celles qui sont exactes ? La loi de Beer-Lambert est vérifiée pour un acide faible en spectrophotométrie d'absorption moléculaire dans l'UV si :",
+            "options": [
+                "Les cuves de mesure sont en quartz",
+                "Les solutions sont limpides",
+                "L'acide absorbe la lumière à 450 nm",
+                "Le rayonnement incident est polychromatique",
+                "La concentration est de l'ordre de la molarité"
+            ],
+            "correct_answers": [
+                "Les solutions sont limpides",
+                "Les cuves de mesure sont en quartz"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ( lesquelles) est (sont) exacte(s)? En spectrophotométrie UV moléculaire:",
+            "options": [
+                "Il est possible de doser des chromophores absorbant à 600 nm",
+                "Les cellules d'analyse sont en verre",
+                "L'absorption obéit à la loi de Beer-Lambert",
+                "La source d'émission la plus courante est une lampe au deutérium",
+                "On exploite un spectre de bandes"
+            ],
+            "correct_answers": [
+                "On exploite un spectre de bandes",
+                "La source d'émission la plus courante est une lampe au deutérium",
+                "L'absorption obéit à la loi de Beer-Lambert"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, concernant les solutions tampons, lesquelles sont exactes ?",
+            "options": [
+                "Une solution d’acide acétique 0,1 M est une solution tampon",
+                "Un mélange d’acide acétique (0,2 mol) et d’acétate d’ammonium (0,3 mol) constitue une solution tampon",
+                "La dilution d’une solution tampon modifie la valeur de son pH",
+                "L’addition d’une faible quantité d’acide ne modifie pas le pH d’une solution tampon",
+                "L’addition d’une faible quantité de base modifie le pH d’une solution tampon"
+            ],
+            "correct_answers": [
+                "Un mélange d’acide acétique (0,2 mol) et d’acétate d’ammonium (0,3 mol) constitue une solution tampon",
+                "L’addition d’une faible quantité d’acide ne modifie pas le pH d’une solution tampon"
+            ]
+        }
+    ]
+}

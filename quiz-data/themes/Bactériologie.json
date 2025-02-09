@@ -1,0 +1,812 @@
+{
+    "theme": "Bactériologie",
+    "questions": [
+        {
+            "question": "Parmi ces affirmations, laquelle (lesquelles) est (sont) fausse(s) concernant le milieu de Kligler :",
+            "options": [
+                "la lecture du milieu doit être réalisée entre 18 et 24h d'incubation",
+                "ce milieu est utilisé pour identifier des bactéries à Gram +",
+                "c'est un milieu d'identification des entérobactéries",
+                "il permet de repérer des bactéries productrices d'H2S (sulfitoréductrices)",
+                "il permet de repérer des bactéries fermentant glucose et lactose"
+            ],
+            "correct_answers": [
+                "ce milieu est utilisé pour identifier des bactéries à Gram +"
+            ]
+        },
+        {
+            "question": "Environ 80% des antibiotiques sont produits par des bactéries du genre Streptomyces . Pour isoler de nouvelles souches productrices à partir du sol, on utilise des milieux comprenant de l'amidon, de la caséine et des nitrates. Vous en déduisez que ces bactéries sont :",
+            "options": [
+                "des autotrophes",
+                "des photolithotrophes",
+                "des auxotrophes",
+                "des mésotrophes",
+                "des prototrophes"
+            ],
+            "correct_answers": [
+                "des auxotrophes"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant l'antigène O des entérobactéries qui est utilisé en épidémiologie. Il correspond à :",
+            "options": [
+                "la chaîne oligosaccharidique externe des lipopolysaccharides",
+                "des unités de glycopeptides libres",
+                "le lipide A",
+                "la lipoprotéine de Braun",
+                "une structure de flagelline"
+            ],
+            "correct_answers": [
+                "la chaîne oligosaccharidique externe des lipopolysaccharides"
+            ]
+        },
+        {
+            "question": "L'undecaprénylphosphate est nécessaire à la biosynthèse de la paroi bactérienne. Il permet :",
+            "options": [
+                "la fixation des bêta-lactamines à la paroi néoformée",
+                "aucune de ces propositions n'est exacte",
+                "le transport des unités de glycopeptides précurseurs du peptidoglycane à travers la membrane cytoplasmique",
+                "la fixation des unités de glycopeptides à la paroi néoformée",
+                "la formation du nucléotide de Park"
+            ],
+            "correct_answers": [
+                "le transport des unités de glycopeptides précurseurs du peptidoglycane à travers la membrane cytoplasmique"
+            ]
+        },
+        {
+            "question": "Parmi les caractères biochimiques suivants, quels sont ceux que l'on retrouve constamment chez Staphylococcus aureus ?",
+            "options": [
+                "présence d'un lipopolysaccharide épais",
+                "production d'une bêta-lactamase",
+                "production d'une oxydase",
+                "production d'une coagulase",
+                "production d'une catalase"
+            ],
+            "correct_answers": [
+                "production d'une coagulase",
+                "production d'une catalase"
+            ]
+        },
+        {
+            "question": "Parmi les composés ou structures suivants, quel(s) est(sont) celui(ceux) présent(s) dans la paroi de Streptococcus pyogenes ?",
+            "options": [
+                "des récepteurs pour le fragment Fc des immunoglobulines",
+                "le polysaccharide C",
+                "la protéine C réactive",
+                "la protéine M",
+                "le mucopeptide"
+            ],
+            "correct_answers": [
+                "la protéine M",
+                "le polysaccharide C",
+                "le mucopeptide"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exactes : Dans le traitement de première intention d'une tuberculose pulmonaire sans élément de résistance de l'agent causal aux antituberculeux majeurs, les molécules suivantes sont habituellement prescrites :",
+            "options": [
+                "streptomycine",
+                "pyrazinamide",
+                "éthambutol",
+                "isoniazide",
+                "rifampicine"
+            ],
+            "correct_answers": [
+                "pyrazinamide",
+                "isoniazide",
+                "éthambutol",
+                "rifampicine"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, quelle(s) est(sont) la(les) proposition(s) fausse(s) concernant Neisseria meningitidis ?",
+            "options": [
+                "elle possède une oxydase",
+                "elle est sensible à la rifampicine qui est utilisée pour la chimioprophylaxie des sujets \"contacts\"",
+                "il existe plusieurs sérogroupes définis par une protéine de membrane",
+                "c'est un pathogène strictement intracellulaire",
+                "c'est une bactérie fragile, ne résistant pas dans le milieu extérieur"
+            ],
+            "correct_answers": [
+                "il existe plusieurs sérogroupes définis par une protéine de membrane",
+                "c'est un pathogène strictement intracellulaire"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Pseudomonas aeruginosa  est une bactérie :",
+            "options": [
+                "aérobie stricte",
+                "à Gram négatif",
+                "produisant habituellement un pigment pyocyanique",
+                "produisant une oxydase",
+                "naturellement résistante à toutes les bêta-lactamines"
+            ],
+            "correct_answers": [
+                "à Gram négatif",
+                "produisant une oxydase",
+                "aérobie stricte",
+                "produisant habituellement un pigment pyocyanique"
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations, laquelle (lesquelles) est (sont) fausse(s) concernant le peptidoglycane :",
+            "options": [
+                "il est responsable de la coloration différentielle de Gram",
+                "il s'agit d'un réseau de nature glycannique et protéique",
+                "il est plus épais chez les bactéries à Gram - que chez les bactéries à Gram +",
+                "c'est un constituant de la paroi des bactéries",
+                "les bactéries à Gram négatif en sont dépourvues"
+            ],
+            "correct_answers": [
+                "les bactéries à Gram négatif en sont dépourvues",
+                "il est plus épais chez les bactéries à Gram - que chez les bactéries à Gram +"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) à propos de Vibrio cholerae :",
+            "options": [
+                "en phase aiguë de choléra, la perte liquidienne peut atteindre plusieurs litres par jour",
+                "c'est une bactérie dont l'habitat principal est l'eau",
+                "c'est une bactérie fréquemment responsable de diarrhées en Europe",
+                "le pouvoir pathogène est principalement lié à la présence de toxines",
+                "les sérogroupes O1 et O139 sont responsables de syndromes dysentériques"
+            ],
+            "correct_answers": [
+                "c'est une bactérie dont l'habitat principal est l'eau",
+                "le pouvoir pathogène est principalement lié à la présence de toxines",
+                "en phase aiguë de choléra, la perte liquidienne peut atteindre plusieurs litres par jour"
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations, laquelle (lesquelles) est (sont) fausse(s) : Quels sont les modes connus de contamination humaine par Leptospira interrogans  ?",
+            "options": [
+                "contact avec l'urine de rongeurs ou éléments souillés par l'urine des rongeurs",
+                "baignades dans des eaux naturelles (lacs, rivières, étangs)",
+                "douches",
+                "manipulation de tissus placentaires et de mises-bas d'animaux infectés",
+                "suite à une morsure de rat contaminé"
+            ],
+            "correct_answers": [
+                "douches"
+            ]
+        },
+        {
+            "question": "Parmi les bactéries suivantes, laquelle (lesquelles) n'est (ne sont) pas responsable(s) de diarrhées ?",
+            "options": [
+                "Clostridium perfringens",
+                "Streptococcus agalactiae",
+                "Escherichia coli",
+                "Salmonella  Typhimurium",
+                "Shigella sonnei"
+            ],
+            "correct_answers": [
+                "Streptococcus agalactiae"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant le vaccin antitétanique ?",
+            "options": [
+                "aucune proposition n'est exacte",
+                "il ne peut être associé à d'autres vaccins",
+                "c'est un vaccin vivant atténué",
+                "il ne doit pas être administré chez la femme enceinte",
+                "il est inutile chez des sujets guéris du tétanos"
+            ],
+            "correct_answers": [
+                "aucune proposition n'est exacte"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant Listeria monocytogenes",
+            "options": [
+                "elle est responsable d'infections néonatales sévères",
+                "elle appartient à un groupe antigénique homogène",
+                "c'est un agent responsable de la mononucléose infectieuse",
+                "c'est le premier agent responsable d'encéphalite du nourrisson",
+                "elle est sensible à l'acide nalidixique"
+            ],
+            "correct_answers": [
+                "elle est responsable d'infections néonatales sévères"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : La paroi des entérobactéries est constituée :",
+            "options": [
+                "de peptidoglycane en position externe",
+                "de lipopolysaccharides en position externe",
+                "d'acides teichoïques",
+                "de phospholipides sous la couche de lipopolysaccharides",
+                "de lipoprotéines de Braun entre le peptidoglycane et la membrane plasmique"
+            ],
+            "correct_answers": [
+                "de lipopolysaccharides en position externe",
+                "de phospholipides sous la couche de lipopolysaccharides"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Pour étudier la sensibilité des bactéries aux antibiotiques :",
+            "options": [
+                "l'antibiogramme est un test permettant d'étudier l'action de plusieurs antibiotiques sur une même souche bactérienne",
+                "une mesure de CMI est toujours effectuée",
+                "l'antibiogramme est le test le plus couramment effectué en milieu hospitalier",
+                "la CMI d'un antibiotique est le test dont l'abréviation signifie « Concentration Maximale d'Intérêt » et ce, vis-à-vis d'une souche bactérienne donnée",
+                "la CMB d'un antibiotique signifie « Concentration Minimale Bactéricide » et ce, vis-à-vis d'une souche bactérienne donnée"
+            ],
+            "correct_answers": [
+                "l'antibiogramme est le test le plus couramment effectué en milieu hospitalier",
+                "l'antibiogramme est un test permettant d'étudier l'action de plusieurs antibiotiques sur une même souche bactérienne",
+                "la CMB d'un antibiotique signifie « Concentration Minimale Bactéricide » et ce, vis-à-vis d'une souche bactérienne donnée"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Les dénombrements bactériens d'un échantillon à tester peuvent faire appel à :",
+            "options": [
+                "sa mise en culture en surface de gélose",
+                "la spectrophotométrie",
+                "sa mise en culture en milieu liquide",
+                "des méthodes mesurant une différence de potentiel",
+                "des méthodes d'observation microscopique"
+            ],
+            "correct_answers": [
+                "sa mise en culture en milieu liquide",
+                "sa mise en culture en surface de gélose",
+                "des méthodes d'observation microscopique",
+                "des méthodes mesurant une différence de potentiel",
+                "la spectrophotométrie"
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations, laquelle (lesquelles) est (sont) fausse(s) concernant la maladie de Lyme :",
+            "options": [
+                "l'érythème migrant en est le signe pathognomonique",
+                "c'est une zoonose",
+                "elle est due à une bactérie du genre Bordetella",
+                "c'est une borréliose",
+                "elle peut être à l'origine de signes cliniques divers : cutanés, articulaires, nerveux, cardiaques"
+            ],
+            "correct_answers": [
+                "elle est due à une bactérie du genre Bordetella"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) à propos d' Helicobacter pylori",
+            "options": [
+                "la majorité des sujets présentant un ulcère gastrique ou duodénal sont porteurs de cette bactérie",
+                "il s'agit d'une bactérie qui ne supporte pas les milieux à pH acide",
+                "il s'agit d'une bactérie de forme hélicoïdale qui sécrète une uréase",
+                "le test respiratoire à l'urée marquée au 13C permet un diagnostic indirect de portage de cette bactérie",
+                "le traitement des ulcères gastriques repose sur l'utilisation exclusive des inhibiteurs de pompe à proton"
+            ],
+            "correct_answers": [
+                "la majorité des sujets présentant un ulcère gastrique ou duodénal sont porteurs de cette bactérie",
+                "il s'agit d'une bactérie de forme hélicoïdale qui sécrète une uréase",
+                "le test respiratoire à l'urée marquée au 13C permet un diagnostic indirect de portage de cette bactérie"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant les macrolides",
+            "options": [
+                "ce sont des antibiotiques indiqués dans le traitement d'infections graves à bactéries multi-résistantes",
+                "ce sont des antibiotiques présentant une bonne activité sur les bactéries intracellulaires",
+                "les interactions médicamenteuses avec les macrolides sont nombreuses",
+                "ce sont des antibiotiques bactériostatiques",
+                "ce sont des antibiotiques non absorbés par voie orale"
+            ],
+            "correct_answers": [
+                "ce sont des antibiotiques bactériostatiques",
+                "ce sont des antibiotiques présentant une bonne activité sur les bactéries intracellulaires",
+                "les interactions médicamenteuses avec les macrolides sont nombreuses"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Les streptocoques",
+            "options": [
+                "sont des cocci à Gram négatif",
+                "sont aéro-anaérobies facultatifs",
+                "sont parfois pathogènes",
+                "ont une catalase",
+                "sont souvent disposés en chaînettes à l'observation microscopique"
+            ],
+            "correct_answers": [
+                "sont souvent disposés en chaînettes à l'observation microscopique",
+                "sont aéro-anaérobies facultatifs",
+                "sont parfois pathogènes"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Les toxi-infections alimentaires collectives",
+            "options": [
+                "touchent au moins deux personnes ayant partagé le même repas",
+                "impliquent un défaut majeur d'hygiène",
+                "sont à déclaration obligatoire",
+                "impliquent uniquement des bactéries",
+                "nécessitent un développement bactérien dans le tube digestif"
+            ],
+            "correct_answers": [
+                "sont à déclaration obligatoire",
+                "touchent au moins deux personnes ayant partagé le même repas"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant le syndrome de réponse inflammatoire systémique (SRIS) laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "il est constamment présent lors d'un choc septique",
+                "il est toujours accompagné d'une infection",
+                "il peut être révélé, en partie, par une température corporelle > 38°C ou < 36°C",
+                "aucune proposition n'est exacte",
+                "il peut être révélé, en partie, par une fréquence cardiaque < 60 battements/min"
+            ],
+            "correct_answers": [
+                "il est constamment présent lors d'un choc septique",
+                "il peut être révélé, en partie, par une température corporelle > 38°C ou < 36°C"
+            ]
+        },
+        {
+            "question": "Concernant l'hémoculture, quelle(s) est(sont) la(les) proposition(s) exactes(s) ?",
+            "options": [
+                "dans tous les cas, il faut prélever au moins 10 ml de sang au patient",
+                "elle doit permettre l'identification de la (des) bactérie(s) responsable(s) de l'infection",
+                "il faut la réaliser à distance des pics fébriles",
+                "elle ne permet pas la détection de Clostridium perfringens",
+                "il faut la réaliser après la mise en route des antibiotiques"
+            ],
+            "correct_answers": [
+                "elle doit permettre l'identification de la (des) bactérie(s) responsable(s) de l'infection"
+            ]
+        },
+        {
+            "question": "Le facteur F isolé chez Escherichia coli  est le prototype du plasmide conjugatif, ce qui signifie que :",
+            "options": [
+                "il peut être sous forme épisomique",
+                "après attachement de la cellule donneuse à la cellule receveuse, les deux cellules (donneuse et receveuse) répliquent un monobrin d'ADN",
+                "il possède les gènes codant pour les pili",
+                "la réplication de l'ADN plasmidique est de type bi- dimensionnel",
+                "il dispose de sa propre origine de réplication"
+            ],
+            "correct_answers": [
+                "il dispose de sa propre origine de réplication",
+                "il possède les gènes codant pour les pili",
+                "après attachement de la cellule donneuse à la cellule receveuse, les deux cellules (donneuse et receveuse) répliquent un monobrin d'ADN",
+                "il peut être sous forme épisomique"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s)",
+            "options": [
+                "la vancomycine est un aminoside",
+                "la ciprofloxacine est une fluoroquinolone",
+                "la lévofloxacine a une activité antipneumococcique",
+                "la gentamicine est un aminoside",
+                "la lévofloxacine est le dérivé lévogyre de l'ofloxacine"
+            ],
+            "correct_answers": [
+                "la gentamicine est un aminoside",
+                "la ciprofloxacine est une fluoroquinolone",
+                "la lévofloxacine est le dérivé lévogyre de l'ofloxacine",
+                "la lévofloxacine a une activité antipneumococcique"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant Clostridium perfringens",
+            "options": [
+                "peut donner des diarrhées",
+                "peut donner une gangrène gazeuse",
+                "peut sporuler",
+                "est un bacille à Gram négatif",
+                "est un anaérobie facultatif"
+            ],
+            "correct_answers": [
+                "peut donner des diarrhées",
+                "peut donner une gangrène gazeuse",
+                "peut sporuler"
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations, laquelle (lesquelles) est (sont) fausse(s) concernant la brucellose",
+            "options": [
+                "c'est une infection due à des bactéries à Gram négatif, aérobies strictes",
+                "elle peut être diagnostiquée par la technique de séroagglutination de Wright",
+                "c'est une infection asymptomatique dans 90 % des cas",
+                "dans sa phase aiguë septicémique, elle provoque une fièvre ondulante sudoro-algique",
+                "c'est une maladie strictement humaine"
+            ],
+            "correct_answers": [
+                "c'est une maladie strictement humaine"
+            ]
+        },
+        {
+            "question": "Pour la recherche de salmonelles dans des poudres, la Pharmacopée Européenne préconise d'utiliser le milieu d'enrichissement de Rappaport-V assiliadis. Il est nécessaire de vérifier les capacités inhibitrices du milieu. Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant les espèces choisies",
+            "options": [
+                "Salmonella enterica subsp.enterica  sérovar Abony",
+                "Clostridium perfringens",
+                "Salmonella enterica subsp.enterica  sérovar T yphimurium",
+                "Staphylococcus aureus",
+                "Escherichia coli"
+            ],
+            "correct_answers": [
+                "Staphylococcus aureus"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant les fluoroquinolones :",
+            "options": [
+                "les fluoroquinolones ne sont pas absorbées par voie orale",
+                "les fluoroquinolones peuvent entraîner des troubles du rythme et des torsades de pointe",
+                "ce sont des antibiotiques toujours actifs sur les staphylocoques méticilline-résistants (SARM)",
+                "les fluoroquinolones sont indiquées dans le traitement d'infections ostéoarticulaires",
+                "ce sont des antibiotiques qui agissent en inhibant la réplication de l'ADN bactérien"
+            ],
+            "correct_answers": [
+                "ce sont des antibiotiques qui agissent en inhibant la réplication de l'ADN bactérien",
+                "les fluoroquinolones sont indiquées dans le traitement d'infections ostéoarticulaires",
+                "les fluoroquinolones peuvent entraîner des troubles du rythme et des torsades de pointe"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : La coloration de Gram fait intervenir :",
+            "options": [
+                "2 étapes de lavage à l'éthanol",
+                "2 colorants",
+                "la fuchsine",
+                "le violet de gentiane",
+                "une étape utilisant un oxydant à base d'iode"
+            ],
+            "correct_answers": [
+                "2 colorants",
+                "le violet de gentiane",
+                "la fuchsine",
+                "une étape utilisant un oxydant à base d'iode"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) à propos de Clostridium difficile  :",
+            "options": [
+                "c'est un bacille à Gram positif aérobie strict non sporulant",
+                "le traitement des formes peu sévères fait appel en première intention au métronidazole per os",
+                "le pouvoir pathogène est principalement lié à la sécrétion de toxines",
+                "il est impliqué dans la survenue de diarrhées dites « post-antibiotiques »",
+                "il est responsable de diarrhées nosocomiales fréquemment récidivantes"
+            ],
+            "correct_answers": [
+                "il est responsable de diarrhées nosocomiales fréquemment récidivantes",
+                "le pouvoir pathogène est principalement lié à la sécrétion de toxines",
+                "il est impliqué dans la survenue de diarrhées dites « post-antibiotiques »",
+                "le traitement des formes peu sévères fait appel en première intention au métronidazole per os"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Salmonella enterica  est :",
+            "options": [
+                "une entérobactérie",
+                "parfois responsable de toxi-infections alimentaires collectives",
+                "entéro-invasive",
+                "capable de se développer uniquement sur des milieux hautement sélectifs",
+                "souvent transmise par des ovo-produits"
+            ],
+            "correct_answers": [
+                "parfois responsable de toxi-infections alimentaires collectives",
+                "une entérobactérie",
+                "entéro-invasive",
+                "souvent transmise par des ovo-produits"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Escherichia coli  est :",
+            "options": [
+                "catalase +",
+                "responsable d'infections urinaires",
+                "un pathogène spécifique",
+                "un pathogène opportuniste",
+                "oxydase+"
+            ],
+            "correct_answers": [
+                "un pathogène spécifique",
+                "un pathogène opportuniste",
+                "responsable d'infections urinaires",
+                "catalase +"
+            ]
+        },
+        {
+            "question": "Pour dénombrer les bactéries contaminant des comprimés comprenant des antibiotiques, il est nécessaire de neutraliser l'activité antimicrobienne. Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant les méthodes préconisées par la Pharmacopée Européenne :",
+            "options": [
+                "neutralisation de l'activité antimicrobienne par de la soude",
+                "concentration de l'échantillon",
+                "chauffage de l'échantillon à 40°C",
+                "dilution de l'échantillon",
+                "filtration de l'échantillon sur une membrane de seuil de coupure de 0.45µm"
+            ],
+            "correct_answers": [
+                "dilution de l'échantillon"
+            ]
+        },
+        {
+            "question": "Parmi les antibiotiques suivants, quels sont ceux possédant une activité anti-staphylococcique d'intérêt ?",
+            "options": [
+                "pristinamycine",
+                "tigécycline",
+                "fosfomycine",
+                "vancomycine",
+                "linézolide"
+            ],
+            "correct_answers": [
+                "vancomycine",
+                "linézolide",
+                "fosfomycine",
+                "pristinamycine",
+                "tigécycline"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant Haemophilus influenzae  ?",
+            "options": [
+                "c'est une bactérie tellurique",
+                "il est responsable de méningites chez l'enfant non vacciné",
+                "il ne se développe que sur gélose au sang frais",
+                "c'est une bactérie commensale du rhino-pharynx",
+                "il est toujours sensible à l'ampicilline"
+            ],
+            "correct_answers": [
+                "c'est une bactérie commensale du rhino-pharynx",
+                "il est responsable de méningites chez l'enfant non vacciné"
+            ]
+        },
+        {
+            "question": "Parmi ces bactéries, quelle(s) est(sont) celle(s) qui peut(peuvent) être responsable(s) de diarrhées entéro-invasives :",
+            "options": [
+                "Shigella dysenteriae",
+                "Clostridium tetani",
+                "Staphylococcus aureus",
+                "Helicobacter pylori",
+                "Salmonella enterica subsp. enterica"
+            ],
+            "correct_answers": [
+                "Salmonella enterica subsp. enterica"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Le traitement de 1ère intention de la pneumonie aiguë communautaire à pneumocoque fait appel à :",
+            "options": [
+                "une bêta-lactamine",
+                "la rifampicine",
+                "une fluoroquinolone",
+                "l'amoxicilline",
+                "la clarithromycine"
+            ],
+            "correct_answers": [
+                "l'amoxicilline",
+                "une bêta-lactamine"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) :  Legionella thermophila  :",
+            "options": [
+                "a comme habitat primitif l'eau douce",
+                "est présent dans les infections communautaires et nosocomiales",
+                "est thermophile",
+                "se développe sur des milieux conventionnels",
+                "contamine l'homme par ingestion d'eau contaminée"
+            ],
+            "correct_answers": [
+                "est thermophile",
+                "a comme habitat primitif l'eau douce",
+                "est présent dans les infections communautaires et nosocomiales"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, quelle(s) est (sont) la (les) proposition(s) fausse(s) concernant l'endocardite infectieuse ?",
+            "options": [
+                "la mise en culture du liquide péricardique permet la mise en évidence de la bactérie responsable",
+                "elle peut parfois révéler une valvulopathie jusque-là méconnue",
+                "une avulsion dentaire peut en être à l'origine",
+                "elle est principalement due à des bacilles à Gram négatif",
+                "c'est une pathologie fréquente"
+            ],
+            "correct_answers": [
+                "c'est une pathologie fréquente",
+                "elle est principalement due à des bacilles à Gram négatif",
+                "la mise en culture du liquide péricardique permet la mise en évidence de la bactérie responsable"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) concernant Streptococcus pneumoniae",
+            "options": [
+                "il est très sensible aux aminosides",
+                "c'est un diplocoque à Gram positif encapsulé",
+                "c'est un commensal du rhino-pharynx",
+                "un antigène capsulaire peut-être présent dans les urines en cas de méningite pneumococcique",
+                "il est habituellement sensible au céfotaxime"
+            ],
+            "correct_answers": [
+                "c'est un commensal du rhino-pharynx",
+                "c'est un diplocoque à Gram positif encapsulé",
+                "un antigène capsulaire peut-être présent dans les urines en cas de méningite pneumococcique",
+                "il est habituellement sensible au céfotaxime"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Une coproculture :",
+            "options": [
+                "est indiquée en cas de diarrhée sanglante",
+                "est indiquée en cas de diarrhée chronique",
+                "est indiquée chez un patient atteint de diarrhée et présentant une fièvre avec température centrale supérieure à 38°C",
+                "donne un résultat positif chez le nourrisson atteint de diarrhée dans 95% des cas",
+                "est un examen dont le résultat est transmis en 24 h au clinicien"
+            ],
+            "correct_answers": [
+                "est indiquée en cas de diarrhée sanglante",
+                "est indiquée en cas de diarrhée chronique",
+                "est indiquée chez un patient atteint de diarrhée et présentant une fièvre avec température centrale supérieure à 38°C"
+            ]
+        },
+        {
+            "question": "Parmi ces affirmations, laquelle (lesquelles) est (sont) fausse(s) concernant Francisella tularensis , bactérie agent de la tularémie :",
+            "options": [
+                "elle provoque des ulcérations cutanées associées à des adénopathies inflammatoires",
+                "les rongeurs et les lagomorphes constituent le réservoir de cette bactérie",
+                "elle peut être transmise via des piqûres de tiques",
+                "peut être un agent du bioterrorisme",
+                "c'est une bactérie spirochète"
+            ],
+            "correct_answers": [
+                "c'est une bactérie spirochète"
+            ]
+        },
+        {
+            "question": "Pour produire le vaccin Haemophilus influenzae  type b conjugué, il est nécessaire de cultiver la souche d' Haemophilus influenzae  avant d'extraire le polysaccharide vaccinant. P our assurer l'innocuité du vaccin, une stérilisation de la biomasse est donc nécessaire. Le fabricant doit assurer l'efficacité du procédé. Choisira-t-il d'appliquer une procédure avec un risque résiduel de :",
+            "options": [
+                "1/10",
+                "aucune de ces propositions",
+                "1/10",
+                "1/10",
+                "1/106",
+                "23",
+                "9",
+                "17"
+            ],
+            "correct_answers": [
+                "1/1017"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Le diagnostic indirect d'une infection bactérienne peut être établi à l'aide :",
+            "options": [
+                "de tests sérologiques",
+                "de l'observation microscopique de la bactérie issue d'un prélèvement biologique",
+                "d'une mise en évidence de l'ADN bactérien par technique d'amplification génique",
+                "d'une mise en évidence des anticorps produits par le patient infecté en réaction à l'agent bactérien causal",
+                "d'une recherche d'antigènes spécifiques de la bactérie en cause dans l'infection"
+            ],
+            "correct_answers": [
+                "de tests sérologiques",
+                "d'une mise en évidence des anticorps produits par le patient infecté en réaction à l'agent bactérien causal"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) à propos de la fièvre typhoïde :",
+            "options": [
+                "elle peut être due à plusieurs centaines de sérovars de Salmonella enterica subsp enterica",
+                "le diagnostic biologique peut être réalisé par isolement de la bactérie à partir de coprocultures",
+                "le diagnostic biologique peut être réalisé par isolement de la bactérie à partir d'hémocultures",
+                "Salmonella enterica  est un coque à Gram négatif de la famille des entérobactéries",
+                "classiquement, la phase d'état comporte une fièvre continue et un tuphos"
+            ],
+            "correct_answers": [
+                "classiquement, la phase d'état comporte une fièvre continue et un tuphos",
+                "le diagnostic biologique peut être réalisé par isolement de la bactérie à partir d'hémocultures",
+                "le diagnostic biologique peut être réalisé par isolement de la bactérie à partir de coprocultures"
+            ]
+        },
+        {
+            "question": "Parmi ces maladies, laquelle (lesquelles) est (sont) à transmission interhumaine exclusive ?",
+            "options": [
+                "la maladie de Lyme",
+                "la tularémie",
+                "la leptospirose",
+                "la syphilis",
+                "la maladie des griffes du chat"
+            ],
+            "correct_answers": [
+                "la syphilis"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Les bactéries transmises à l'homme par les animaux sont :",
+            "options": [
+                "Legionella pneumophila",
+                "Brucella melitensis",
+                "Chlamydia psittaci",
+                "Listeria monocytogenes",
+                "Treponema pallidum"
+            ],
+            "correct_answers": [
+                "Chlamydia psittaci",
+                "Listeria monocytogenes",
+                "Brucella melitensis"
+            ]
+        },
+        {
+            "question": "Un flacon aérobie d'hémoculture revient positif à Staphylococcus epidermidis chez un patient apyrétique ; tous les autres flacons des 3 séries prélevées demeurent stériles. Quelle(s) conclusion(s) peut-on en tirer ? :",
+            "options": [
+                "il s'agit probablement d'une contamination par la flore cutanée du patient",
+                "il s'agit probablement d'une contamination par la flore oro-pharyngée du préleveur",
+                "il s'agit d'une infection certaine",
+                "une antibiothérapie IV est recommandée",
+                "même en cas de contamination, une antibioprophylaxie per os est indiquée"
+            ],
+            "correct_answers": [
+                "il s'agit probablement d'une contamination par la flore cutanée du patient"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, indiquez la(les) proposition(s) exacte(s) : Dans un biofilm bactérien :",
+            "options": [
+                "les bactéries sont recouvertes d'une couche polysaccharidique",
+                "la multiplication des bactéries est très ralentie",
+                "les bactéries mobiles possèdent leurs flagelles",
+                "les antibiotiques pénètrent difficilement",
+                "les bactéries sont à l'abri de la phagocytose"
+            ],
+            "correct_answers": [
+                "la multiplication des bactéries est très ralentie",
+                "les bactéries sont recouvertes d'une couche polysaccharidique",
+                "les bactéries mobiles possèdent leurs flagelles",
+                "les antibiotiques pénètrent difficilement",
+                "les bactéries sont à l'abri de la phagocytose"
+            ]
+        },
+        {
+            "question": "Concernant la sensibilité aux antibiotiques de Pseudomonas aeruginosa , quelle(s) est (sont) la (les) proposition(s) exacte(s) parmi les propositions suivantes ?",
+            "options": [
+                "il produit naturellement une céphalosporinase",
+                "la résistance à l'imipénème est toujours de type enzymatique",
+                "le cotrimoxazole garde une grande activité sur les souches communautaires",
+                "il est constamment sensible à l'amoxicilline",
+                "il est toujours résistant à l'association amoxicilline-acide clavulanique"
+            ],
+            "correct_answers": [
+                "il produit naturellement une céphalosporinase",
+                "il est toujours résistant à l'association amoxicilline-acide clavulanique"
+            ]
+        },
+        {
+            "question": "L'opisthotonos est un signe clinique qu'il est classique d'observer lors :",
+            "options": [
+                "de la gangrène gazeuse",
+                "de la méningo-encéphalite herpétique",
+                "de la blennorragie",
+                "du choléra",
+                "du tétanos"
+            ],
+            "correct_answers": [
+                "du tétanos"
+            ]
+        },
+        {
+            "question": "La résistance aux antibiotiques chez E. coli  est souvent le résultat de l'acquisition de plasmides mais également d'autres éléments génétiques. Lors d'une épidémie de gastroentérites, il est apparu que la souche d' E.coli  pathogène hébergeait deux plasmides et un prophage codant pour la toxine Shiga. Le fait d'héberger un prophage signifie que :",
+            "options": [
+                "la souche d' E.coli  a subi une transformation",
+                "la souche d' E.coli  a subi une mutation",
+                "un des plasmides est sous forme épisomique",
+                "la souche d' E.coli  a accumulé des transposons",
+                "la souche d' E.coli  a été infectée par un virus"
+            ],
+            "correct_answers": [
+                "la souche d' E.coli  a été infectée par un virus"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant Escherichia coli , laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "c'est une bactérie anaérobie stricte",
+                "elle est fréquemment responsable d'infections urinaires",
+                "elle est toujours sensible aux céphalosporines",
+                "elle cultive sur gélose ordinaire sans facteurs de croissance",
+                "elle ne fermente jamais le lactose"
+            ],
+            "correct_answers": [
+                "elle cultive sur gélose ordinaire sans facteurs de croissance",
+                "elle est fréquemment responsable d'infections urinaires"
+            ]
+        }
+    ]
+}

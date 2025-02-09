@@ -1,0 +1,952 @@
+{
+    "theme": "Hématologie",
+    "questions": [
+        {
+            "question": "Parmi les propositions suivantes relatives à la vitamine B12, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Les réserves de l’organisme en vitamine B12 sont suffisantes pour 3 à 4 ans",
+                "Les régimes végétariens peuvent être responsables de carences en vitamine B12",
+                "La vitamine B12, associée au facteur intrinsèque de Castle est absorbée au niveau de l’iléon distale",
+                "Les carences en vitamine B12 sont en général responsables d’anémies macrocytaires",
+                "Une carence en vitamine B12 induit un ralentissement de la biosynthèse d’ADN touchant tous les tissus à index mitotique élevé"
+            ],
+            "correct_answers": [
+                "La vitamine B12, associée au facteur intrinsèque de Castle est absorbée au niveau de l’iléon distale",
+                "Les carences en vitamine B12 sont en général responsables d’anémies macrocytaires",
+                "Une carence en vitamine B12 induit un ralentissement de la biosynthèse d’ADN touchant tous les tissus à index mitotique élevé",
+                "Les réserves de l’organisme en vitamine B12 sont suffisantes pour 3 à 4 ans"
+            ]
+        },
+        {
+            "question": "Une diminution du taux de facteur VIII peut être l’expression d’une ou plusieurs des affections suivantes. La(les)quelle(s) ?",
+            "options": [
+                "un traitement par aspirine",
+                "une hypovitaminose K",
+                "une hémophilie B",
+                "une maladie de Willebrand",
+                "une thrombopathie"
+            ],
+            "correct_answers": [
+                "une maladie de Willebrand"
+            ]
+        },
+        {
+            "question": "Concernant la leucémie lymphoïde chronique, sélectionnez la ou les proposition(s) fausse(s).",
+            "options": [
+                "Le score de Matutes contribue au diagnostic différentiel",
+                "La leucémie lymphoïde chronique est fréquente chez l’enfant",
+                "Le lymphocyte de leucémie lymphoïde chronique est une cellule lymphoïde B mature",
+                "L’immunophénotypage des lymphocytes sanguins est indispensable au diagnostic",
+                "Le myélogramme est indispensable au diagnostic"
+            ],
+            "correct_answers": [
+                "La leucémie lymphoïde chronique est fréquente chez l’enfant",
+                "Le myélogramme est indispensable au diagnostic"
+            ]
+        },
+        {
+            "question": "Parmi les signes suivants, quels sont ceux que l’on ne rencontre pas dans le cadre du diagnostic d’une gammapathie monoclonale de signification indéterminée (MGUS) ?",
+            "options": [
+                "Lésions ostéolytiques",
+                "Pic monoclonal sérique à IgG kappa",
+                "Hypercalcémie",
+                "Plasmocytose médullaire à 20%",
+                "Insuffisance rénale"
+            ],
+            "correct_answers": [
+                "Plasmocytose médullaire à 20%",
+                "Hypercalcémie",
+                "Lésions ostéolytiques",
+                "Insuffisance rénale"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Le diagnostic de certitude d’une anémie ferriprive repose sur le myélogramme",
+                "Dans la maladie de Biermer, l’hémogramme permet d’affirmer la mégaloblastose",
+                "En pratique, la cytochimie de la myéloperoxydase est indispensable dans le diagnostic d’une leucémie aigue",
+                "Une hyperéosinophilie sanguine est définie par des polynucléaires éosinophiles sanguins supérieurs à 20% des leucocytes totaux",
+                "Une numération plaquettaire normale sur tube citraté permet d’éliminer une fausse thrombopénie à l’ED TA"
+            ],
+            "correct_answers": [
+                "Dans la maladie de Biermer, l’hémogramme permet d’affirmer la mégaloblastose",
+                "En pratique, la cytochimie de la myéloperoxydase est indispensable dans le diagnostic d’une leucémie aigue",
+                "Une hyperéosinophilie sanguine est définie par des polynucléaires éosinophiles sanguins supérieurs à 20% des leucocytes totaux"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou lesquelles ne s’applique(nt) pas aux syndromes myélodysplasiques ?",
+            "options": [
+                "Leur fréquence augmente avec l’âge",
+                "L’anémie est le plus souvent microcytaire",
+                "Ils peuvent être secondaires à une chimiothérapie cytotoxique",
+                "Le caryotype est un facteur pronostique majeur",
+                "Ils sont caractérisés par une dysmyélopoïèse"
+            ],
+            "correct_answers": [
+                "L’anémie est le plus souvent microcytaire"
+            ]
+        },
+        {
+            "question": "Au cours d’un syndrome de coagulation intravasculaire disséminé (CIVD), on observe généralement",
+            "options": [
+                "une anémie hémolytique d’origine mécanique",
+                "une augmentation du taux circulant de fibrinogène",
+                "un TCA supérieur à 1.2 fois le T CA témoin",
+                "une diminution des taux circulants de D-dimères",
+                "une thrombopénie"
+            ],
+            "correct_answers": [
+                "une thrombopénie",
+                "une anémie hémolytique d’origine mécanique",
+                "un TCA supérieur à 1.2 fois le TCA témoin"
+            ]
+        },
+        {
+            "question": "Parmi les cellules suivantes, laquelle (lesquelles) est (sont) observée(s) sur un frottis sanguin coloré au May-Grünwald Giemsa d’un sujet sain",
+            "options": [
+                "Polynucléaires éosinophiles",
+                "Blastes",
+                "Mégacaryocytes",
+                "Plasmocytes",
+                "Réticulocytes"
+            ],
+            "correct_answers": [
+                "Polynucléaires éosinophiles"
+            ]
+        },
+        {
+            "question": "Quels sont les signes biologiques associés à l’hyperhémolyse",
+            "options": [
+                "L’élévation de la bilirubine libre",
+                "Microcytose",
+                "L’élévation des ASA T",
+                "La diminution de l’haptoglobine",
+                "L’élévation des LDH"
+            ],
+            "correct_answers": [
+                "L’élévation de la bilirubine libre",
+                "L’élévation des LDH",
+                "La diminution de l’haptoglobine"
+            ]
+        },
+        {
+            "question": "A l’occasion d’une visite d’embauche dans une usine de fabrication de solvants, Monsieur M..20 ans, d’origine algérienne a réalisé un hémogramme dont les résultats sont les suivants : Hématies : 6,76 T/L. Hb : 122g/L. V GM : 68fl. T CMH : 18pg. Leucocytes : 6G/L. Plaquettes : 275G/L. la formule leucocytaire est normale",
+            "options": [
+                "L’hémogramme montre une polyglobulie microcytaire hypochrome",
+                "Le mode de transmission de la β thalassémie est lié à l’X",
+                "L’exposition chronique aux solvants est une cause d’aplasie médullaire",
+                "Dans la β thalassémie hétérozygote, l’électrophorèse de l’hémoglobine met en évidence une augmentation de l’Hb A2 > 30%",
+                "Le diagnostic de β thalassémie mineure au doit être évoqué"
+            ],
+            "correct_answers": [
+                "L’hémogramme montre une polyglobulie microcytaire hypochrome",
+                "Le diagnostic de β thalassémie mineure au doit être évoqué",
+                "L’exposition chronique aux solvants est une cause d’aplasie médullaire"
+            ]
+        },
+        {
+            "question": "Un adolescent originaire d’Afrique Noire est admis aux urgences pour une crise douloureuse abdominale fébrile. L’examen clinique révèle une splénomégalie et un ictère conjonctival L’hémogramme montre les résultats suivants : Hb : 80g/L. V GM : 85 fl. TCMH : 28,8pg. Leucocytes : 11G/L. Plaquettes : 300G/L. R éticulocytes : 320G/L. Veuillez choisir au moins une réponse :",
+            "options": [
+                "L’anomalie à rechercher sur le frottis est la présence d’hématies falciformes ou drépanocytes",
+                "Le traitement de l’anémie hémolytique de la drépanocytose homozygote repose sur la splénectomie",
+                "Le diagnostic le plus probable évoqué est celui d’une drépanocytose hétérozygote",
+                "Dans la drépanocytose majeure, l’électrophorèse de l’hémoglobine montre la présence d’hémoglobine S à un taux supérieur à 70% ainsi qu’une augmentation de l’HbF ; l’hémoglobine A1 est proche de 15%",
+                "Le diagnostic hématologique est une anémie sévère normocytaire, normochrome et régénérative à caractère probablement hémolytique"
+            ],
+            "correct_answers": [
+                "Le diagnostic hématologique est une anémie sévère normocytaire, normochrome et régénérative à caractère probablement hémolytique",
+                "L’anomalie à rechercher sur le frottis est la présence d’hématies falciformes ou drépanocytes"
+            ]
+        },
+        {
+            "question": "Quelle(s) est (sont) la (les) proposition(s) exacte(s) concernant la maladie hémolytique du nouveau-né dans le système Rhésus ?",
+            "options": [
+                "Elle survient chez la mère Rhésus positif portant un enfant Rhésus négatif",
+                "Elle est liée au fait que l’antigène D est peu immunogène",
+                "Elle survient toujours lors d'une première grossesse",
+                "Elle peut être prévenue par l'injection d'immunoglobulines anti-D",
+                "Elle est liée au passage transplacentaire d'immunoglobulines de type IgM"
+            ],
+            "correct_answers": [
+                "Elle peut être prévenue par l'injection d'immunoglobulines anti-D"
+            ]
+        },
+        {
+            "question": "Concernant la leucémie myéloïde chronique, quelles sont les propositions fausses ?",
+            "options": [
+                "Le myélogramme permet de déterminer la phase de la maladie (chronique, accélérée, ou blastique)",
+                "Une hyperéosinophilie peut être observée au diagnostic",
+                "Les cellules leucémiques présentent un blocage de maturation",
+                "Il n’existe pas d’anomalie cytogénétique récurrente dans cette maladie",
+                "Le traitement repose principalement sur des inhibiteurs de tyrosine kinase"
+            ],
+            "correct_answers": [
+                "Les cellules leucémiques présentent un blocage de maturation",
+                "Il n’existe pas d’anomalie cytogénétique récurrente dans cette maladie"
+            ]
+        },
+        {
+            "question": "Quelle(s) maladie(s) se complique(nt) souvent d’une anémie hémolytique auto-immune ?",
+            "options": [
+                "Leucémie aiguë myéloïde",
+                "Lupus érythémateux disséminé",
+                "Leucémie myéloïde chronique",
+                "Leucémie aiguë lymphoïde",
+                "Leucémie lymphoïde chronique"
+            ],
+            "correct_answers": [
+                "Leucémie lymphoïde chronique",
+                "Lupus érythémateux disséminé"
+            ]
+        },
+        {
+            "question": "L’hémophilie A :",
+            "options": [
+                "est de transmission autosomique dominante",
+                "est plus fréquente que l’hémophilie B",
+                "présente les mêmes manifestations cliniques que l’hémophilie B",
+                "entraine plutôt des hémorragies cutanéo-muqueuses",
+                "est qualifiée de sévère pour des taux de F acteur VIII entre 1 et 5%"
+            ],
+            "correct_answers": [
+                "présente les mêmes manifestations cliniques que l’hémophilie B",
+                "est plus fréquente que l’hémophilie B"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives aux cellules souches hématopoïétiques, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Elles ont une capacité de “homing” pour la moelle osseuse, ce qui signifie qu’elles retournent dans la moelle osseuse après injection I.V.",
+                "Elles expriment l’antigène CD34",
+                "Elles peuvent être conservées dans l’azote liquide pour une utilisation ultérieure",
+                "Elles présentent des capacités d’autorenouvellement et de différenciation",
+                "Le G-CSF est utilisé pour les mobiliser dans la circulation sanguine"
+            ],
+            "correct_answers": [
+                "Elles peuvent être conservées dans l’azote liquide pour une utilisation ultérieure",
+                "Elles présentent des capacités d’autorenouvellement et de différenciation",
+                "Elles expriment l’antigène CD34",
+                "Elles ont une capacité de “homing” pour la moelle osseuse, ce qui signifie qu’elles retournent dans la moelle osseuse après injection I.V.",
+                "Le G-CSF est utilisé pour les mobiliser dans la circulation sanguine"
+            ]
+        },
+        {
+            "question": "Parmi les drogues suivantes, quelles sont celles qui constituent la base du traitement des leucémies aiguës myéloïdes (L AM) ?",
+            "options": [
+                "Anthracyclines",
+                "Aracytine",
+                "Vincristine",
+                "Corticoïdes",
+                "Bortézomib"
+            ],
+            "correct_answers": [
+                "Anthracyclines",
+                "Aracytine"
+            ]
+        },
+        {
+            "question": "sélectionnez la ou les proposition(s) vraie(s).",
+            "options": [
+                "L’association d’une thrombopénie et d’une anémie hémolytique avec présence de schizocytes fait évoquer le diagnostic de microangiopathie thrombotique (MA T)",
+                "L’hyperlymphocytose est définie par un % de lymphocytes supérieur à 60%",
+                "Le tabagisme chronique peut induire une polynucléose neutrophile",
+                "À l'arrêt du médicament responsable d'un épisode d'agranulocytose aiguë médicamenteuse, l’apparition d’une monocytose annonce la normalisation ultérieure du nombre de PNN",
+                "Une étiologie infectieuse doit être recherchée en priorité face à une agranulocytose"
+            ],
+            "correct_answers": [
+                "Le tabagisme chronique peut induire une polynucléose neutrophile",
+                "À l'arrêt du médicament responsable d'un épisode d'agranulocytose aiguë médicamenteuse, l’apparition d’une monocytose annonce la normalisation ultérieure du nombre de PNN",
+                "L’association d’une thrombopénie et d’une anémie hémolytique avec présence de schizocytes fait évoquer le diagnostic de microangiopathie thrombotique (MA T)"
+            ]
+        },
+        {
+            "question": "Quels sont les arguments clinico-biologiques en faveur d’une polyglobulie primitive de type maladie de V aquez ?",
+            "options": [
+                "Présence de la mutation V617F du gène JAK2",
+                "Thrombocytose",
+                "Adénopathies",
+                "Taux d’érythopoïétine sérique augmenté",
+                "Splénomégalie"
+            ],
+            "correct_answers": [
+                "Splénomégalie",
+                "Thrombocytose",
+                "Présence de la mutation V617F du gène JAK2"
+            ]
+        },
+        {
+            "question": "Parmi les situations suivantes, lesquelles peuvent entrainer une hyperéosinophilie sanguine?",
+            "options": [
+                "Traitements médicamenteux",
+                "Dermatose atopique",
+                "Paludisme",
+                "Asthme allergique",
+                "Infection par Anguillulose"
+            ],
+            "correct_answers": [
+                "Dermatose atopique",
+                "Infection par Anguillulose",
+                "Asthme allergique",
+                "Traitements médicamenteux"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle ou lesquelles s’applique(nt) aux leucémies aiguës lymphoïdes (LAL)?",
+            "options": [
+                "L’immunophénotypage n’est pas indispensable au diagnostic",
+                "L’envahissement tumoral est limité à la moelle osseuse et au sang périphérique",
+                "Les blastes sont généralement dépourvus de granulations",
+                "La morphologie des blastes peut faire suspecter une LAL de type Burkitt",
+                "La translocation t(14;18) est caractéristique d’une LAL de type Burkitt"
+            ],
+            "correct_answers": [
+                "Les blastes sont généralement dépourvus de granulations",
+                "La morphologie des blastes peut faire suspecter une LAL de type Burkitt"
+            ]
+        },
+        {
+            "question": "Les propositions suivantes sont relatives aux Micro Angiopathies Thrombotiques (MAT)",
+            "options": [
+                "Dans le purpura thrombotique thrombocytopénique (PTT), la présence d’auto-anticorps antiplaquettaire est responsable de la thrombopénie",
+                "Dans le SHU classique, la présence de diarrhées glairo-sanglantes est fréquemment rapportée",
+                "Dans le SHU, contrairement au PTT, la présence de schizocytes est inconstante",
+                "Le traitement d’urgence des PTT repose sur les échanges plasmatiques",
+                "Le SHU classique est le plus souvent associé à la présence d’E.Coli O157 H7 producteur de verotoxine"
+            ],
+            "correct_answers": [
+                "Le traitement d’urgence des PTT repose sur les échanges plasmatiques",
+                "Dans le SHU classique, la présence de diarrhées glairo-sanglantes est fréquemment rapportée",
+                "Le SHU classique est le plus souvent associé à la présence d’E.Coli O157 H7 producteur de verotoxine"
+            ]
+        },
+        {
+            "question": "Parmi les examens suivants, lesquels peuvent contribuer à établir le diagnostic de syndrome myélodysplasique ?",
+            "options": [
+                "Caryotype",
+                "Coloration de Perls",
+                "Hémogramme",
+                "Myélogramme",
+                "Dosage de la ferritinémie"
+            ],
+            "correct_answers": [
+                "Hémogramme",
+                "Myélogramme",
+                "Coloration de P erls",
+                "Caryotype"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les groupes sanguins, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Les sujets de groupe sanguin AB peuvent recevoir des hématies des groupes A, B, AB et O et sont considérés comme « receveur universel »",
+                "La réalisation d'un groupage ABO nécessite 2 épreuves : une épreuve globulaire (méthode de Beth-Vincent) et une épreuve plasmatique (méthode de Simonin)",
+                "Dans le système ABO, il ne faut jamais transfuser à un malade un antigène contre lequel il possède l'anticorps dans son plasma",
+                "Les sujets de groupe sanguin O sont considérées comme « donneur universel »",
+                "Les sujets de groupe A peuvent recevoir des hématies des groupes O, B et AB"
+            ],
+            "correct_answers": [
+                "Les sujets de groupe sanguin O sont considérées comme « donneur universel »",
+                "Les sujets de groupe sanguin AB peuvent recevoir des hématies des groupes A, B, AB et O et sont considérés comme « receveur universel »",
+                "Dans le système ABO, il ne faut jamais transfuser à un malade un antigène contre lequel il possède l'anticorps dans son plasma",
+                "La réalisation d'un groupage ABO nécessite 2 épreuves : une épreuve globulaire (méthode de Beth-Vincent) et une épreuve plasmatique (méthode de Simonin)"
+            ]
+        },
+        {
+            "question": "Parmi les hémopathies suivantes, quelles sont celles qui peuvent s’accompagner d’une pancytopénie ?",
+            "options": [
+                "Syndromes myélodysplasiques",
+                "Leucémie aiguë lymphoïde",
+                "Polyglobulie de V aquez",
+                "Leucémie aiguë promyélocytaire",
+                "Leucémie myéloïde chronique en phase chronique"
+            ],
+            "correct_answers": [
+                "Leucémie aiguë promyélocytaire",
+                "Leucémie aiguë lymphoïde",
+                "Syndromes myélodysplasiques"
+            ]
+        },
+        {
+            "question": "Concernant les anti-vitamine K :",
+            "options": [
+                "Ils ne sont jamais administrés en urgence",
+                "Ils ont un effet anticoagulant qui persiste plusieurs jours à l’arrêt du traitement",
+                "Chez un malade équilibré et stable sous traitement anti-vitamines K depuis plus d'un mois, il faut faire un INR toutes les semaines",
+                "Ils peuvent être administré pendant toute la grossesse",
+                "Ils inhibent la synthèse d’antithrombine"
+            ],
+            "correct_answers": [
+                "Ils ont un effet anticoagulant qui persiste plusieurs jours à l’arrêt du traitement",
+                "Ils ne sont jamais administrés en urgence"
+            ]
+        },
+        {
+            "question": "Les propositions suivantes sont relatives aux anémies ferriprives",
+            "options": [
+                "Le coefficient de saturation de la transferrine est diminué",
+                "L’anémie est classiquement microcytaire et hypochrome",
+                "La ferritinémie est diminuée",
+                "La numération des réticulocytes est habituellement ≥ 100 G/L",
+                "Une hyperbilirubinémie libre est observée"
+            ],
+            "correct_answers": [
+                "L’anémie est classiquement microcytaire et hypochrome",
+                "Le coefficient de saturation de la transferrine est diminué",
+                "La ferritinémie est diminuée"
+            ]
+        },
+        {
+            "question": "Laquelle/lesquelles de ces complications peut/peuvent survenir dans l’évolution d’une leucémie lymphoïde chronique ?",
+            "options": [
+                "Amylose",
+                "Syndrome de Richter",
+                "Transformation en leucémie aiguë myéloïde",
+                "Thrombopénie auto-immune",
+                "Transformation en leucémie aiguë lymphoïde"
+            ],
+            "correct_answers": [
+                "Thrombopénie auto-immune",
+                "Syndrome de Richter"
+            ]
+        },
+        {
+            "question": "sélectionnez la ou les proposition(s) correcte(s).",
+            "options": [
+                "Dans les TIH, la baisse de la numération plaquettaire apparaît classiquement entre le 5 et le 21 jour après le début de l’héparinothérapie",
+                "La ½ vie plaquettaire est raccourcie dans les thrombopénies de mécanisme central",
+                "Dans un contexte de thrombopénie, le risque d’hémorragie spontanée apparaît dès que la numération plaquettaire est inférieure à 100 G/L",
+                "Dans les anémies hémolytiques auto-immunes, le test de Coombs direct est positif",
+                "La valeur de la numération plaquettaire définissant une thrombopénie est de 150G/L"
+            ],
+            "correct_answers": [
+                "La valeur de la numération plaquettaire définissant une thrombopénie est de 150G/L",
+                "Dans les TIH, la baisse de la numération plaquettaire apparaît classiquement entre le 5 et le 21 jour après le début de l’héparinothérapie",
+                "Dans les anémies hémolytiques auto-immunes, le test de Coombs direct est positif"
+            ]
+        },
+        {
+            "question": "Parmi les valeurs suivantes, quelles sont celles qui peuvent être retrouvées dans un hémogramme normal ?",
+            "options": [
+                "Volume globulaire moyen de 80 à 120 fl",
+                "Polynucléaires neutrophiles de 4 à 10 G/L",
+                "Hémoglobine de 100 à 160 g/L",
+                "Lymphocytes de 1 à 4 G/L",
+                "Thrombocytes de 150 à 450 G/L"
+            ],
+            "correct_answers": [
+                "Lymphocytes de 1 à 4 G/L",
+                "Thrombocytes de 150 à 450 G/L"
+            ]
+        },
+        {
+            "question": "Quels sont les paramètres permettant de distinguer une anémie par carence martiale d’une anémie inflammatoire ?",
+            "options": [
+                "La concentration de fer sérique",
+                "La ferritinémie",
+                "Le taux d’hémoglobine",
+                "Le taux de fibrinogène",
+                "Le volume globulaire moyen"
+            ],
+            "correct_answers": [
+                "La ferritinémie",
+                "Le taux de fibrinogène"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives aux réticulocytes, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Le stade réticulocyte est obtenu après expulsion du noyau de l’érythroblaste acidophile",
+                "Un taux de réticulocytes à 50 G/L permet d’affirmer l’origine centrale d’une anémie",
+                "Ils sont morphologiquement reconnaissables sur un frottis sanguin coloré au May Grünwald Giemsa",
+                "Les anémies hémolytiques sont des anémies régénératives associées à une hyperréticulocytose",
+                "Les réticulocytes sont des cellules immatures exclusivement retrouvées dans la moelle osseuse"
+            ],
+            "correct_answers": [
+                "Le stade réticulocyte est obtenu après expulsion du noyau de l’érythroblaste acidophile",
+                "Un taux de réticulocytes à 50 G/L permet d’affirmer l’origine centrale d’une anémie",
+                "Les anémies hémolytiques sont des anémies régénératives associées à une hyperréticulocytose"
+            ]
+        },
+        {
+            "question": "Concernant les leucémies aiguës, sélectionnez la ou les proposition(s) exacte(s).",
+            "options": [
+                "Les cellules leucémiques présentent un blocage de maturation",
+                "La réaction cytochimique de la myéloperoxydase peut orienter le diagnostic",
+                "Elles se définissent par la présence d’au moins 20% de blastes dans la moelle osseuse",
+                "Elles peuvent se manifester par un syndrome d’insuffisance médullaire",
+                "Chez l’enfant, les leucémies aiguës lymphoïdes sont plus fréquentes que les leucémies aiguës myéloïdes"
+            ],
+            "correct_answers": [
+                "Elles se définissent par la présence d’au moins 20% de blastes dans la moelle osseuse",
+                "Les cellules leucémiques présentent un blocage de maturation",
+                "La réaction cytochimique de la myéloperoxydase peut orienter le diagnostic",
+                "Elles peuvent se manifester par un syndrome d’insuffisance médullaire",
+                "Chez l’enfant, les leucémies aiguës lymphoïdes sont plus fréquentes que les leucémies aiguës myéloïdes"
+            ]
+        },
+        {
+            "question": "Dans les microangiopathies thrombotiques, il est habituel de retrouver :",
+            "options": [
+                "Des schizocytes sur le frottis",
+                "Des sphérocytes sur le frottis",
+                "Une hyper-réticulocytose",
+                "Une élévation des LDH",
+                "Une baisse de l’haptoglobine"
+            ],
+            "correct_answers": [
+                "Une hyper-réticulocytose",
+                "Des schizocytes sur le frottis",
+                "Une élévation des LDH",
+                "Une baisse de l’haptoglobine"
+            ]
+        },
+        {
+            "question": "Citer parmi les propositions suivantes, laquelle (lesquelles) peut (peuvent) être à l'origine d'un syndrome de coagulation intravasculaire disséminée (CIVD) :",
+            "options": [
+                "Grossesse pathologique",
+                "Chirurgie lourde",
+                "Septicémie bactérienne",
+                "Leucémie aiguë promyélocytaire (L AM 3)",
+                "Cancer métastasé"
+            ],
+            "correct_answers": [
+                "Septicémie bactérienne",
+                "Chirurgie lourde",
+                "Grossesse pathologique",
+                "Leucémie aiguë promyélocytaire (L AM 3)",
+                "Cancer métastasé"
+            ]
+        },
+        {
+            "question": "Parmi les valeurs suivantes concernant l’hémogramme d’une femme enceinte en fin de 3  trimestre de grossesse, indiquez celle(s) qui vous semble(nt) pathologique(s) :",
+            "options": [
+                "Polynucléaires neutrophiles : 7.10 /L",
+                "Hb : 100g/L",
+                "Monocytes : 2.10 /L",
+                "Plaquettes : 110.10 /L",
+                "VGM : 105fl"
+            ],
+            "correct_answers": [
+                "Polynucléaires neutrophiles : 7.10 /L",
+                "Plaquettes : 110.10 /L",
+                "Monocytes : 2.10 /L"
+            ]
+        },
+        {
+            "question": "Sélectionnez la ou les propositions exactes :",
+            "options": [
+                "Dans les PT AI aigus, les Ig polyvalentes purifiées par voie IV (ou IgG anti Rhésus D ) sont utilisées en traitement d’urgence afin de réduire le risque hémorragique",
+                "Les anti-inflammatoires non stéroïdiens sont responsables d’agranulocytose",
+                "Le PT AI de l’enfant se présente généralement sous la forme d’une thrombopénie isolée aigue et sévère dans les suites d’un épisode infectieux viral",
+                "Dans une anémie régénérative, un Coombs indirect positif permet de poser le diagnostic d’anémie hémolytique auto-imune (AHAI)",
+                "Une polyglobulie microcytaire chez un patient d’origine marocaine doit faire évoquer le diagnostic de thalassémie hétérozygote"
+            ],
+            "correct_answers": [
+                "Les anti-inflammatoires non stéroïdiens sont responsables d’agranulocytose",
+                "Dans les PT AI aigus, les Ig polyvalentes purifiées par voie IV (ou IgG anti Rhésus D ) sont utilisées en traitement d’urgence afin de réduire le risque hémorragique",
+                "Le PT AI de l’enfant se présente généralement sous la forme d’une thrombopénie isolée aigue et sévère dans les suites d’un épisode infectieux viral",
+                "Une polyglobulie microcytaire chez un patient d’origine marocaine doit faire évoquer le diagnostic de thalassémie hétérozygote"
+            ]
+        },
+        {
+            "question": "Parmi les étiologies suivantes, lesquelles peuvent être responsables de carences en vitamine B12 ?",
+            "options": [
+                "Traitements par la colchicine",
+                "Résections de l’iléon",
+                "Maladie de Biermer",
+                "Traitements par les Hydantoines",
+                "Gastrectomies"
+            ],
+            "correct_answers": [
+                "Gastrectomies",
+                "Traitements par les Hydantoines",
+                "Maladie de Biermer",
+                "Résections de l’iléon",
+                "Traitements par la colchicine"
+            ]
+        },
+        {
+            "question": "Quelle(s) est (sont) la (les) proposition(s) exacte(s) concernant la thrombopénie de type II induite par l'héparine:",
+            "options": [
+                "Elle survient toujours après plus de 21 jours de traitement par l'héparine",
+                "Le risque majeur de ces thrombopénies est un risque hémorragique",
+                "Elle est liée à la production d’auto-anticorps anti-plaquettes dirigés contre la glycoprotéine plaquettaire Gp IIb-IIIa",
+                "Elle peut survenir quels que soit la voie d’administration, la dose ou le type d’héparine",
+                "Elle ne nécessite pas d'arrêt du traitement par l'héparine"
+            ],
+            "correct_answers": [
+                "Elle peut survenir quels que soit la voie d’administration, la dose ou le type d’héparine"
+            ]
+        },
+        {
+            "question": "Lors d’une carence en fer,",
+            "options": [
+                "La ferritinémie est élevée",
+                "Le taux de transferrine est diminué",
+                "La capacité ́ totale de fixation de la transferrine est élevée",
+                "Le taux de fer sérique est abaissé",
+                "Le coefficient de saturation de la transferrine est élevé"
+            ],
+            "correct_answers": [
+                "La capacité ́ totale de fixation de la transferrine est élevée",
+                "Le taux de fer sérique est abaissé"
+            ]
+        },
+        {
+            "question": "La présence d’une basophilie sanguine est un signe évocateur de :",
+            "options": [
+                "Leucémie aiguë promyélocytaire (L AM3)",
+                "Leucémie myéloïde chronique",
+                "Leucémie aiguë myéloïde avec maturation granulocytaire (L AM2)",
+                "Leucémie aiguë myéloïde avec inv(16) ou t(16;16)",
+                "Syndrome myélodysplasique"
+            ],
+            "correct_answers": [
+                "Leucémie myéloïde chronique"
+            ]
+        },
+        {
+            "question": "Parmi les étiologies suivantes, lesquelles peuvent être responsables de carences en folates ?",
+            "options": [
+                "Alimentation végétarienne stricte",
+                "Insuffisants rénaux chroniques hémodialysés",
+                "Ankylostomiase",
+                "Traitements par le Méthotrexate",
+                "Syndrome des anses borgnes"
+            ],
+            "correct_answers": [
+                "Insuffisants rénaux chroniques hémodialysés",
+                "Traitements par le Méthotrexate"
+            ]
+        },
+        {
+            "question": "L’hémogramme suivant réalisé chez un homme de 57 ans traduit :\nHématies: 4,8 T/L\nHémoglobine: 140 g/L\nVGM: 95fL, C CMH : 34%\nLeucocytes: 8 G/L\nPolynucléaires neutrophiles : 5 G/L, polynucléaires éosinophiles : 0,4 G/L, lymphocytes : 3 G/L, monocytes : 0,6 G/L.\nPlaquettes: 230G/L",
+            "options": [
+                "Une anémie normocytaire normochrome",
+                "Des résultats normaux",
+                "Une hyperéosinophilie",
+                "Une neutropénie",
+                "Une polyglobulie"
+            ],
+            "correct_answers": [
+                "Des résultats normaux"
+            ]
+        },
+        {
+            "question": "Concernant les leucémies aiguës myéloïdes (L AM), quelles sont les propositions exactes ?",
+            "options": [
+                "Le caryotype est essentiel à l’évaluation du pronostic de la maladie",
+                "Un syndrome de leucostase peut survenir en cas de L AM hyperleucocytaire",
+                "La classification OMS des L AM repose uniquement sur les critères cytologiques",
+                "Le risque de CIVD est important en cas de leucémie aiguë promyélocytaire (L AM3)",
+                "Les L AM4 à éosinophiles sont associées à une inv(16) ou t(16;16)"
+            ],
+            "correct_answers": [
+                "Un syndrome de leucostase peut survenir en cas de L AM hyperleucocytaire",
+                "Le risque de CIVD est important en cas de leucémie aiguë promyélocytaire (L AM3)",
+                "Les L AM4 à éosinophiles sont associées à une inv(16) ou t(16;16)",
+                "Le caryotype est essentiel à l’évaluation du pronostic de la maladie"
+            ]
+        },
+        {
+            "question": "Concernant les Héparines de Bas P oids Moléculaire (HBPM) administrées à doses curatives :",
+            "options": [
+                "Elles allongent le T CA",
+                "Leur surveillance peut s'effectuer par l'évaluation de l'activité anti-Xa",
+                "Elles sont capables de diffuser à travers la barrière foeto-placentaire et sont donc contre-indiquées chez la femme enceinte",
+                "Elles n’entrainent pas de thrombopénies induites par l’héparine",
+                "Elles sont contre-indiquées dans les insuffisances rénales sévères"
+            ],
+            "correct_answers": [
+                "Leur surveillance peut s'effectuer par l'évaluation de l'activité anti-Xa",
+                "Elles sont contre-indiquées dans les insuffisances rénales sévères"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes, laquelle (ou lesquelles) peut (peuvent) être à l’origine d’une anémie d’origine centrale ?",
+            "options": [
+                "Une carence en vitamines B12 ou en folates",
+                "L’envahissement métastatique de la moelle osseuse",
+                "Une myélofibrose",
+                "Une aplasie médullaire médicamenteuse",
+                "Une hémorragie digestive"
+            ],
+            "correct_answers": [
+                "Une aplasie médullaire médicamenteuse",
+                "L’envahissement métastatique de la moelle osseuse",
+                "Une myélofibrose",
+                "Une carence en vitamines B12 ou en folates"
+            ]
+        },
+        {
+            "question": "Quelles propositions s’appliquent à un relai héparine-A VK ?",
+            "options": [
+                "Les doses d’héparine sont réduites de moitié lors de l’introduction du traitement A VK",
+                "A son introduction, le traitement A VK est administré en fonction du poids du patient",
+                "Le traitement par A VK débute à l’arrêt de l’héparinothérapie",
+                "Le traitement par A VK débute avant l’arrêt de l’héparinothérapie",
+                "L’arrêt de l’héparine est effectué lorsque 2 INR successifs sont obtenus dans la zone thérapeutique recherchée, à 24h d’intervalle"
+            ],
+            "correct_answers": [
+                "Le traitement par A VK débute avant l’arrêt de l’héparinothérapie",
+                "L’arrêt de l’héparine est effectué lorsque 2 INR successifs sont obtenus dans la zone thérapeutique recherchée, à 24h d’intervalle"
+            ]
+        },
+        {
+            "question": "Chez une femme de 25 ans présentant une asthénie avec pâleur, l’hémogramme met en évidence une anémie microcytaire hypochrome et arégénérative. Quel(s) est/sont le(s) examen(s) biologique(s) d’intérêt pour le diagnostic ?",
+            "options": [
+                "L’électrophorèse de l’hémoglobine",
+                "Un dosage de la vitamine B12 et des folates sériques",
+                "Le Coombs direct",
+                "Le myélogramme",
+                "Le dosage de la ferritinémie"
+            ],
+            "correct_answers": [
+                "Le dosage de la ferritinémie"
+            ]
+        },
+        {
+            "question": "Concernant le lymphome folliculaire, sélectionnez la ou les proposition(s) exacte(s).",
+            "options": [
+                "Les adénopathies sont rares au moment du diagnostic",
+                "Les cellules lymphomateuses correspondent à des cellules lymphoïdes B CD5+",
+                "Les cellules lymphomateuses ont une morphologie identique à celle des lymphocytes normaux",
+                "Présence quasi constante de la translocation  t(11;14)(q13;q32)",
+                "Il peut se transformer en lymphome diffus à grandes cellules B"
+            ],
+            "correct_answers": [
+                "Il peut se transformer en lymphome diffus à grandes cellules B"
+            ]
+        },
+        {
+            "question": "Concernant le Dabigatran (Pradaxa®) :",
+            "options": [
+                "Il s’agit d’un anticoagulant",
+                "C’est un antiviral anti-VIH",
+                "C’est un inhibiteur indirect de la thrombine, actif par voie orale",
+                "Il nécessite une surveillance de la fonction rénale, au minimum, 1 à 2 fois par an",
+                "Il présente une demi-vie longue (36 à 48h)"
+            ],
+            "correct_answers": [
+                "Il s’agit d’un anticoagulant",
+                "Il nécessite une surveillance de la fonction rénale, au minimum, 1 à 2 fois par an"
+            ]
+        },
+        {
+            "question": "Parmi les étiologies suivantes, lesquelles sont responsables d’anémie ferriprives ?",
+            "options": [
+                "Maladie de Willebrand chez une femme non ménopausée",
+                "Régimes végétariens",
+                "Cancer du colon",
+                "Fibrome utérin",
+                "Hernie hiatale"
+            ],
+            "correct_answers": [
+                "Régimes végétariens",
+                "Maladie de Willebrand chez une femme non ménopausée",
+                "Cancer du colon",
+                "Fibrome utérin",
+                "Hernie hiatale"
+            ]
+        },
+        {
+            "question": "Dans quel(les) situation(s) peut-on observer des réticulocytes sanguins supérieurs à 100 G/L ?",
+            "options": [
+                "Une aplasie médullaire",
+                "Une maladie de Minkowski-Chauffard",
+                "Une anémie hémolytique auto-immune (AHAI)",
+                "Une carence martiale en cours de traitement",
+                "Une maladie de Biermer non traitée"
+            ],
+            "correct_answers": [
+                "Une carence martiale en cours de traitement",
+                "Une anémie hémolytique auto-immune (AHAI)",
+                "Une maladie de Minkowski-Chauffard"
+            ]
+        },
+        {
+            "question": "En cas de suspicion de myélome, devant une hypogammaglobulinémie sans immunoglobuline monoclonale, on doit envisager :",
+            "options": [
+                "Un myélome à IgD",
+                "Un myélome à IgA",
+                "Un myélome non secrétant",
+                "Un myélome à chaînes légères",
+                "Un autre diagnostic qu’un myélome"
+            ],
+            "correct_answers": [
+                "Un myélome à chaînes légères",
+                "Un myélome non secrétant",
+                "Un autre diagnostic qu’un myélome"
+            ]
+        },
+        {
+            "question": "Quelle(s) est (sont) la (les) proposition(s) exacte(s) concernant la maladie de Willebrand :",
+            "options": [
+                "Elle est liée à une anomalie qualitative ou quantitative du facteur Willebrand",
+                "Le facteur VIII peut être abaissé dans cette maladie",
+                "C'est la plus fréquente des anomalies constitutionnelles de l'hémostase",
+                "Elle touche uniquement les sujets de sexe masculin",
+                "Ses manifestations cliniques sont principalement des hémorragies cutanéo-muqueuses"
+            ],
+            "correct_answers": [
+                "C'est la plus fréquente des anomalies constitutionnelles de l'hémostase",
+                "Elle est liée à une anomalie qualitative ou quantitative du facteur Willebrand",
+                "Le facteur VIII peut être abaissé dans cette maladie",
+                "Ses manifestations cliniques sont principalement des hémorragies cutanéo-muqueuses"
+            ]
+        },
+        {
+            "question": "L’insuffisance hépatocellulaire sévère s’accompagne habituellement d’un défaut de synthèse d’une ou plusieurs protéines de la coagulation. La(les)quelle(s) ?",
+            "options": [
+                "Le facteur V",
+                "Le facteur Willebrand",
+                "Le facteur VII",
+                "La protéine C",
+                "L’antithrombine"
+            ],
+            "correct_answers": [
+                "Le facteur VII",
+                "Le facteur V",
+                "L’antithrombine",
+                "La protéine C"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes relatives à l'érythropoïèse, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "L'acide ascorbique favorise l'absorption intestinale du fer",
+                "L'absorption intestinale du fer a lieu essentiellement au niveau du duodénum",
+                "Le fer provenant de la dégradation physiologique de l'hémoglobine est réutilisé essentiellement pour l'érythropoïèse",
+                "Le fer est à l'état ferreux dans l'hémoglobine",
+                "La protéine de transport plasmatique du fer est la ferritine"
+            ],
+            "correct_answers": [
+                "L'acide ascorbique favorise l'absorption intestinale du fer",
+                "L'absorption intestinale du fer a lieu essentiellement au niveau du duodénum",
+                "Le fer provenant de la dégradation physiologique de l'hémoglobine est réutilisé essentiellement pour l'érythropoïèse",
+                "Le fer est à l'état ferreux dans l'hémoglobine"
+            ]
+        },
+        {
+            "question": "Dans une anémie de type inflammatoire, on observe généralement :",
+            "options": [
+                "Une discrète hyperlymphocytose",
+                "Une accélération de la VS",
+                "Une discrète thrombocytose",
+                "Une hyposidérémie",
+                "Une augmentation de la capacité totale de fixation de la transferrine"
+            ],
+            "correct_answers": [
+                "Une hyposidérémie",
+                "Une accélération de la VS",
+                "Une discrète thrombocytose"
+            ]
+        },
+        {
+            "question": "Parmi les propositions suivantes concernant les groupes sanguins, laquelle (lesquelles) est (sont) exacte(s) ?",
+            "options": [
+                "Un sujet de groupe O Rhésus négatif peut être transfusé avec du sang de groupe O Rhésus positif",
+                "La méthode globulaire de Beth-Vincent permet de rechercher les antigènes du système ABO à la surface des globules rouges",
+                "Il est nécessaire de réaliser 2 prélèvements différents pour valider une carte de groupe sanguin",
+                "Les anticorps naturels du système ABO sont d’isotype IgM",
+                "Les sujets de groupe AB n’ont pas d’anticorps naturels anti-A et anti-B"
+            ],
+            "correct_answers": [
+                "Les anticorps naturels du système ABO sont d’isotype IgM",
+                "Les sujets de groupe AB n’ont pas d’anticorps naturels anti-A et anti-B",
+                "La méthode globulaire de Beth-Vincent permet de rechercher les antigènes du système ABO à la surface des globules rouges",
+                "Il est nécessaire de réaliser 2 prélèvements différents pour valider une carte de groupe sanguin"
+            ]
+        },
+        {
+            "question": "Une anémie macrocytaire arégénérative doit faire rechercher :",
+            "options": [
+                "Une anémie par carence en folates",
+                "Un syndrome myélodysplasique",
+                "Une anémie inflammatoire",
+                "Une carence en vitamine C",
+                "Une maladie de Biermer"
+            ],
+            "correct_answers": [
+                "Un syndrome myélodysplasique",
+                "Une maladie de Biermer",
+                "Une anémie par carence en folates"
+            ]
+        },
+        {
+            "question": "Au cours de l’hémophilie A, quelle(s) anomalie(s) biologique(s) peut-on observer ?",
+            "options": [
+                "Allongement du T emps de Céphaline + Activateur (T CA)",
+                "Thrombopénie",
+                "Déficit en facteur Willebrand",
+                "Taux de prothrombine normal (> 70%)",
+                "Déficit en facteur VIII"
+            ],
+            "correct_answers": [
+                "Déficit en facteur VIII",
+                "Allongement du T emps de Céphaline + Activateur (T CA)",
+                "Taux de prothrombine normal (> 70%)"
+            ]
+        },
+        {
+            "question": "Les anomalies suivantes peuvent être responsables d’hémorragies",
+            "options": [
+                "Un déficit en protéine C",
+                "Un déficit en FVIII",
+                "Un déficit en FXII",
+                "Un anticoagulant circulant de type lupique",
+                "Un déficit en FXI"
+            ],
+            "correct_answers": [
+                "Un déficit en FVIII",
+                "Un déficit en FXI"
+            ]
+        },
+        {
+            "question": "Concernant le fibrinogène",
+            "options": [
+                "Il est synthétisé au niveau hépatique",
+                "Sa concentration plasmatique diminue en cas de syndrome inflammatoire",
+                "Il est transformé en fibrine par la thrombine",
+                "Il est inhibé par les traitements A VK",
+                "Il intervient dans l’hémostase primaire"
+            ],
+            "correct_answers": [
+                "Il est synthétisé au niveau hépatique",
+                "Il intervient dans l’hémostase primaire",
+                "Il est transformé en fibrine par la thrombine"
+            ]
+        },
+        {
+            "question": "Parmi ces éléments, lesquels exposent à un risque accru de thrombose veineuse profonde ?",
+            "options": [
+                "Un alitement prolongé",
+                "Un déficit en antithrombine",
+                "Un déficit en facteur V",
+                "Une grossesse",
+                "Un cancer actif"
+            ],
+            "correct_answers": [
+                "Un cancer actif",
+                "Un alitement prolongé",
+                "Un déficit en antithrombine",
+                "Une grossesse"
+            ]
+        },
+        {
+            "question": "Toutes ces indications des anti-vitamines K nécessitent un INR compris entre 2 et 3 sauf une, laquelle ?",
+            "options": [
+                "Prothèse valvulaire mécanique",
+                "Fibrillation auriculaire",
+                "Embolie pulmonaire",
+                "Prothèse valvulaire biologique",
+                "Thrombose veineuse profonde des membres inférieurs"
+            ],
+            "correct_answers": [
+                "Prothèse valvulaire mécanique"
+            ]
+        }
+    ]
+}
